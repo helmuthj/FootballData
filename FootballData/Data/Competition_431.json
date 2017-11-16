@@ -1,0 +1,6802 @@
+[
+    {
+        "awayTeamId": 44,
+        "awayTeamName": "1. FC Heidenheim 1846",
+        "competitionId": 431,
+        "date": "2016-03-17T17:30:00Z",
+        "homeTeamId": 33,
+        "homeTeamName": "Eintracht Braunschweig",
+        "id": 152344,
+        "matchday": 25,
+        "odds": {
+            "awayWin": 3.75,
+            "draw": 3.3,
+            "homeWin": 2.0
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 3,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 8,
+        "awayTeamName": "Hannover 96",
+        "competitionId": 431,
+        "date": "2016-08-05T18:30:00Z",
+        "homeTeamId": 13,
+        "homeTeamName": "1. FC Kaiserslautern",
+        "id": 152564,
+        "matchday": 1,
+        "odds": null,
+        "result": {
+            "goalsAwayTeam": 4,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 32,
+        "awayTeamName": "Karlsruher SC",
+        "competitionId": 431,
+        "date": "2016-08-07T11:30:00Z",
+        "homeTeamId": 38,
+        "homeTeamName": "Arminia Bielefeld",
+        "id": 152556,
+        "matchday": 1,
+        "odds": {
+            "awayWin": 2.62,
+            "draw": 3.0,
+            "homeWin": 2.62
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 0
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 28,
+        "awayTeamName": "1. FC Union Berlin",
+        "competitionId": 431,
+        "date": "2016-08-07T11:30:00Z",
+        "homeTeamId": 36,
+        "homeTeamName": "VfL Bochum",
+        "id": 152557,
+        "matchday": 1,
+        "odds": {
+            "awayWin": 3.3,
+            "draw": 3.3,
+            "homeWin": 2.05
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 2
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 14,
+        "awayTeamName": "1. FC Nürnberg",
+        "competitionId": 431,
+        "date": "2016-08-07T11:30:00Z",
+        "homeTeamId": 35,
+        "homeTeamName": "Dynamo Dresden",
+        "id": 152558,
+        "matchday": 1,
+        "odds": null,
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 1055,
+        "awayTeamName": "Würzburger Kickers",
+        "competitionId": 431,
+        "date": "2016-08-07T11:30:00Z",
+        "homeTeamId": 33,
+        "homeTeamName": "Eintracht Braunschweig",
+        "id": 152559,
+        "matchday": 1,
+        "odds": {
+            "awayWin": 4.2,
+            "draw": 3.3,
+            "homeWin": 1.83
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 2
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 26,
+        "awayTeamName": "TSV 1860 München",
+        "competitionId": 431,
+        "date": "2016-08-07T11:30:00Z",
+        "homeTeamId": 21,
+        "homeTeamName": "SpVgg Greuther Fürth",
+        "id": 152560,
+        "matchday": 1,
+        "odds": null,
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 1
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 22,
+        "awayTeamName": "Erzgebirge Aue",
+        "competitionId": 431,
+        "date": "2016-08-07T11:30:00Z",
+        "homeTeamId": 44,
+        "homeTeamName": "1. FC Heidenheim 1846",
+        "id": 152561,
+        "matchday": 1,
+        "odds": {
+            "awayWin": 3.4,
+            "draw": 3.1,
+            "homeWin": 2.1
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 1
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 24,
+        "awayTeamName": "Fortuna Düsseldorf",
+        "competitionId": 431,
+        "date": "2016-08-07T11:30:00Z",
+        "homeTeamId": 46,
+        "homeTeamName": "SV Sandhausen",
+        "id": 152562,
+        "matchday": 1,
+        "odds": null,
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 2
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 20,
+        "awayTeamName": "FC St. Pauli",
+        "competitionId": 431,
+        "date": "2016-08-07T11:30:00Z",
+        "homeTeamId": 10,
+        "homeTeamName": "VfB Stuttgart",
+        "id": 152563,
+        "matchday": 1,
+        "odds": {
+            "awayWin": 4.75,
+            "draw": 3.5,
+            "homeWin": 1.7
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 2
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 46,
+        "awayTeamName": "SV Sandhausen",
+        "competitionId": 431,
+        "date": "2016-08-12T16:30:00Z",
+        "homeTeamId": 22,
+        "homeTeamName": "Erzgebirge Aue",
+        "id": 152548,
+        "matchday": 2,
+        "odds": {
+            "awayWin": 3.25,
+            "draw": 3.2,
+            "homeWin": 2.25
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 2
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 44,
+        "awayTeamName": "1. FC Heidenheim 1846",
+        "competitionId": 431,
+        "date": "2016-08-12T16:30:00Z",
+        "homeTeamId": 14,
+        "homeTeamName": "1. FC Nürnberg",
+        "id": 152552,
+        "matchday": 2,
+        "odds": {
+            "awayWin": 4.0,
+            "draw": 3.3,
+            "homeWin": 1.95
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 10,
+        "awayTeamName": "VfB Stuttgart",
+        "competitionId": 431,
+        "date": "2016-08-12T18:30:00Z",
+        "homeTeamId": 24,
+        "homeTeamName": "Fortuna Düsseldorf",
+        "id": 152549,
+        "matchday": 2,
+        "odds": {
+            "awayWin": 2.1,
+            "draw": 3.25,
+            "homeWin": 3.5
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 1
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 36,
+        "awayTeamName": "VfL Bochum",
+        "competitionId": 431,
+        "date": "2016-08-13T11:00:00Z",
+        "homeTeamId": 32,
+        "homeTeamName": "Karlsruher SC",
+        "id": 152551,
+        "matchday": 2,
+        "odds": {
+            "awayWin": 2.8,
+            "draw": 3.1,
+            "homeWin": 2.6
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 33,
+        "awayTeamName": "Eintracht Braunschweig",
+        "competitionId": 431,
+        "date": "2016-08-13T13:30:00Z",
+        "homeTeamId": 20,
+        "homeTeamName": "FC St. Pauli",
+        "id": 152553,
+        "matchday": 2,
+        "odds": {
+            "awayWin": 3.2,
+            "draw": 3.1,
+            "homeWin": 2.3
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 0
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 21,
+        "awayTeamName": "SpVgg Greuther Fürth",
+        "competitionId": 431,
+        "date": "2016-08-14T11:30:00Z",
+        "homeTeamId": 8,
+        "homeTeamName": "Hannover 96",
+        "id": 152550,
+        "matchday": 2,
+        "odds": {
+            "awayWin": 4.0,
+            "draw": 3.5,
+            "homeWin": 1.83
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 3
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 13,
+        "awayTeamName": "1. FC Kaiserslautern",
+        "competitionId": 431,
+        "date": "2016-08-14T13:30:00Z",
+        "homeTeamId": 1055,
+        "homeTeamName": "Würzburger Kickers",
+        "id": 152555,
+        "matchday": 2,
+        "odds": {
+            "awayWin": 2.87,
+            "draw": 3.0,
+            "homeWin": 2.45
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 38,
+        "awayTeamName": "Arminia Bielefeld",
+        "competitionId": 431,
+        "date": "2016-08-14T13:30:00Z",
+        "homeTeamId": 26,
+        "homeTeamName": "TSV 1860 München",
+        "id": 152547,
+        "matchday": 2,
+        "odds": {
+            "awayWin": 3.0,
+            "draw": 3.2,
+            "homeWin": 2.25
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 1
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 35,
+        "awayTeamName": "Dynamo Dresden",
+        "competitionId": 431,
+        "date": "2016-08-15T18:15:00Z",
+        "homeTeamId": 28,
+        "homeTeamName": "1. FC Union Berlin",
+        "id": 152554,
+        "matchday": 2,
+        "odds": {
+            "awayWin": 3.25,
+            "draw": 3.2,
+            "homeWin": 2.15
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 2
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 8,
+        "awayTeamName": "Hannover 96",
+        "competitionId": 431,
+        "date": "2016-08-26T16:30:00Z",
+        "homeTeamId": 36,
+        "homeTeamName": "VfL Bochum",
+        "id": 152539,
+        "matchday": 3,
+        "odds": null,
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 26,
+        "awayTeamName": "TSV 1860 München",
+        "competitionId": 431,
+        "date": "2016-08-27T11:30:00Z",
+        "homeTeamId": 32,
+        "homeTeamName": "Karlsruher SC",
+        "id": 152545,
+        "matchday": 3,
+        "odds": null,
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 0
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 1055,
+        "awayTeamName": "Würzburger Kickers",
+        "competitionId": 431,
+        "date": "2016-08-28T11:30:00Z",
+        "homeTeamId": 44,
+        "homeTeamName": "1. FC Heidenheim 1846",
+        "id": 152543,
+        "matchday": 3,
+        "odds": null,
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 1
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 22,
+        "awayTeamName": "Erzgebirge Aue",
+        "competitionId": 431,
+        "date": "2016-08-28T11:30:00Z",
+        "homeTeamId": 21,
+        "homeTeamName": "SpVgg Greuther Fürth",
+        "id": 152542,
+        "matchday": 3,
+        "odds": null,
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 3
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 14,
+        "awayTeamName": "1. FC Nürnberg",
+        "competitionId": 431,
+        "date": "2016-08-28T11:30:00Z",
+        "homeTeamId": 33,
+        "homeTeamName": "Eintracht Braunschweig",
+        "id": 152541,
+        "matchday": 3,
+        "odds": null,
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 6
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 20,
+        "awayTeamName": "FC St. Pauli",
+        "competitionId": 431,
+        "date": "2016-08-28T11:30:00Z",
+        "homeTeamId": 35,
+        "homeTeamName": "Dynamo Dresden",
+        "id": 152540,
+        "matchday": 3,
+        "odds": null,
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 1
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 28,
+        "awayTeamName": "1. FC Union Berlin",
+        "competitionId": 431,
+        "date": "2016-08-28T11:30:00Z",
+        "homeTeamId": 38,
+        "homeTeamName": "Arminia Bielefeld",
+        "id": 152538,
+        "matchday": 3,
+        "odds": null,
+        "result": {
+            "goalsAwayTeam": 4,
+            "goalsHomeTeam": 4
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 10,
+        "awayTeamName": "VfB Stuttgart",
+        "competitionId": 431,
+        "date": "2016-08-28T11:30:00Z",
+        "homeTeamId": 46,
+        "homeTeamName": "SV Sandhausen",
+        "id": 152546,
+        "matchday": 3,
+        "odds": null,
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 1
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 24,
+        "awayTeamName": "Fortuna Düsseldorf",
+        "competitionId": 431,
+        "date": "2016-08-29T18:15:00Z",
+        "homeTeamId": 13,
+        "homeTeamName": "1. FC Kaiserslautern",
+        "id": 152544,
+        "matchday": 3,
+        "odds": {
+            "awayWin": 3.75,
+            "draw": 3.25,
+            "homeWin": 2.0
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 33,
+        "awayTeamName": "Eintracht Braunschweig",
+        "competitionId": 431,
+        "date": "2016-09-09T16:30:00Z",
+        "homeTeamId": 22,
+        "homeTeamName": "Erzgebirge Aue",
+        "id": 152529,
+        "matchday": 4,
+        "odds": {
+            "awayWin": 2.37,
+            "draw": 3.3,
+            "homeWin": 2.9
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 0
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 44,
+        "awayTeamName": "1. FC Heidenheim 1846",
+        "competitionId": 431,
+        "date": "2016-09-09T16:30:00Z",
+        "homeTeamId": 10,
+        "homeTeamName": "VfB Stuttgart",
+        "id": 152535,
+        "matchday": 4,
+        "odds": {
+            "awayWin": 4.0,
+            "draw": 3.5,
+            "homeWin": 1.85
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 1
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 36,
+        "awayTeamName": "VfL Bochum",
+        "competitionId": 431,
+        "date": "2016-09-09T16:30:00Z",
+        "homeTeamId": 1055,
+        "homeTeamName": "Würzburger Kickers",
+        "id": 152537,
+        "matchday": 4,
+        "odds": {
+            "awayWin": 3.0,
+            "draw": 3.1,
+            "homeWin": 2.4
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 2
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 38,
+        "awayTeamName": "Arminia Bielefeld",
+        "competitionId": 431,
+        "date": "2016-09-10T11:00:00Z",
+        "homeTeamId": 20,
+        "homeTeamName": "FC St. Pauli",
+        "id": 152534,
+        "matchday": 4,
+        "odds": {
+            "awayWin": 3.1,
+            "draw": 3.2,
+            "homeWin": 2.25
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 2
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 32,
+        "awayTeamName": "Karlsruher SC",
+        "competitionId": 431,
+        "date": "2016-09-10T11:00:00Z",
+        "homeTeamId": 28,
+        "homeTeamName": "1. FC Union Berlin",
+        "id": 152536,
+        "matchday": 4,
+        "odds": {
+            "awayWin": 3.25,
+            "draw": 3.25,
+            "homeWin": 2.1
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 4
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 13,
+        "awayTeamName": "1. FC Kaiserslautern",
+        "competitionId": 431,
+        "date": "2016-09-11T11:30:00Z",
+        "homeTeamId": 46,
+        "homeTeamName": "SV Sandhausen",
+        "id": 152533,
+        "matchday": 4,
+        "odds": {
+            "awayWin": 2.37,
+            "draw": 3.1,
+            "homeWin": 2.9
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 2
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 35,
+        "awayTeamName": "Dynamo Dresden",
+        "competitionId": 431,
+        "date": "2016-09-11T11:30:00Z",
+        "homeTeamId": 8,
+        "homeTeamName": "Hannover 96",
+        "id": 152531,
+        "matchday": 4,
+        "odds": {
+            "awayWin": 3.9,
+            "draw": 3.7,
+            "homeWin": 1.8
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 0
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 21,
+        "awayTeamName": "SpVgg Greuther Fürth",
+        "competitionId": 431,
+        "date": "2016-09-11T11:30:00Z",
+        "homeTeamId": 24,
+        "homeTeamName": "Fortuna Düsseldorf",
+        "id": 152530,
+        "matchday": 4,
+        "odds": {
+            "awayWin": 2.8,
+            "draw": 3.25,
+            "homeWin": 2.37
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 26,
+        "awayTeamName": "TSV 1860 München",
+        "competitionId": 431,
+        "date": "2016-09-12T18:15:00Z",
+        "homeTeamId": 14,
+        "homeTeamName": "1. FC Nürnberg",
+        "id": 152532,
+        "matchday": 4,
+        "odds": null,
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 1
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 28,
+        "awayTeamName": "1. FC Union Berlin",
+        "competitionId": 431,
+        "date": "2016-09-16T16:30:00Z",
+        "homeTeamId": 26,
+        "homeTeamName": "TSV 1860 München",
+        "id": 152520,
+        "matchday": 5,
+        "odds": null,
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 1
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 14,
+        "awayTeamName": "1. FC Nürnberg",
+        "competitionId": 431,
+        "date": "2016-09-16T16:30:00Z",
+        "homeTeamId": 36,
+        "homeTeamName": "VfL Bochum",
+        "id": 152522,
+        "matchday": 5,
+        "odds": null,
+        "result": {
+            "goalsAwayTeam": 4,
+            "goalsHomeTeam": 5
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 1055,
+        "awayTeamName": "Würzburger Kickers",
+        "competitionId": 431,
+        "date": "2016-09-16T16:30:00Z",
+        "homeTeamId": 21,
+        "homeTeamName": "SpVgg Greuther Fürth",
+        "id": 152525,
+        "matchday": 5,
+        "odds": null,
+        "result": {
+            "goalsAwayTeam": 3,
+            "goalsHomeTeam": 0
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 46,
+        "awayTeamName": "SV Sandhausen",
+        "competitionId": 431,
+        "date": "2016-09-17T11:00:00Z",
+        "homeTeamId": 33,
+        "homeTeamName": "Eintracht Braunschweig",
+        "id": 152524,
+        "matchday": 5,
+        "odds": null,
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 2
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 24,
+        "awayTeamName": "Fortuna Düsseldorf",
+        "competitionId": 431,
+        "date": "2016-09-17T11:00:00Z",
+        "homeTeamId": 44,
+        "homeTeamName": "1. FC Heidenheim 1846",
+        "id": 152526,
+        "matchday": 5,
+        "odds": null,
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 2
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 10,
+        "awayTeamName": "VfB Stuttgart",
+        "competitionId": 431,
+        "date": "2016-09-17T11:00:00Z",
+        "homeTeamId": 13,
+        "homeTeamName": "1. FC Kaiserslautern",
+        "id": 152527,
+        "matchday": 5,
+        "odds": null,
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 0
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 20,
+        "awayTeamName": "FC St. Pauli",
+        "competitionId": 431,
+        "date": "2016-09-18T11:30:00Z",
+        "homeTeamId": 32,
+        "homeTeamName": "Karlsruher SC",
+        "id": 152528,
+        "matchday": 5,
+        "odds": {
+            "awayWin": 3.2,
+            "draw": 3.1,
+            "homeWin": 2.25
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 8,
+        "awayTeamName": "Hannover 96",
+        "competitionId": 431,
+        "date": "2016-09-18T11:30:00Z",
+        "homeTeamId": 38,
+        "homeTeamName": "Arminia Bielefeld",
+        "id": 152521,
+        "matchday": 5,
+        "odds": {
+            "awayWin": 2.37,
+            "draw": 3.3,
+            "homeWin": 2.87
+        },
+        "result": {
+            "goalsAwayTeam": 3,
+            "goalsHomeTeam": 3
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 22,
+        "awayTeamName": "Erzgebirge Aue",
+        "competitionId": 431,
+        "date": "2016-09-18T11:30:00Z",
+        "homeTeamId": 35,
+        "homeTeamName": "Dynamo Dresden",
+        "id": 152523,
+        "matchday": 5,
+        "odds": {
+            "awayWin": 3.4,
+            "draw": 3.3,
+            "homeWin": 2.1
+        },
+        "result": {
+            "goalsAwayTeam": 3,
+            "goalsHomeTeam": 0
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 33,
+        "awayTeamName": "Eintracht Braunschweig",
+        "competitionId": 431,
+        "date": "2016-09-20T15:30:00Z",
+        "homeTeamId": 10,
+        "homeTeamName": "VfB Stuttgart",
+        "id": 152518,
+        "matchday": 6,
+        "odds": {
+            "awayWin": 3.4,
+            "draw": 3.4,
+            "homeWin": 2.1
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 2
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 44,
+        "awayTeamName": "1. FC Heidenheim 1846",
+        "competitionId": 431,
+        "date": "2016-09-20T15:30:00Z",
+        "homeTeamId": 46,
+        "homeTeamName": "SV Sandhausen",
+        "id": 152516,
+        "matchday": 6,
+        "odds": {
+            "awayWin": 2.62,
+            "draw": 3.1,
+            "homeWin": 2.75
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 0
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 21,
+        "awayTeamName": "SpVgg Greuther Fürth",
+        "competitionId": 431,
+        "date": "2016-09-20T15:30:00Z",
+        "homeTeamId": 14,
+        "homeTeamName": "1. FC Nürnberg",
+        "id": 152515,
+        "matchday": 6,
+        "odds": {
+            "awayWin": 3.1,
+            "draw": 3.4,
+            "homeWin": 2.2
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 36,
+        "awayTeamName": "VfL Bochum",
+        "competitionId": 431,
+        "date": "2016-09-20T15:30:00Z",
+        "homeTeamId": 24,
+        "homeTeamName": "Fortuna Düsseldorf",
+        "id": 152512,
+        "matchday": 6,
+        "odds": {
+            "awayWin": 2.7,
+            "draw": 3.2,
+            "homeWin": 2.6
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 3
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 38,
+        "awayTeamName": "Arminia Bielefeld",
+        "competitionId": 431,
+        "date": "2016-09-21T15:30:00Z",
+        "homeTeamId": 22,
+        "homeTeamName": "Erzgebirge Aue",
+        "id": 152511,
+        "matchday": 6,
+        "odds": {
+            "awayWin": 2.9,
+            "draw": 3.1,
+            "homeWin": 2.37
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 32,
+        "awayTeamName": "Karlsruher SC",
+        "competitionId": 431,
+        "date": "2016-09-21T15:30:00Z",
+        "homeTeamId": 8,
+        "homeTeamName": "Hannover 96",
+        "id": 152513,
+        "matchday": 6,
+        "odds": {
+            "awayWin": 4.8,
+            "draw": 3.7,
+            "homeWin": 1.65
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 35,
+        "awayTeamName": "Dynamo Dresden",
+        "competitionId": 431,
+        "date": "2016-09-21T15:30:00Z",
+        "homeTeamId": 13,
+        "homeTeamName": "1. FC Kaiserslautern",
+        "id": 152514,
+        "matchday": 6,
+        "odds": {
+            "awayWin": 3.1,
+            "draw": 3.2,
+            "homeWin": 2.25
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 3,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 28,
+        "awayTeamName": "1. FC Union Berlin",
+        "competitionId": 431,
+        "date": "2016-09-21T15:30:00Z",
+        "homeTeamId": 1055,
+        "homeTeamName": "Würzburger Kickers",
+        "id": 152519,
+        "matchday": 6,
+        "odds": {
+            "awayWin": 2.9,
+            "draw": 3.0,
+            "homeWin": 2.45
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 26,
+        "awayTeamName": "TSV 1860 München",
+        "competitionId": 431,
+        "date": "2016-09-22T18:15:00Z",
+        "homeTeamId": 20,
+        "homeTeamName": "FC St. Pauli",
+        "id": 152517,
+        "matchday": 6,
+        "odds": {
+            "awayWin": 3.1,
+            "draw": 3.2,
+            "homeWin": 2.25
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 2
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 46,
+        "awayTeamName": "SV Sandhausen",
+        "competitionId": 431,
+        "date": "2016-09-23T16:30:00Z",
+        "homeTeamId": 21,
+        "homeTeamName": "SpVgg Greuther Fürth",
+        "id": 152507,
+        "matchday": 7,
+        "odds": {
+            "awayWin": 3.1,
+            "draw": 3.1,
+            "homeWin": 2.37
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 24,
+        "awayTeamName": "Fortuna Düsseldorf",
+        "competitionId": 431,
+        "date": "2016-09-23T16:30:00Z",
+        "homeTeamId": 33,
+        "homeTeamName": "Eintracht Braunschweig",
+        "id": 152506,
+        "matchday": 7,
+        "odds": {
+            "awayWin": 3.7,
+            "draw": 3.2,
+            "homeWin": 2.0
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 2
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 10,
+        "awayTeamName": "VfB Stuttgart",
+        "competitionId": 431,
+        "date": "2016-09-23T16:30:00Z",
+        "homeTeamId": 36,
+        "homeTeamName": "VfL Bochum",
+        "id": 152504,
+        "matchday": 7,
+        "odds": {
+            "awayWin": 2.2,
+            "draw": 3.3,
+            "homeWin": 3.1
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 22,
+        "awayTeamName": "Erzgebirge Aue",
+        "competitionId": 431,
+        "date": "2016-09-24T11:00:00Z",
+        "homeTeamId": 32,
+        "homeTeamName": "Karlsruher SC",
+        "id": 152509,
+        "matchday": 7,
+        "odds": {
+            "awayWin": 3.1,
+            "draw": 3.1,
+            "homeWin": 2.4
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 13,
+        "awayTeamName": "1. FC Kaiserslautern",
+        "competitionId": 431,
+        "date": "2016-09-24T11:00:00Z",
+        "homeTeamId": 44,
+        "homeTeamName": "1. FC Heidenheim 1846",
+        "id": 152508,
+        "matchday": 7,
+        "odds": {
+            "awayWin": 3.1,
+            "draw": 3.2,
+            "homeWin": 2.3
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 3,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 2
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 8,
+        "awayTeamName": "Hannover 96",
+        "competitionId": 431,
+        "date": "2016-09-25T11:30:00Z",
+        "homeTeamId": 26,
+        "homeTeamName": "TSV 1860 München",
+        "id": 152502,
+        "matchday": 7,
+        "odds": {
+            "awayWin": 2.5,
+            "draw": 3.1,
+            "homeWin": 2.75
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 0
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 14,
+        "awayTeamName": "1. FC Nürnberg",
+        "competitionId": 431,
+        "date": "2016-09-25T11:30:00Z",
+        "homeTeamId": 38,
+        "homeTeamName": "Arminia Bielefeld",
+        "id": 152503,
+        "matchday": 7,
+        "odds": {
+            "awayWin": 3.1,
+            "draw": 3.2,
+            "homeWin": 2.2
+        },
+        "result": {
+            "goalsAwayTeam": 3,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 1055,
+        "awayTeamName": "Würzburger Kickers",
+        "competitionId": 431,
+        "date": "2016-09-25T11:30:00Z",
+        "homeTeamId": 35,
+        "homeTeamName": "Dynamo Dresden",
+        "id": 152505,
+        "matchday": 7,
+        "odds": {
+            "awayWin": 3.0,
+            "draw": 3.2,
+            "homeWin": 2.25
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 20,
+        "awayTeamName": "FC St. Pauli",
+        "competitionId": 431,
+        "date": "2016-09-26T18:15:00Z",
+        "homeTeamId": 28,
+        "homeTeamName": "1. FC Union Berlin",
+        "id": 152510,
+        "matchday": 7,
+        "odds": {
+            "awayWin": 3.3,
+            "draw": 3.25,
+            "homeWin": 2.05
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 2
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 36,
+        "awayTeamName": "VfL Bochum",
+        "competitionId": 431,
+        "date": "2016-09-30T16:30:00Z",
+        "homeTeamId": 22,
+        "homeTeamName": "Erzgebirge Aue",
+        "id": 152493,
+        "matchday": 8,
+        "odds": null,
+        "result": {
+            "goalsAwayTeam": 4,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 2,
+                "goalsHomeTeam": 2
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 35,
+        "awayTeamName": "Dynamo Dresden",
+        "competitionId": 431,
+        "date": "2016-09-30T16:30:00Z",
+        "homeTeamId": 46,
+        "homeTeamName": "SV Sandhausen",
+        "id": 152499,
+        "matchday": 8,
+        "odds": null,
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 2
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 28,
+        "awayTeamName": "1. FC Union Berlin",
+        "competitionId": 431,
+        "date": "2016-09-30T16:30:00Z",
+        "homeTeamId": 14,
+        "homeTeamName": "1. FC Nürnberg",
+        "id": 152498,
+        "matchday": 8,
+        "odds": null,
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 32,
+        "awayTeamName": "Karlsruher SC",
+        "competitionId": 431,
+        "date": "2016-10-01T11:00:00Z",
+        "homeTeamId": 24,
+        "homeTeamName": "Fortuna Düsseldorf",
+        "id": 152494,
+        "matchday": 8,
+        "odds": {
+            "awayWin": 3.3,
+            "draw": 3.3,
+            "homeWin": 2.15
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 20,
+        "awayTeamName": "FC St. Pauli",
+        "competitionId": 431,
+        "date": "2016-10-01T11:00:00Z",
+        "homeTeamId": 8,
+        "homeTeamName": "Hannover 96",
+        "id": 152495,
+        "matchday": 8,
+        "odds": {
+            "awayWin": 4.2,
+            "draw": 3.5,
+            "homeWin": 1.83
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 33,
+        "awayTeamName": "Eintracht Braunschweig",
+        "competitionId": 431,
+        "date": "2016-10-02T11:30:00Z",
+        "homeTeamId": 44,
+        "homeTeamName": "1. FC Heidenheim 1846",
+        "id": 152496,
+        "matchday": 8,
+        "odds": {
+            "awayWin": 2.6,
+            "draw": 2.9,
+            "homeWin": 2.75
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 38,
+        "awayTeamName": "Arminia Bielefeld",
+        "competitionId": 431,
+        "date": "2016-10-02T11:30:00Z",
+        "homeTeamId": 13,
+        "homeTeamName": "1. FC Kaiserslautern",
+        "id": 152497,
+        "matchday": 8,
+        "odds": {
+            "awayWin": 3.25,
+            "draw": 3.3,
+            "homeWin": 2.1
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 26,
+        "awayTeamName": "TSV 1860 München",
+        "competitionId": 431,
+        "date": "2016-10-02T11:30:00Z",
+        "homeTeamId": 1055,
+        "homeTeamName": "Würzburger Kickers",
+        "id": 152501,
+        "matchday": 8,
+        "odds": {
+            "awayWin": 3.0,
+            "draw": 3.1,
+            "homeWin": 2.25
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 2
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 21,
+        "awayTeamName": "SpVgg Greuther Fürth",
+        "competitionId": 431,
+        "date": "2016-10-03T18:15:00Z",
+        "homeTeamId": 10,
+        "homeTeamName": "VfB Stuttgart",
+        "id": 152500,
+        "matchday": 8,
+        "odds": {
+            "awayWin": 4.4,
+            "draw": 3.7,
+            "homeWin": 1.7
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 4,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 3
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 1055,
+        "awayTeamName": "Würzburger Kickers",
+        "competitionId": 431,
+        "date": "2016-10-14T16:30:00Z",
+        "homeTeamId": 38,
+        "homeTeamName": "Arminia Bielefeld",
+        "id": 152485,
+        "matchday": 9,
+        "odds": null,
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 22,
+        "awayTeamName": "Erzgebirge Aue",
+        "competitionId": 431,
+        "date": "2016-10-14T16:30:00Z",
+        "homeTeamId": 20,
+        "homeTeamName": "FC St. Pauli",
+        "id": 152491,
+        "matchday": 9,
+        "odds": null,
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 46,
+        "awayTeamName": "SV Sandhausen",
+        "competitionId": 431,
+        "date": "2016-10-14T16:30:00Z",
+        "homeTeamId": 36,
+        "homeTeamName": "VfL Bochum",
+        "id": 152486,
+        "matchday": 9,
+        "odds": null,
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 44,
+        "awayTeamName": "1. FC Heidenheim 1846",
+        "competitionId": 431,
+        "date": "2016-10-15T11:00:00Z",
+        "homeTeamId": 21,
+        "homeTeamName": "SpVgg Greuther Fürth",
+        "id": 152489,
+        "matchday": 9,
+        "odds": {
+            "awayWin": 3.0,
+            "draw": 3.4,
+            "homeWin": 2.3
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 2,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 10,
+        "awayTeamName": "VfB Stuttgart",
+        "competitionId": 431,
+        "date": "2016-10-15T11:00:00Z",
+        "homeTeamId": 35,
+        "homeTeamName": "Dynamo Dresden",
+        "id": 152487,
+        "matchday": 9,
+        "odds": {
+            "awayWin": 2.0,
+            "draw": 3.5,
+            "homeWin": 3.5
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 5,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 3
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 24,
+        "awayTeamName": "Fortuna Düsseldorf",
+        "competitionId": 431,
+        "date": "2016-10-16T11:30:00Z",
+        "homeTeamId": 26,
+        "homeTeamName": "TSV 1860 München",
+        "id": 152484,
+        "matchday": 9,
+        "odds": {
+            "awayWin": 3.1,
+            "draw": 3.0,
+            "homeWin": 2.3
+        },
+        "result": {
+            "goalsAwayTeam": 3,
+            "goalsHomeTeam": 1
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 14,
+        "awayTeamName": "1. FC Nürnberg",
+        "competitionId": 431,
+        "date": "2016-10-16T11:30:00Z",
+        "homeTeamId": 32,
+        "homeTeamName": "Karlsruher SC",
+        "id": 152490,
+        "matchday": 9,
+        "odds": {
+            "awayWin": 2.62,
+            "draw": 3.1,
+            "homeWin": 2.6
+        },
+        "result": {
+            "goalsAwayTeam": 3,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 8,
+        "awayTeamName": "Hannover 96",
+        "competitionId": 431,
+        "date": "2016-10-16T11:30:00Z",
+        "homeTeamId": 28,
+        "homeTeamName": "1. FC Union Berlin",
+        "id": 152492,
+        "matchday": 9,
+        "odds": {
+            "awayWin": 2.6,
+            "draw": 3.2,
+            "homeWin": 2.6
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 13,
+        "awayTeamName": "1. FC Kaiserslautern",
+        "competitionId": 431,
+        "date": "2016-10-17T18:15:00Z",
+        "homeTeamId": 33,
+        "homeTeamName": "Eintracht Braunschweig",
+        "id": 152488,
+        "matchday": 9,
+        "odds": {
+            "awayWin": 4.0,
+            "draw": 3.4,
+            "homeWin": 1.83
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 32,
+        "awayTeamName": "Karlsruher SC",
+        "competitionId": 431,
+        "date": "2016-10-21T16:30:00Z",
+        "homeTeamId": 1055,
+        "homeTeamName": "Würzburger Kickers",
+        "id": 152483,
+        "matchday": 10,
+        "odds": {
+            "awayWin": 3.7,
+            "draw": 3.1,
+            "homeWin": 2.1
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 26,
+        "awayTeamName": "TSV 1860 München",
+        "competitionId": 431,
+        "date": "2016-10-21T16:30:00Z",
+        "homeTeamId": 10,
+        "homeTeamName": "VfB Stuttgart",
+        "id": 152482,
+        "matchday": 10,
+        "odds": {
+            "awayWin": 5.0,
+            "draw": 3.9,
+            "homeWin": 1.61
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 2
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 38,
+        "awayTeamName": "Arminia Bielefeld",
+        "competitionId": 431,
+        "date": "2016-10-21T16:30:00Z",
+        "homeTeamId": 24,
+        "homeTeamName": "Fortuna Düsseldorf",
+        "id": 152477,
+        "matchday": 10,
+        "odds": {
+            "awayWin": 3.6,
+            "draw": 3.4,
+            "homeWin": 2.0
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 4,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 2
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 20,
+        "awayTeamName": "FC St. Pauli",
+        "competitionId": 431,
+        "date": "2016-10-22T11:00:00Z",
+        "homeTeamId": 46,
+        "homeTeamName": "SV Sandhausen",
+        "id": 152481,
+        "matchday": 10,
+        "odds": {
+            "awayWin": 3.1,
+            "draw": 3.1,
+            "homeWin": 2.3
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 3,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 2
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 35,
+        "awayTeamName": "Dynamo Dresden",
+        "competitionId": 431,
+        "date": "2016-10-22T11:00:00Z",
+        "homeTeamId": 44,
+        "homeTeamName": "1. FC Heidenheim 1846",
+        "id": 152478,
+        "matchday": 10,
+        "odds": {
+            "awayWin": 3.3,
+            "draw": 3.3,
+            "homeWin": 2.05
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 21,
+        "awayTeamName": "SpVgg Greuther Fürth",
+        "competitionId": 431,
+        "date": "2016-10-23T11:30:00Z",
+        "homeTeamId": 33,
+        "homeTeamName": "Eintracht Braunschweig",
+        "id": 152475,
+        "matchday": 10,
+        "odds": {
+            "awayWin": 4.5,
+            "draw": 3.4,
+            "homeWin": 1.75
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 8,
+        "awayTeamName": "Hannover 96",
+        "competitionId": 431,
+        "date": "2016-10-23T11:30:00Z",
+        "homeTeamId": 14,
+        "homeTeamName": "1. FC Nürnberg",
+        "id": 152480,
+        "matchday": 10,
+        "odds": {
+            "awayWin": 2.75,
+            "draw": 3.1,
+            "homeWin": 2.45
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 2
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 28,
+        "awayTeamName": "1. FC Union Berlin",
+        "competitionId": 431,
+        "date": "2016-10-23T11:30:00Z",
+        "homeTeamId": 22,
+        "homeTeamName": "Erzgebirge Aue",
+        "id": 152476,
+        "matchday": 10,
+        "odds": {
+            "awayWin": 2.37,
+            "draw": 3.3,
+            "homeWin": 2.75
+        },
+        "result": {
+            "goalsAwayTeam": 3,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 36,
+        "awayTeamName": "VfL Bochum",
+        "competitionId": 431,
+        "date": "2016-10-24T18:15:00Z",
+        "homeTeamId": 13,
+        "homeTeamName": "1. FC Kaiserslautern",
+        "id": 152479,
+        "matchday": 10,
+        "odds": {
+            "awayWin": 2.87,
+            "draw": 3.1,
+            "homeWin": 2.37
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 3,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 22,
+        "awayTeamName": "Erzgebirge Aue",
+        "competitionId": 431,
+        "date": "2016-10-28T16:30:00Z",
+        "homeTeamId": 26,
+        "homeTeamName": "TSV 1860 München",
+        "id": 152466,
+        "matchday": 11,
+        "odds": null,
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 6
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 46,
+        "awayTeamName": "SV Sandhausen",
+        "competitionId": 431,
+        "date": "2016-10-28T16:30:00Z",
+        "homeTeamId": 38,
+        "homeTeamName": "Arminia Bielefeld",
+        "id": 152467,
+        "matchday": 11,
+        "odds": null,
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 33,
+        "awayTeamName": "Eintracht Braunschweig",
+        "competitionId": 431,
+        "date": "2016-10-28T16:30:00Z",
+        "homeTeamId": 35,
+        "homeTeamName": "Dynamo Dresden",
+        "id": 152469,
+        "matchday": 11,
+        "odds": null,
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 3,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 24,
+        "awayTeamName": "Fortuna Düsseldorf",
+        "competitionId": 431,
+        "date": "2016-10-29T11:00:00Z",
+        "homeTeamId": 28,
+        "homeTeamName": "1. FC Union Berlin",
+        "id": 152474,
+        "matchday": 11,
+        "odds": null,
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 13,
+        "awayTeamName": "1. FC Kaiserslautern",
+        "competitionId": 431,
+        "date": "2016-10-29T11:00:00Z",
+        "homeTeamId": 21,
+        "homeTeamName": "SpVgg Greuther Fürth",
+        "id": 152470,
+        "matchday": 11,
+        "odds": null,
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 1055,
+        "awayTeamName": "Würzburger Kickers",
+        "competitionId": 431,
+        "date": "2016-10-30T12:30:00Z",
+        "homeTeamId": 8,
+        "homeTeamName": "Hannover 96",
+        "id": 152471,
+        "matchday": 11,
+        "odds": {
+            "awayWin": 4.5,
+            "draw": 3.6,
+            "homeWin": 1.75
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 3,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 44,
+        "awayTeamName": "1. FC Heidenheim 1846",
+        "competitionId": 431,
+        "date": "2016-10-30T12:30:00Z",
+        "homeTeamId": 36,
+        "homeTeamName": "VfL Bochum",
+        "id": 152468,
+        "matchday": 11,
+        "odds": {
+            "awayWin": 3.0,
+            "draw": 3.4,
+            "homeWin": 2.25
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 2
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 10,
+        "awayTeamName": "VfB Stuttgart",
+        "competitionId": 431,
+        "date": "2016-10-30T12:30:00Z",
+        "homeTeamId": 32,
+        "homeTeamName": "Karlsruher SC",
+        "id": 152472,
+        "matchday": 11,
+        "odds": {
+            "awayWin": 2.25,
+            "draw": 3.2,
+            "homeWin": 3.2
+        },
+        "result": {
+            "goalsAwayTeam": 3,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 14,
+        "awayTeamName": "1. FC Nürnberg",
+        "competitionId": 431,
+        "date": "2016-10-31T19:15:00Z",
+        "homeTeamId": 20,
+        "homeTeamName": "FC St. Pauli",
+        "id": 152473,
+        "matchday": 11,
+        "odds": {
+            "awayWin": 2.6,
+            "draw": 3.25,
+            "homeWin": 2.5
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 14,
+        "awayTeamName": "1. FC Nürnberg",
+        "competitionId": 431,
+        "date": "2016-11-04T17:30:00Z",
+        "homeTeamId": 22,
+        "homeTeamName": "Erzgebirge Aue",
+        "id": 152458,
+        "matchday": 12,
+        "odds": {
+            "awayWin": 2.2,
+            "draw": 3.3,
+            "homeWin": 3.0
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 35,
+        "awayTeamName": "Dynamo Dresden",
+        "competitionId": 431,
+        "date": "2016-11-04T17:30:00Z",
+        "homeTeamId": 24,
+        "homeTeamName": "Fortuna Düsseldorf",
+        "id": 152459,
+        "matchday": 12,
+        "odds": {
+            "awayWin": 3.1,
+            "draw": 3.3,
+            "homeWin": 2.15
+        },
+        "result": {
+            "goalsAwayTeam": 3,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 2,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 32,
+        "awayTeamName": "Karlsruher SC",
+        "competitionId": 431,
+        "date": "2016-11-04T17:30:00Z",
+        "homeTeamId": 44,
+        "homeTeamName": "1. FC Heidenheim 1846",
+        "id": 152461,
+        "matchday": 12,
+        "odds": {
+            "awayWin": 3.6,
+            "draw": 3.0,
+            "homeWin": 2.1
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 36,
+        "awayTeamName": "VfL Bochum",
+        "competitionId": 431,
+        "date": "2016-11-05T12:00:00Z",
+        "homeTeamId": 21,
+        "homeTeamName": "SpVgg Greuther Fürth",
+        "id": 152460,
+        "matchday": 12,
+        "odds": {
+            "awayWin": 2.75,
+            "draw": 3.2,
+            "homeWin": 2.4
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 28,
+        "awayTeamName": "1. FC Union Berlin",
+        "competitionId": 431,
+        "date": "2016-11-05T12:00:00Z",
+        "homeTeamId": 13,
+        "homeTeamName": "1. FC Kaiserslautern",
+        "id": 152462,
+        "matchday": 12,
+        "odds": {
+            "awayWin": 2.5,
+            "draw": 3.1,
+            "homeWin": 2.7
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 26,
+        "awayTeamName": "TSV 1860 München",
+        "competitionId": 431,
+        "date": "2016-11-06T12:30:00Z",
+        "homeTeamId": 46,
+        "homeTeamName": "SV Sandhausen",
+        "id": 152463,
+        "matchday": 12,
+        "odds": {
+            "awayWin": 3.3,
+            "draw": 3.3,
+            "homeWin": 2.05
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 3
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 38,
+        "awayTeamName": "Arminia Bielefeld",
+        "competitionId": 431,
+        "date": "2016-11-06T12:30:00Z",
+        "homeTeamId": 10,
+        "homeTeamName": "VfB Stuttgart",
+        "id": 152464,
+        "matchday": 12,
+        "odds": {
+            "awayWin": 5.0,
+            "draw": 3.75,
+            "homeWin": 1.6
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 3,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 8,
+        "awayTeamName": "Hannover 96",
+        "competitionId": 431,
+        "date": "2016-11-06T12:30:00Z",
+        "homeTeamId": 33,
+        "homeTeamName": "Eintracht Braunschweig",
+        "id": 152457,
+        "matchday": 12,
+        "odds": {
+            "awayWin": 3.1,
+            "draw": 3.25,
+            "homeWin": 2.2
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 2
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 20,
+        "awayTeamName": "FC St. Pauli",
+        "competitionId": 431,
+        "date": "2016-11-07T19:15:00Z",
+        "homeTeamId": 1055,
+        "homeTeamName": "Würzburger Kickers",
+        "id": 152465,
+        "matchday": 12,
+        "odds": {
+            "awayWin": 3.4,
+            "draw": 3.2,
+            "homeWin": 2.1
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 44,
+        "awayTeamName": "1. FC Heidenheim 1846",
+        "competitionId": 431,
+        "date": "2016-11-18T17:30:00Z",
+        "homeTeamId": 38,
+        "homeTeamName": "Arminia Bielefeld",
+        "id": 152449,
+        "matchday": 13,
+        "odds": null,
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 33,
+        "awayTeamName": "Eintracht Braunschweig",
+        "competitionId": 431,
+        "date": "2016-11-18T17:30:00Z",
+        "homeTeamId": 36,
+        "homeTeamName": "VfL Bochum",
+        "id": 152450,
+        "matchday": 13,
+        "odds": null,
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 1055,
+        "awayTeamName": "Würzburger Kickers",
+        "competitionId": 431,
+        "date": "2016-11-18T17:30:00Z",
+        "homeTeamId": 14,
+        "homeTeamName": "1. FC Nürnberg",
+        "id": 152454,
+        "matchday": 13,
+        "odds": null,
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 22,
+        "awayTeamName": "Erzgebirge Aue",
+        "competitionId": 431,
+        "date": "2016-11-19T12:00:00Z",
+        "homeTeamId": 8,
+        "homeTeamName": "Hannover 96",
+        "id": 152452,
+        "matchday": 13,
+        "odds": null,
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 46,
+        "awayTeamName": "SV Sandhausen",
+        "competitionId": 431,
+        "date": "2016-11-19T12:00:00Z",
+        "homeTeamId": 32,
+        "homeTeamName": "Karlsruher SC",
+        "id": 152453,
+        "matchday": 13,
+        "odds": null,
+        "result": {
+            "goalsAwayTeam": 3,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 21,
+        "awayTeamName": "SpVgg Greuther Fürth",
+        "competitionId": 431,
+        "date": "2016-11-20T12:30:00Z",
+        "homeTeamId": 35,
+        "homeTeamName": "Dynamo Dresden",
+        "id": 152451,
+        "matchday": 13,
+        "odds": null,
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 24,
+        "awayTeamName": "Fortuna Düsseldorf",
+        "competitionId": 431,
+        "date": "2016-11-20T12:30:00Z",
+        "homeTeamId": 20,
+        "homeTeamName": "FC St. Pauli",
+        "id": 152455,
+        "matchday": 13,
+        "odds": null,
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 10,
+        "awayTeamName": "VfB Stuttgart",
+        "competitionId": 431,
+        "date": "2016-11-20T12:30:00Z",
+        "homeTeamId": 28,
+        "homeTeamName": "1. FC Union Berlin",
+        "id": 152456,
+        "matchday": 13,
+        "odds": null,
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 13,
+        "awayTeamName": "1. FC Kaiserslautern",
+        "competitionId": 431,
+        "date": "2016-11-21T19:15:00Z",
+        "homeTeamId": 26,
+        "homeTeamName": "TSV 1860 München",
+        "id": 152448,
+        "matchday": 13,
+        "odds": null,
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 38,
+        "awayTeamName": "Arminia Bielefeld",
+        "competitionId": 431,
+        "date": "2016-11-25T14:30:00Z",
+        "homeTeamId": 21,
+        "homeTeamName": "SpVgg Greuther Fürth",
+        "id": 152442,
+        "matchday": 14,
+        "odds": {
+            "awayWin": 3.1,
+            "draw": 3.1,
+            "homeWin": 2.37
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 2,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 22,
+        "awayTeamName": "Erzgebirge Aue",
+        "competitionId": 431,
+        "date": "2016-11-25T17:30:00Z",
+        "homeTeamId": 1055,
+        "homeTeamName": "Würzburger Kickers",
+        "id": 152447,
+        "matchday": 14,
+        "odds": null,
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 8,
+        "awayTeamName": "Hannover 96",
+        "competitionId": 431,
+        "date": "2016-11-25T17:30:00Z",
+        "homeTeamId": 24,
+        "homeTeamName": "Fortuna Düsseldorf",
+        "id": 152441,
+        "matchday": 14,
+        "odds": null,
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 36,
+        "awayTeamName": "VfL Bochum",
+        "competitionId": 431,
+        "date": "2016-11-26T12:00:00Z",
+        "homeTeamId": 35,
+        "homeTeamName": "Dynamo Dresden",
+        "id": 152439,
+        "matchday": 14,
+        "odds": {
+            "awayWin": 3.5,
+            "draw": 3.6,
+            "homeWin": 2.0
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 2
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 20,
+        "awayTeamName": "FC St. Pauli",
+        "competitionId": 431,
+        "date": "2016-11-26T12:00:00Z",
+        "homeTeamId": 44,
+        "homeTeamName": "1. FC Heidenheim 1846",
+        "id": 152443,
+        "matchday": 14,
+        "odds": {
+            "awayWin": 3.8,
+            "draw": 3.4,
+            "homeWin": 1.95
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 32,
+        "awayTeamName": "Karlsruher SC",
+        "competitionId": 431,
+        "date": "2016-11-27T12:30:00Z",
+        "homeTeamId": 13,
+        "homeTeamName": "1. FC Kaiserslautern",
+        "id": 152444,
+        "matchday": 14,
+        "odds": {
+            "awayWin": 3.4,
+            "draw": 3.25,
+            "homeWin": 2.15
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 28,
+        "awayTeamName": "1. FC Union Berlin",
+        "competitionId": 431,
+        "date": "2016-11-27T12:30:00Z",
+        "homeTeamId": 46,
+        "homeTeamName": "SV Sandhausen",
+        "id": 152445,
+        "matchday": 14,
+        "odds": {
+            "awayWin": 2.75,
+            "draw": 3.25,
+            "homeWin": 2.5
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 26,
+        "awayTeamName": "TSV 1860 München",
+        "competitionId": 431,
+        "date": "2016-11-27T12:30:00Z",
+        "homeTeamId": 33,
+        "homeTeamName": "Eintracht Braunschweig",
+        "id": 152440,
+        "matchday": 14,
+        "odds": {
+            "awayWin": 4.6,
+            "draw": 3.6,
+            "homeWin": 1.72
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 2
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 14,
+        "awayTeamName": "1. FC Nürnberg",
+        "competitionId": 431,
+        "date": "2016-11-28T19:15:00Z",
+        "homeTeamId": 10,
+        "homeTeamName": "VfB Stuttgart",
+        "id": 152446,
+        "matchday": 14,
+        "odds": {
+            "awayWin": 3.9,
+            "draw": 3.5,
+            "homeWin": 1.83
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 3,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 2
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 44,
+        "awayTeamName": "1. FC Heidenheim 1846",
+        "competitionId": 431,
+        "date": "2016-12-02T17:30:00Z",
+        "homeTeamId": 8,
+        "homeTeamName": "Hannover 96",
+        "id": 152433,
+        "matchday": 15,
+        "odds": null,
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 3,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 13,
+        "awayTeamName": "1. FC Kaiserslautern",
+        "competitionId": 431,
+        "date": "2016-12-02T17:30:00Z",
+        "homeTeamId": 20,
+        "homeTeamName": "FC St. Pauli",
+        "id": 152436,
+        "matchday": 15,
+        "odds": null,
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 21,
+        "awayTeamName": "SpVgg Greuther Fürth",
+        "competitionId": 431,
+        "date": "2016-12-02T17:30:00Z",
+        "homeTeamId": 32,
+        "homeTeamName": "Karlsruher SC",
+        "id": 152434,
+        "matchday": 15,
+        "odds": null,
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 2,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 35,
+        "awayTeamName": "Dynamo Dresden",
+        "competitionId": 431,
+        "date": "2016-12-03T12:00:00Z",
+        "homeTeamId": 26,
+        "homeTeamName": "TSV 1860 München",
+        "id": 152430,
+        "matchday": 15,
+        "odds": {
+            "awayWin": 2.5,
+            "draw": 3.25,
+            "homeWin": 2.75
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 1
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 46,
+        "awayTeamName": "SV Sandhausen",
+        "competitionId": 431,
+        "date": "2016-12-03T12:00:00Z",
+        "homeTeamId": 14,
+        "homeTeamName": "1. FC Nürnberg",
+        "id": 152435,
+        "matchday": 15,
+        "odds": {
+            "awayWin": 3.9,
+            "draw": 3.5,
+            "homeWin": 1.9
+        },
+        "result": {
+            "goalsAwayTeam": 3,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 10,
+        "awayTeamName": "VfB Stuttgart",
+        "competitionId": 431,
+        "date": "2016-12-04T12:30:00Z",
+        "homeTeamId": 22,
+        "homeTeamName": "Erzgebirge Aue",
+        "id": 152432,
+        "matchday": 15,
+        "odds": {
+            "awayWin": 1.85,
+            "draw": 3.5,
+            "homeWin": 4.0
+        },
+        "result": {
+            "goalsAwayTeam": 4,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 2,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 36,
+        "awayTeamName": "VfL Bochum",
+        "competitionId": 431,
+        "date": "2016-12-04T12:30:00Z",
+        "homeTeamId": 38,
+        "homeTeamName": "Arminia Bielefeld",
+        "id": 152431,
+        "matchday": 15,
+        "odds": {
+            "awayWin": 3.0,
+            "draw": 3.25,
+            "homeWin": 2.3
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 24,
+        "awayTeamName": "Fortuna Düsseldorf",
+        "competitionId": 431,
+        "date": "2016-12-04T12:30:00Z",
+        "homeTeamId": 1055,
+        "homeTeamName": "Würzburger Kickers",
+        "id": 152438,
+        "matchday": 15,
+        "odds": {
+            "awayWin": 3.1,
+            "draw": 3.1,
+            "homeWin": 2.3
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 33,
+        "awayTeamName": "Eintracht Braunschweig",
+        "competitionId": 431,
+        "date": "2016-12-05T19:15:00Z",
+        "homeTeamId": 28,
+        "homeTeamName": "1. FC Union Berlin",
+        "id": 152437,
+        "matchday": 15,
+        "odds": {
+            "awayWin": 2.87,
+            "draw": 3.2,
+            "homeWin": 2.37
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 32,
+        "awayTeamName": "Karlsruher SC",
+        "competitionId": 431,
+        "date": "2016-12-09T17:30:00Z",
+        "homeTeamId": 35,
+        "homeTeamName": "Dynamo Dresden",
+        "id": 152422,
+        "matchday": 16,
+        "odds": {
+            "awayWin": 4.0,
+            "draw": 3.3,
+            "homeWin": 1.9
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 14,
+        "awayTeamName": "1. FC Nürnberg",
+        "competitionId": 431,
+        "date": "2016-12-09T17:30:00Z",
+        "homeTeamId": 24,
+        "homeTeamName": "Fortuna Düsseldorf",
+        "id": 152424,
+        "matchday": 16,
+        "odds": {
+            "awayWin": 1.57,
+            "draw": 3.75,
+            "homeWin": 6.0
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 28,
+        "awayTeamName": "1. FC Union Berlin",
+        "competitionId": 431,
+        "date": "2016-12-09T17:30:00Z",
+        "homeTeamId": 44,
+        "homeTeamName": "1. FC Heidenheim 1846",
+        "id": 152426,
+        "matchday": 16,
+        "odds": {
+            "awayWin": 3.1,
+            "draw": 2.87,
+            "homeWin": 2.5
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 3,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 22,
+        "awayTeamName": "Erzgebirge Aue",
+        "competitionId": 431,
+        "date": "2016-12-10T12:00:00Z",
+        "homeTeamId": 13,
+        "homeTeamName": "1. FC Kaiserslautern",
+        "id": 152427,
+        "matchday": 16,
+        "odds": {
+            "awayWin": 4.0,
+            "draw": 3.4,
+            "homeWin": 1.85
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 26,
+        "awayTeamName": "TSV 1860 München",
+        "competitionId": 431,
+        "date": "2016-12-10T12:00:00Z",
+        "homeTeamId": 36,
+        "homeTeamName": "VfL Bochum",
+        "id": 152421,
+        "matchday": 16,
+        "odds": {
+            "awayWin": 3.3,
+            "draw": 3.4,
+            "homeWin": 2.15
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 1
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 20,
+        "awayTeamName": "FC St. Pauli",
+        "competitionId": 431,
+        "date": "2016-12-11T12:30:00Z",
+        "homeTeamId": 21,
+        "homeTeamName": "SpVgg Greuther Fürth",
+        "id": 152425,
+        "matchday": 16,
+        "odds": {
+            "awayWin": 3.4,
+            "draw": 3.4,
+            "homeWin": 2.05
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 1055,
+        "awayTeamName": "Würzburger Kickers",
+        "competitionId": 431,
+        "date": "2016-12-11T12:30:00Z",
+        "homeTeamId": 46,
+        "homeTeamName": "SV Sandhausen",
+        "id": 152428,
+        "matchday": 16,
+        "odds": {
+            "awayWin": 3.2,
+            "draw": 3.1,
+            "homeWin": 2.3
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 38,
+        "awayTeamName": "Arminia Bielefeld",
+        "competitionId": 431,
+        "date": "2016-12-11T12:30:00Z",
+        "homeTeamId": 33,
+        "homeTeamName": "Eintracht Braunschweig",
+        "id": 152423,
+        "matchday": 16,
+        "odds": {
+            "awayWin": 4.4,
+            "draw": 3.4,
+            "homeWin": 1.8
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 3,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 8,
+        "awayTeamName": "Hannover 96",
+        "competitionId": 431,
+        "date": "2016-12-12T19:15:00Z",
+        "homeTeamId": 10,
+        "homeTeamName": "VfB Stuttgart",
+        "id": 152429,
+        "matchday": 16,
+        "odds": {
+            "awayWin": 3.3,
+            "draw": 3.4,
+            "homeWin": 2.05
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 24,
+        "awayTeamName": "Fortuna Düsseldorf",
+        "competitionId": 431,
+        "date": "2016-12-16T14:30:00Z",
+        "homeTeamId": 22,
+        "homeTeamName": "Erzgebirge Aue",
+        "id": 152414,
+        "matchday": 17,
+        "odds": {
+            "awayWin": 2.7,
+            "draw": 3.1,
+            "homeWin": 2.62
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 21,
+        "awayTeamName": "SpVgg Greuther Fürth",
+        "competitionId": 431,
+        "date": "2016-12-16T17:30:00Z",
+        "homeTeamId": 28,
+        "homeTeamName": "1. FC Union Berlin",
+        "id": 152419,
+        "matchday": 17,
+        "odds": {
+            "awayWin": 4.5,
+            "draw": 3.5,
+            "homeWin": 1.75
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 44,
+        "awayTeamName": "1. FC Heidenheim 1846",
+        "competitionId": 431,
+        "date": "2016-12-16T17:30:00Z",
+        "homeTeamId": 26,
+        "homeTeamName": "TSV 1860 München",
+        "id": 152412,
+        "matchday": 17,
+        "odds": {
+            "awayWin": 2.87,
+            "draw": 2.9,
+            "homeWin": 2.62
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 36,
+        "awayTeamName": "VfL Bochum",
+        "competitionId": 431,
+        "date": "2016-12-17T12:00:00Z",
+        "homeTeamId": 20,
+        "homeTeamName": "FC St. Pauli",
+        "id": 152418,
+        "matchday": 17,
+        "odds": {
+            "awayWin": 2.87,
+            "draw": 3.1,
+            "homeWin": 2.5
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 33,
+        "awayTeamName": "Eintracht Braunschweig",
+        "competitionId": 431,
+        "date": "2016-12-17T12:00:00Z",
+        "homeTeamId": 32,
+        "homeTeamName": "Karlsruher SC",
+        "id": 152416,
+        "matchday": 17,
+        "odds": {
+            "awayWin": 2.2,
+            "draw": 3.1,
+            "homeWin": 3.4
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 46,
+        "awayTeamName": "SV Sandhausen",
+        "competitionId": 431,
+        "date": "2016-12-18T12:30:00Z",
+        "homeTeamId": 8,
+        "homeTeamName": "Hannover 96",
+        "id": 152415,
+        "matchday": 17,
+        "odds": {
+            "awayWin": 5.5,
+            "draw": 3.4,
+            "homeWin": 1.61
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 10,
+        "awayTeamName": "VfB Stuttgart",
+        "competitionId": 431,
+        "date": "2016-12-18T12:30:00Z",
+        "homeTeamId": 1055,
+        "homeTeamName": "Würzburger Kickers",
+        "id": 152420,
+        "matchday": 17,
+        "odds": {
+            "awayWin": 2.05,
+            "draw": 3.25,
+            "homeWin": 3.3
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 3,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 2
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 35,
+        "awayTeamName": "Dynamo Dresden",
+        "competitionId": 431,
+        "date": "2016-12-18T12:30:00Z",
+        "homeTeamId": 38,
+        "homeTeamName": "Arminia Bielefeld",
+        "id": 152413,
+        "matchday": 17,
+        "odds": {
+            "awayWin": 2.7,
+            "draw": 3.0,
+            "homeWin": 2.6
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 13,
+        "awayTeamName": "1. FC Kaiserslautern",
+        "competitionId": 431,
+        "date": "2016-12-19T19:15:00Z",
+        "homeTeamId": 14,
+        "homeTeamName": "1. FC Nürnberg",
+        "id": 152417,
+        "matchday": 17,
+        "odds": {
+            "awayWin": 4.0,
+            "draw": 3.1,
+            "homeWin": 1.95
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 46,
+        "awayTeamName": "SV Sandhausen",
+        "competitionId": 431,
+        "date": "2017-01-27T17:30:00Z",
+        "homeTeamId": 24,
+        "homeTeamName": "Fortuna Düsseldorf",
+        "id": 152405,
+        "matchday": 18,
+        "odds": {
+            "awayWin": 3.1,
+            "draw": 3.1,
+            "homeWin": 2.37
+        },
+        "result": {
+            "goalsAwayTeam": 3,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 36,
+        "awayTeamName": "VfL Bochum",
+        "competitionId": 431,
+        "date": "2017-01-27T17:30:00Z",
+        "homeTeamId": 28,
+        "homeTeamName": "1. FC Union Berlin",
+        "id": 152410,
+        "matchday": 18,
+        "odds": {
+            "awayWin": 3.7,
+            "draw": 3.4,
+            "homeWin": 1.95
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 21,
+        "awayTeamName": "SpVgg Greuther Fürth",
+        "competitionId": 431,
+        "date": "2017-01-27T17:30:00Z",
+        "homeTeamId": 26,
+        "homeTeamName": "TSV 1860 München",
+        "id": 152403,
+        "matchday": 18,
+        "odds": {
+            "awayWin": 3.1,
+            "draw": 3.25,
+            "homeWin": 2.25
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 2
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 33,
+        "awayTeamName": "Eintracht Braunschweig",
+        "competitionId": 431,
+        "date": "2017-01-28T12:00:00Z",
+        "homeTeamId": 1055,
+        "homeTeamName": "Würzburger Kickers",
+        "id": 152411,
+        "matchday": 18,
+        "odds": {
+            "awayWin": 2.7,
+            "draw": 3.0,
+            "homeWin": 2.6
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 44,
+        "awayTeamName": "1. FC Heidenheim 1846",
+        "competitionId": 431,
+        "date": "2017-01-28T12:00:00Z",
+        "homeTeamId": 22,
+        "homeTeamName": "Erzgebirge Aue",
+        "id": 152404,
+        "matchday": 18,
+        "odds": {
+            "awayWin": 2.5,
+            "draw": 3.0,
+            "homeWin": 2.8
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 10,
+        "awayTeamName": "VfB Stuttgart",
+        "competitionId": 431,
+        "date": "2017-01-29T12:30:00Z",
+        "homeTeamId": 20,
+        "homeTeamName": "FC St. Pauli",
+        "id": 152409,
+        "matchday": 18,
+        "odds": {
+            "awayWin": 2.05,
+            "draw": 3.3,
+            "homeWin": 3.3
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 38,
+        "awayTeamName": "Arminia Bielefeld",
+        "competitionId": 431,
+        "date": "2017-01-29T12:30:00Z",
+        "homeTeamId": 32,
+        "homeTeamName": "Karlsruher SC",
+        "id": 152407,
+        "matchday": 18,
+        "odds": {
+            "awayWin": 3.1,
+            "draw": 3.0,
+            "homeWin": 2.3
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 3,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 35,
+        "awayTeamName": "Dynamo Dresden",
+        "competitionId": 431,
+        "date": "2017-01-29T12:30:00Z",
+        "homeTeamId": 14,
+        "homeTeamName": "1. FC Nürnberg",
+        "id": 152408,
+        "matchday": 18,
+        "odds": {
+            "awayWin": 2.8,
+            "draw": 3.2,
+            "homeWin": 2.37
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 13,
+        "awayTeamName": "1. FC Kaiserslautern",
+        "competitionId": 431,
+        "date": "2017-01-30T19:15:00Z",
+        "homeTeamId": 8,
+        "homeTeamName": "Hannover 96",
+        "id": 152406,
+        "matchday": 18,
+        "odds": {
+            "awayWin": 4.5,
+            "draw": 3.5,
+            "homeWin": 1.72
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 26,
+        "awayTeamName": "TSV 1860 München",
+        "competitionId": 431,
+        "date": "2017-02-03T17:30:00Z",
+        "homeTeamId": 38,
+        "homeTeamName": "Arminia Bielefeld",
+        "id": 152394,
+        "matchday": 19,
+        "odds": {
+            "awayWin": 3.0,
+            "draw": 3.1,
+            "homeWin": 2.3
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 2
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 8,
+        "awayTeamName": "Hannover 96",
+        "competitionId": 431,
+        "date": "2017-02-03T17:30:00Z",
+        "homeTeamId": 21,
+        "homeTeamName": "SpVgg Greuther Fürth",
+        "id": 152398,
+        "matchday": 19,
+        "odds": {
+            "awayWin": 2.15,
+            "draw": 3.25,
+            "homeWin": 3.2
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 4,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 2
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 1055,
+        "awayTeamName": "Würzburger Kickers",
+        "competitionId": 431,
+        "date": "2017-02-03T17:30:00Z",
+        "homeTeamId": 13,
+        "homeTeamName": "1. FC Kaiserslautern",
+        "id": 152400,
+        "matchday": 19,
+        "odds": {
+            "awayWin": 3.1,
+            "draw": 2.9,
+            "homeWin": 2.37
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 14,
+        "awayTeamName": "1. FC Nürnberg",
+        "competitionId": 431,
+        "date": "2017-02-04T12:00:00Z",
+        "homeTeamId": 44,
+        "homeTeamName": "1. FC Heidenheim 1846",
+        "id": 152399,
+        "matchday": 19,
+        "odds": {
+            "awayWin": 3.0,
+            "draw": 3.1,
+            "homeWin": 2.25
+        },
+        "result": {
+            "goalsAwayTeam": 3,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 22,
+        "awayTeamName": "Erzgebirge Aue",
+        "competitionId": 431,
+        "date": "2017-02-04T12:00:00Z",
+        "homeTeamId": 46,
+        "homeTeamName": "SV Sandhausen",
+        "id": 152401,
+        "matchday": 19,
+        "odds": {
+            "awayWin": 3.5,
+            "draw": 3.1,
+            "homeWin": 2.05
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 20,
+        "awayTeamName": "FC St. Pauli",
+        "competitionId": 431,
+        "date": "2017-02-05T12:30:00Z",
+        "homeTeamId": 33,
+        "homeTeamName": "Eintracht Braunschweig",
+        "id": 152397,
+        "matchday": 19,
+        "odds": {
+            "awayWin": 4.5,
+            "draw": 3.3,
+            "homeWin": 1.75
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 28,
+        "awayTeamName": "1. FC Union Berlin",
+        "competitionId": 431,
+        "date": "2017-02-05T12:30:00Z",
+        "homeTeamId": 35,
+        "homeTeamName": "Dynamo Dresden",
+        "id": 152396,
+        "matchday": 19,
+        "odds": {
+            "awayWin": 3.2,
+            "draw": 3.25,
+            "homeWin": 2.15
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 32,
+        "awayTeamName": "Karlsruher SC",
+        "competitionId": 431,
+        "date": "2017-02-05T12:30:00Z",
+        "homeTeamId": 36,
+        "homeTeamName": "VfL Bochum",
+        "id": 152395,
+        "matchday": 19,
+        "odds": {
+            "awayWin": 3.4,
+            "draw": 3.2,
+            "homeWin": 2.1
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 24,
+        "awayTeamName": "Fortuna Düsseldorf",
+        "competitionId": 431,
+        "date": "2017-02-06T19:15:00Z",
+        "homeTeamId": 10,
+        "homeTeamName": "VfB Stuttgart",
+        "id": 152402,
+        "matchday": 19,
+        "odds": {
+            "awayWin": 5.5,
+            "draw": 3.7,
+            "homeWin": 1.57
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 2
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 21,
+        "awayTeamName": "SpVgg Greuther Fürth",
+        "competitionId": 431,
+        "date": "2017-02-10T17:30:00Z",
+        "homeTeamId": 22,
+        "homeTeamName": "Erzgebirge Aue",
+        "id": 152386,
+        "matchday": 20,
+        "odds": {
+            "awayWin": 3.4,
+            "draw": 3.2,
+            "homeWin": 2.15
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 13,
+        "awayTeamName": "1. FC Kaiserslautern",
+        "competitionId": 431,
+        "date": "2017-02-10T17:30:00Z",
+        "homeTeamId": 24,
+        "homeTeamName": "Fortuna Düsseldorf",
+        "id": 152387,
+        "matchday": 20,
+        "odds": {
+            "awayWin": 2.9,
+            "draw": 3.1,
+            "homeWin": 2.5
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 33,
+        "awayTeamName": "Eintracht Braunschweig",
+        "competitionId": 431,
+        "date": "2017-02-10T17:30:00Z",
+        "homeTeamId": 14,
+        "homeTeamName": "1. FC Nürnberg",
+        "id": 152389,
+        "matchday": 20,
+        "odds": {
+            "awayWin": 3.25,
+            "draw": 3.2,
+            "homeWin": 2.2
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 44,
+        "awayTeamName": "1. FC Heidenheim 1846",
+        "competitionId": 431,
+        "date": "2017-02-11T12:00:00Z",
+        "homeTeamId": 1055,
+        "homeTeamName": "Würzburger Kickers",
+        "id": 152393,
+        "matchday": 20,
+        "odds": {
+            "awayWin": 3.2,
+            "draw": 2.9,
+            "homeWin": 2.3
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 32,
+        "awayTeamName": "Karlsruher SC",
+        "competitionId": 431,
+        "date": "2017-02-11T12:00:00Z",
+        "homeTeamId": 26,
+        "homeTeamName": "TSV 1860 München",
+        "id": 152385,
+        "matchday": 20,
+        "odds": {
+            "awayWin": 3.0,
+            "draw": 3.0,
+            "homeWin": 2.37
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 2
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 46,
+        "awayTeamName": "SV Sandhausen",
+        "competitionId": 431,
+        "date": "2017-02-12T12:30:00Z",
+        "homeTeamId": 10,
+        "homeTeamName": "VfB Stuttgart",
+        "id": 152391,
+        "matchday": 20,
+        "odds": {
+            "awayWin": 5.0,
+            "draw": 3.6,
+            "homeWin": 1.61
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 38,
+        "awayTeamName": "Arminia Bielefeld",
+        "competitionId": 431,
+        "date": "2017-02-12T12:30:00Z",
+        "homeTeamId": 28,
+        "homeTeamName": "1. FC Union Berlin",
+        "id": 152392,
+        "matchday": 20,
+        "odds": {
+            "awayWin": 4.0,
+            "draw": 3.6,
+            "homeWin": 1.8
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 3,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 35,
+        "awayTeamName": "Dynamo Dresden",
+        "competitionId": 431,
+        "date": "2017-02-12T19:30:00Z",
+        "homeTeamId": 20,
+        "homeTeamName": "FC St. Pauli",
+        "id": 152390,
+        "matchday": 20,
+        "odds": {
+            "awayWin": 2.3,
+            "draw": 3.0,
+            "homeWin": 3.0
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 36,
+        "awayTeamName": "VfL Bochum",
+        "competitionId": 431,
+        "date": "2017-02-13T19:15:00Z",
+        "homeTeamId": 8,
+        "homeTeamName": "Hannover 96",
+        "id": 152388,
+        "matchday": 20,
+        "odds": {
+            "awayWin": 4.6,
+            "draw": 3.6,
+            "homeWin": 1.66
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 22,
+        "awayTeamName": "Erzgebirge Aue",
+        "competitionId": 431,
+        "date": "2017-02-17T17:30:00Z",
+        "homeTeamId": 33,
+        "homeTeamName": "Eintracht Braunschweig",
+        "id": 152380,
+        "matchday": 21,
+        "odds": {
+            "awayWin": 5.8,
+            "draw": 3.5,
+            "homeWin": 1.6
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 46,
+        "awayTeamName": "SV Sandhausen",
+        "competitionId": 431,
+        "date": "2017-02-17T17:30:00Z",
+        "homeTeamId": 13,
+        "homeTeamName": "1. FC Kaiserslautern",
+        "id": 152383,
+        "matchday": 21,
+        "odds": {
+            "awayWin": 3.2,
+            "draw": 2.9,
+            "homeWin": 2.3
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 3,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 2
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 10,
+        "awayTeamName": "VfB Stuttgart",
+        "competitionId": 431,
+        "date": "2017-02-17T17:30:00Z",
+        "homeTeamId": 44,
+        "homeTeamName": "1. FC Heidenheim 1846",
+        "id": 152382,
+        "matchday": 21,
+        "odds": {
+            "awayWin": 2.3,
+            "draw": 3.1,
+            "homeWin": 3.0
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 24,
+        "awayTeamName": "Fortuna Düsseldorf",
+        "competitionId": 431,
+        "date": "2017-02-18T12:00:00Z",
+        "homeTeamId": 21,
+        "homeTeamName": "SpVgg Greuther Fürth",
+        "id": 152381,
+        "matchday": 21,
+        "odds": {
+            "awayWin": 3.0,
+            "draw": 3.1,
+            "homeWin": 2.3
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 1055,
+        "awayTeamName": "Würzburger Kickers",
+        "competitionId": 431,
+        "date": "2017-02-18T12:00:00Z",
+        "homeTeamId": 36,
+        "homeTeamName": "VfL Bochum",
+        "id": 152378,
+        "matchday": 21,
+        "odds": {
+            "awayWin": 3.2,
+            "draw": 3.1,
+            "homeWin": 2.2
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 20,
+        "awayTeamName": "FC St. Pauli",
+        "competitionId": 431,
+        "date": "2017-02-19T12:30:00Z",
+        "homeTeamId": 38,
+        "homeTeamName": "Arminia Bielefeld",
+        "id": 152377,
+        "matchday": 21,
+        "odds": {
+            "awayWin": 2.9,
+            "draw": 3.1,
+            "homeWin": 2.37
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 8,
+        "awayTeamName": "Hannover 96",
+        "competitionId": 431,
+        "date": "2017-02-19T12:30:00Z",
+        "homeTeamId": 35,
+        "homeTeamName": "Dynamo Dresden",
+        "id": 152379,
+        "matchday": 21,
+        "odds": {
+            "awayWin": 2.75,
+            "draw": 3.2,
+            "homeWin": 2.4
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 28,
+        "awayTeamName": "1. FC Union Berlin",
+        "competitionId": 431,
+        "date": "2017-02-19T12:30:00Z",
+        "homeTeamId": 32,
+        "homeTeamName": "Karlsruher SC",
+        "id": 152384,
+        "matchday": 21,
+        "odds": {
+            "awayWin": 2.5,
+            "draw": 3.1,
+            "homeWin": 2.7
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 2,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 14,
+        "awayTeamName": "1. FC Nürnberg",
+        "competitionId": 431,
+        "date": "2017-02-20T19:15:00Z",
+        "homeTeamId": 26,
+        "homeTeamName": "TSV 1860 München",
+        "id": 152376,
+        "matchday": 21,
+        "odds": {
+            "awayWin": 2.7,
+            "draw": 3.2,
+            "homeWin": 2.45
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 2
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 33,
+        "awayTeamName": "Eintracht Braunschweig",
+        "competitionId": 431,
+        "date": "2017-02-24T17:30:00Z",
+        "homeTeamId": 46,
+        "homeTeamName": "SV Sandhausen",
+        "id": 152371,
+        "matchday": 22,
+        "odds": {
+            "awayWin": 2.6,
+            "draw": 3.0,
+            "homeWin": 2.62
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 26,
+        "awayTeamName": "TSV 1860 München",
+        "competitionId": 431,
+        "date": "2017-02-24T17:30:00Z",
+        "homeTeamId": 28,
+        "homeTeamName": "1. FC Union Berlin",
+        "id": 152374,
+        "matchday": 22,
+        "odds": {
+            "awayWin": 4.0,
+            "draw": 3.3,
+            "homeWin": 1.85
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 2
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 21,
+        "awayTeamName": "SpVgg Greuther Fürth",
+        "competitionId": 431,
+        "date": "2017-02-24T17:30:00Z",
+        "homeTeamId": 1055,
+        "homeTeamName": "Würzburger Kickers",
+        "id": 152375,
+        "matchday": 22,
+        "odds": {
+            "awayWin": 3.5,
+            "draw": 3.2,
+            "homeWin": 2.05
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 44,
+        "awayTeamName": "1. FC Heidenheim 1846",
+        "competitionId": 431,
+        "date": "2017-02-25T12:00:00Z",
+        "homeTeamId": 24,
+        "homeTeamName": "Fortuna Düsseldorf",
+        "id": 152368,
+        "matchday": 22,
+        "odds": {
+            "awayWin": 2.75,
+            "draw": 3.0,
+            "homeWin": 2.5
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 38,
+        "awayTeamName": "Arminia Bielefeld",
+        "competitionId": 431,
+        "date": "2017-02-25T12:00:00Z",
+        "homeTeamId": 8,
+        "homeTeamName": "Hannover 96",
+        "id": 152369,
+        "matchday": 22,
+        "odds": {
+            "awayWin": 5.0,
+            "draw": 3.7,
+            "homeWin": 1.61
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 2,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 36,
+        "awayTeamName": "VfL Bochum",
+        "competitionId": 431,
+        "date": "2017-02-26T12:30:00Z",
+        "homeTeamId": 14,
+        "homeTeamName": "1. FC Nürnberg",
+        "id": 152370,
+        "matchday": 22,
+        "odds": {
+            "awayWin": 3.2,
+            "draw": 3.3,
+            "homeWin": 2.1
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 13,
+        "awayTeamName": "1. FC Kaiserslautern",
+        "competitionId": 431,
+        "date": "2017-02-26T12:30:00Z",
+        "homeTeamId": 10,
+        "homeTeamName": "VfB Stuttgart",
+        "id": 152373,
+        "matchday": 22,
+        "odds": {
+            "awayWin": 5.5,
+            "draw": 3.4,
+            "homeWin": 1.65
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 35,
+        "awayTeamName": "Dynamo Dresden",
+        "competitionId": 431,
+        "date": "2017-02-26T12:30:00Z",
+        "homeTeamId": 22,
+        "homeTeamName": "Erzgebirge Aue",
+        "id": 152367,
+        "matchday": 22,
+        "odds": {
+            "awayWin": 2.3,
+            "draw": 3.1,
+            "homeWin": 3.0
+        },
+        "result": {
+            "goalsAwayTeam": 4,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 4,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 32,
+        "awayTeamName": "Karlsruher SC",
+        "competitionId": 431,
+        "date": "2017-02-27T19:15:00Z",
+        "homeTeamId": 20,
+        "homeTeamName": "FC St. Pauli",
+        "id": 152372,
+        "matchday": 22,
+        "odds": {
+            "awayWin": 3.3,
+            "draw": 3.1,
+            "homeWin": 2.15
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 5,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 24,
+        "awayTeamName": "Fortuna Düsseldorf",
+        "competitionId": 431,
+        "date": "2017-03-03T17:30:00Z",
+        "homeTeamId": 36,
+        "homeTeamName": "VfL Bochum",
+        "id": 152360,
+        "matchday": 23,
+        "odds": {
+            "awayWin": 3.1,
+            "draw": 3.25,
+            "homeWin": 2.15
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 13,
+        "awayTeamName": "1. FC Kaiserslautern",
+        "competitionId": 431,
+        "date": "2017-03-03T17:30:00Z",
+        "homeTeamId": 35,
+        "homeTeamName": "Dynamo Dresden",
+        "id": 152361,
+        "matchday": 23,
+        "odds": {
+            "awayWin": 3.6,
+            "draw": 3.4,
+            "homeWin": 1.95
+        },
+        "result": {
+            "goalsAwayTeam": 3,
+            "goalsHomeTeam": 3,
+            "halfTime": {
+                "goalsAwayTeam": 2,
+                "goalsHomeTeam": 2
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 1055,
+        "awayTeamName": "Würzburger Kickers",
+        "competitionId": 431,
+        "date": "2017-03-03T17:30:00Z",
+        "homeTeamId": 28,
+        "homeTeamName": "1. FC Union Berlin",
+        "id": 152366,
+        "matchday": 23,
+        "odds": {
+            "awayWin": 3.8,
+            "draw": 3.3,
+            "homeWin": 1.9
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 20,
+        "awayTeamName": "FC St. Pauli",
+        "competitionId": 431,
+        "date": "2017-03-04T12:00:00Z",
+        "homeTeamId": 26,
+        "homeTeamName": "TSV 1860 München",
+        "id": 152358,
+        "matchday": 23,
+        "odds": {
+            "awayWin": 2.87,
+            "draw": 3.1,
+            "homeWin": 2.4
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 1
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 8,
+        "awayTeamName": "Hannover 96",
+        "competitionId": 431,
+        "date": "2017-03-04T12:00:00Z",
+        "homeTeamId": 32,
+        "homeTeamName": "Karlsruher SC",
+        "id": 152365,
+        "matchday": 23,
+        "odds": {
+            "awayWin": 2.05,
+            "draw": 3.2,
+            "homeWin": 3.4
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 46,
+        "awayTeamName": "SV Sandhausen",
+        "competitionId": 431,
+        "date": "2017-03-05T12:30:00Z",
+        "homeTeamId": 44,
+        "homeTeamName": "1. FC Heidenheim 1846",
+        "id": 152364,
+        "matchday": 23,
+        "odds": {
+            "awayWin": 3.25,
+            "draw": 3.0,
+            "homeWin": 2.25
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 2,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 22,
+        "awayTeamName": "Erzgebirge Aue",
+        "competitionId": 431,
+        "date": "2017-03-05T12:30:00Z",
+        "homeTeamId": 38,
+        "homeTeamName": "Arminia Bielefeld",
+        "id": 152359,
+        "matchday": 23,
+        "odds": {
+            "awayWin": 3.3,
+            "draw": 3.2,
+            "homeWin": 2.1
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 2
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 14,
+        "awayTeamName": "1. FC Nürnberg",
+        "competitionId": 431,
+        "date": "2017-03-05T12:30:00Z",
+        "homeTeamId": 21,
+        "homeTeamName": "SpVgg Greuther Fürth",
+        "id": 152363,
+        "matchday": 23,
+        "odds": {
+            "awayWin": 2.8,
+            "draw": 3.1,
+            "homeWin": 2.45
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 10,
+        "awayTeamName": "VfB Stuttgart",
+        "competitionId": 431,
+        "date": "2017-03-06T19:15:00Z",
+        "homeTeamId": 33,
+        "homeTeamName": "Eintracht Braunschweig",
+        "id": 152362,
+        "matchday": 23,
+        "odds": {
+            "awayWin": 2.45,
+            "draw": 3.1,
+            "homeWin": 2.8
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 32,
+        "awayTeamName": "Karlsruher SC",
+        "competitionId": 431,
+        "date": "2017-03-10T17:30:00Z",
+        "homeTeamId": 22,
+        "homeTeamName": "Erzgebirge Aue",
+        "id": 152349,
+        "matchday": 24,
+        "odds": {
+            "awayWin": 2.9,
+            "draw": 3.0,
+            "homeWin": 2.4
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 1
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 36,
+        "awayTeamName": "VfL Bochum",
+        "competitionId": 431,
+        "date": "2017-03-10T17:30:00Z",
+        "homeTeamId": 10,
+        "homeTeamName": "VfB Stuttgart",
+        "id": 152356,
+        "matchday": 24,
+        "odds": {
+            "awayWin": 5.0,
+            "draw": 4.0,
+            "homeWin": 1.55
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 28,
+        "awayTeamName": "1. FC Union Berlin",
+        "competitionId": 431,
+        "date": "2017-03-10T17:30:00Z",
+        "homeTeamId": 20,
+        "homeTeamName": "FC St. Pauli",
+        "id": 152355,
+        "matchday": 24,
+        "odds": {
+            "awayWin": 2.75,
+            "draw": 3.1,
+            "homeWin": 2.5
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 1
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 26,
+        "awayTeamName": "TSV 1860 München",
+        "competitionId": 431,
+        "date": "2017-03-11T12:00:00Z",
+        "homeTeamId": 8,
+        "homeTeamName": "Hannover 96",
+        "id": 152351,
+        "matchday": 24,
+        "odds": {
+            "awayWin": 4.75,
+            "draw": 3.7,
+            "homeWin": 1.65
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 1
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 35,
+        "awayTeamName": "Dynamo Dresden",
+        "competitionId": 431,
+        "date": "2017-03-11T12:00:00Z",
+        "homeTeamId": 1055,
+        "homeTeamName": "Würzburger Kickers",
+        "id": 152357,
+        "matchday": 24,
+        "odds": {
+            "awayWin": 2.75,
+            "draw": 2.9,
+            "homeWin": 2.6
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 0
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 21,
+        "awayTeamName": "SpVgg Greuther Fürth",
+        "competitionId": 431,
+        "date": "2017-03-12T12:30:00Z",
+        "homeTeamId": 46,
+        "homeTeamName": "SV Sandhausen",
+        "id": 152354,
+        "matchday": 24,
+        "odds": {
+            "awayWin": 3.4,
+            "draw": 3.2,
+            "homeWin": 2.1
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 38,
+        "awayTeamName": "Arminia Bielefeld",
+        "competitionId": 431,
+        "date": "2017-03-12T13:30:00Z",
+        "homeTeamId": 14,
+        "homeTeamName": "1. FC Nürnberg",
+        "id": 152353,
+        "matchday": 24,
+        "odds": {
+            "awayWin": 3.3,
+            "draw": 3.3,
+            "homeWin": 2.1
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 44,
+        "awayTeamName": "1. FC Heidenheim 1846",
+        "competitionId": 431,
+        "date": "2017-03-12T13:30:00Z",
+        "homeTeamId": 13,
+        "homeTeamName": "1. FC Kaiserslautern",
+        "id": 152352,
+        "matchday": 24,
+        "odds": {
+            "awayWin": 3.2,
+            "draw": 3.0,
+            "homeWin": 2.3
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 33,
+        "awayTeamName": "Eintracht Braunschweig",
+        "competitionId": 431,
+        "date": "2017-03-13T20:15:00Z",
+        "homeTeamId": 24,
+        "homeTeamName": "Fortuna Düsseldorf",
+        "id": 152350,
+        "matchday": 24,
+        "odds": {
+            "awayWin": 2.7,
+            "draw": 3.1,
+            "homeWin": 2.6
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 1055,
+        "awayTeamName": "Würzburger Kickers",
+        "competitionId": 431,
+        "date": "2017-03-17T17:30:00Z",
+        "homeTeamId": 26,
+        "homeTeamName": "TSV 1860 München",
+        "id": 152340,
+        "matchday": 25,
+        "odds": null,
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 2
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 13,
+        "awayTeamName": "1. FC Kaiserslautern",
+        "competitionId": 431,
+        "date": "2017-03-17T18:30:00Z",
+        "homeTeamId": 38,
+        "homeTeamName": "Arminia Bielefeld",
+        "id": 152341,
+        "matchday": 25,
+        "odds": null,
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 8,
+        "awayTeamName": "Hannover 96",
+        "competitionId": 431,
+        "date": "2017-03-18T13:00:00Z",
+        "homeTeamId": 20,
+        "homeTeamName": "FC St. Pauli",
+        "id": 152347,
+        "matchday": 25,
+        "odds": {
+            "awayWin": 2.8,
+            "draw": 3.2,
+            "homeWin": 2.5
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 10,
+        "awayTeamName": "VfB Stuttgart",
+        "competitionId": 431,
+        "date": "2017-03-18T13:00:00Z",
+        "homeTeamId": 21,
+        "homeTeamName": "SpVgg Greuther Fürth",
+        "id": 152345,
+        "matchday": 25,
+        "odds": {
+            "awayWin": 2.0,
+            "draw": 3.3,
+            "homeWin": 3.7
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 46,
+        "awayTeamName": "SV Sandhausen",
+        "competitionId": 431,
+        "date": "2017-03-19T13:30:00Z",
+        "homeTeamId": 35,
+        "homeTeamName": "Dynamo Dresden",
+        "id": 152343,
+        "matchday": 25,
+        "odds": {
+            "awayWin": 3.8,
+            "draw": 3.5,
+            "homeWin": 1.9
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 22,
+        "awayTeamName": "Erzgebirge Aue",
+        "competitionId": 431,
+        "date": "2017-03-19T13:30:00Z",
+        "homeTeamId": 36,
+        "homeTeamName": "VfL Bochum",
+        "id": 152342,
+        "matchday": 25,
+        "odds": {
+            "awayWin": 3.6,
+            "draw": 3.3,
+            "homeWin": 2.05
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 24,
+        "awayTeamName": "Fortuna Düsseldorf",
+        "competitionId": 431,
+        "date": "2017-03-19T13:30:00Z",
+        "homeTeamId": 32,
+        "homeTeamName": "Karlsruher SC",
+        "id": 152346,
+        "matchday": 25,
+        "odds": {
+            "awayWin": 3.0,
+            "draw": 3.2,
+            "homeWin": 2.37
+        },
+        "result": {
+            "goalsAwayTeam": 3,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 2,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 14,
+        "awayTeamName": "1. FC Nürnberg",
+        "competitionId": 431,
+        "date": "2017-03-20T20:15:00Z",
+        "homeTeamId": 28,
+        "homeTeamName": "1. FC Union Berlin",
+        "id": 152348,
+        "matchday": 25,
+        "odds": {
+            "awayWin": 4.2,
+            "draw": 3.6,
+            "homeWin": 1.75
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 20,
+        "awayTeamName": "FC St. Pauli",
+        "competitionId": 431,
+        "date": "2017-03-31T16:30:00Z",
+        "homeTeamId": 22,
+        "homeTeamName": "Erzgebirge Aue",
+        "id": 152331,
+        "matchday": 26,
+        "odds": {
+            "awayWin": 2.62,
+            "draw": 3.1,
+            "homeWin": 2.75
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 26,
+        "awayTeamName": "TSV 1860 München",
+        "competitionId": 431,
+        "date": "2017-03-31T16:30:00Z",
+        "homeTeamId": 24,
+        "homeTeamName": "Fortuna Düsseldorf",
+        "id": 152332,
+        "matchday": 26,
+        "odds": {
+            "awayWin": 3.5,
+            "draw": 3.25,
+            "homeWin": 2.1
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 0
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 32,
+        "awayTeamName": "Karlsruher SC",
+        "competitionId": 431,
+        "date": "2017-03-31T16:30:00Z",
+        "homeTeamId": 14,
+        "homeTeamName": "1. FC Nürnberg",
+        "id": 152336,
+        "matchday": 26,
+        "odds": {
+            "awayWin": 4.2,
+            "draw": 3.7,
+            "homeWin": 1.8
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 28,
+        "awayTeamName": "1. FC Union Berlin",
+        "competitionId": 431,
+        "date": "2017-04-01T11:00:00Z",
+        "homeTeamId": 8,
+        "homeTeamName": "Hannover 96",
+        "id": 152333,
+        "matchday": 26,
+        "odds": {
+            "awayWin": 3.1,
+            "draw": 3.3,
+            "homeWin": 2.25
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 36,
+        "awayTeamName": "VfL Bochum",
+        "competitionId": 431,
+        "date": "2017-04-01T11:00:00Z",
+        "homeTeamId": 46,
+        "homeTeamName": "SV Sandhausen",
+        "id": 152337,
+        "matchday": 26,
+        "odds": {
+            "awayWin": 3.25,
+            "draw": 3.2,
+            "homeWin": 2.25
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 38,
+        "awayTeamName": "Arminia Bielefeld",
+        "competitionId": 431,
+        "date": "2017-04-01T11:00:00Z",
+        "homeTeamId": 1055,
+        "homeTeamName": "Würzburger Kickers",
+        "id": 152339,
+        "matchday": 26,
+        "odds": {
+            "awayWin": 3.5,
+            "draw": 3.2,
+            "homeWin": 2.1
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 33,
+        "awayTeamName": "Eintracht Braunschweig",
+        "competitionId": 431,
+        "date": "2017-04-02T11:30:00Z",
+        "homeTeamId": 13,
+        "homeTeamName": "1. FC Kaiserslautern",
+        "id": 152335,
+        "matchday": 26,
+        "odds": {
+            "awayWin": 2.62,
+            "draw": 3.0,
+            "homeWin": 2.7
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 21,
+        "awayTeamName": "SpVgg Greuther Fürth",
+        "competitionId": 431,
+        "date": "2017-04-02T11:30:00Z",
+        "homeTeamId": 44,
+        "homeTeamName": "1. FC Heidenheim 1846",
+        "id": 152334,
+        "matchday": 26,
+        "odds": {
+            "awayWin": 3.4,
+            "draw": 3.0,
+            "homeWin": 2.15
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 35,
+        "awayTeamName": "Dynamo Dresden",
+        "competitionId": 431,
+        "date": "2017-04-02T11:30:00Z",
+        "homeTeamId": 10,
+        "homeTeamName": "VfB Stuttgart",
+        "id": 152338,
+        "matchday": 26,
+        "odds": {
+            "awayWin": 3.75,
+            "draw": 3.4,
+            "homeWin": 1.9
+        },
+        "result": {
+            "goalsAwayTeam": 3,
+            "goalsHomeTeam": 3,
+            "halfTime": {
+                "goalsAwayTeam": 3,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 14,
+        "awayTeamName": "1. FC Nürnberg",
+        "competitionId": 431,
+        "date": "2017-04-04T15:30:00Z",
+        "homeTeamId": 8,
+        "homeTeamName": "Hannover 96",
+        "id": 152327,
+        "matchday": 27,
+        "odds": {
+            "awayWin": 5.5,
+            "draw": 3.8,
+            "homeWin": 1.61
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 1055,
+        "awayTeamName": "Würzburger Kickers",
+        "competitionId": 431,
+        "date": "2017-04-04T15:30:00Z",
+        "homeTeamId": 32,
+        "homeTeamName": "Karlsruher SC",
+        "id": 152328,
+        "matchday": 27,
+        "odds": {
+            "awayWin": 3.2,
+            "draw": 3.0,
+            "homeWin": 2.4
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 46,
+        "awayTeamName": "SV Sandhausen",
+        "competitionId": 431,
+        "date": "2017-04-04T15:30:00Z",
+        "homeTeamId": 20,
+        "homeTeamName": "FC St. Pauli",
+        "id": 152329,
+        "matchday": 27,
+        "odds": {
+            "awayWin": 3.8,
+            "draw": 3.3,
+            "homeWin": 2.0
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 24,
+        "awayTeamName": "Fortuna Düsseldorf",
+        "competitionId": 431,
+        "date": "2017-04-04T15:30:00Z",
+        "homeTeamId": 38,
+        "homeTeamName": "Arminia Bielefeld",
+        "id": 152323,
+        "matchday": 27,
+        "odds": {
+            "awayWin": 3.0,
+            "draw": 3.1,
+            "homeWin": 2.4
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 10,
+        "awayTeamName": "VfB Stuttgart",
+        "competitionId": 431,
+        "date": "2017-04-05T15:30:00Z",
+        "homeTeamId": 26,
+        "homeTeamName": "TSV 1860 München",
+        "id": 152322,
+        "matchday": 27,
+        "odds": {
+            "awayWin": 2.05,
+            "draw": 3.25,
+            "homeWin": 3.4
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 33,
+        "awayTeamName": "Eintracht Braunschweig",
+        "competitionId": 431,
+        "date": "2017-04-05T15:30:00Z",
+        "homeTeamId": 21,
+        "homeTeamName": "SpVgg Greuther Fürth",
+        "id": 152326,
+        "matchday": 27,
+        "odds": {
+            "awayWin": 2.75,
+            "draw": 3.0,
+            "homeWin": 2.6
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 13,
+        "awayTeamName": "1. FC Kaiserslautern",
+        "competitionId": 431,
+        "date": "2017-04-05T15:30:00Z",
+        "homeTeamId": 36,
+        "homeTeamName": "VfL Bochum",
+        "id": 152324,
+        "matchday": 27,
+        "odds": {
+            "awayWin": 3.1,
+            "draw": 3.1,
+            "homeWin": 2.25
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 44,
+        "awayTeamName": "1. FC Heidenheim 1846",
+        "competitionId": 431,
+        "date": "2017-04-05T15:30:00Z",
+        "homeTeamId": 35,
+        "homeTeamName": "Dynamo Dresden",
+        "id": 152325,
+        "matchday": 27,
+        "odds": {
+            "awayWin": 3.9,
+            "draw": 3.4,
+            "homeWin": 1.85
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 22,
+        "awayTeamName": "Erzgebirge Aue",
+        "competitionId": 431,
+        "date": "2017-04-05T15:30:00Z",
+        "homeTeamId": 28,
+        "homeTeamName": "1. FC Union Berlin",
+        "id": 152330,
+        "matchday": 27,
+        "odds": {
+            "awayWin": 5.5,
+            "draw": 3.7,
+            "homeWin": 1.57
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 8,
+        "awayTeamName": "Hannover 96",
+        "competitionId": 431,
+        "date": "2017-04-07T16:30:00Z",
+        "homeTeamId": 1055,
+        "homeTeamName": "Würzburger Kickers",
+        "id": 152320,
+        "matchday": 28,
+        "odds": {
+            "awayWin": 2.25,
+            "draw": 3.1,
+            "homeWin": 3.0
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 38,
+        "awayTeamName": "Arminia Bielefeld",
+        "competitionId": 431,
+        "date": "2017-04-07T16:30:00Z",
+        "homeTeamId": 46,
+        "homeTeamName": "SV Sandhausen",
+        "id": 152319,
+        "matchday": 28,
+        "odds": {
+            "awayWin": 3.0,
+            "draw": 3.2,
+            "homeWin": 2.25
+        },
+        "result": {
+            "goalsAwayTeam": 3,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 20,
+        "awayTeamName": "FC St. Pauli",
+        "competitionId": 431,
+        "date": "2017-04-07T16:30:00Z",
+        "homeTeamId": 14,
+        "homeTeamName": "1. FC Nürnberg",
+        "id": 152318,
+        "matchday": 28,
+        "odds": {
+            "awayWin": 3.3,
+            "draw": 3.25,
+            "homeWin": 2.1
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 21,
+        "awayTeamName": "SpVgg Greuther Fürth",
+        "competitionId": 431,
+        "date": "2017-04-08T11:00:00Z",
+        "homeTeamId": 13,
+        "homeTeamName": "1. FC Kaiserslautern",
+        "id": 152317,
+        "matchday": 28,
+        "odds": {
+            "awayWin": 2.7,
+            "draw": 3.1,
+            "homeWin": 2.6
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 2
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 36,
+        "awayTeamName": "VfL Bochum",
+        "competitionId": 431,
+        "date": "2017-04-08T11:00:00Z",
+        "homeTeamId": 44,
+        "homeTeamName": "1. FC Heidenheim 1846",
+        "id": 152316,
+        "matchday": 28,
+        "odds": {
+            "awayWin": 3.0,
+            "draw": 3.25,
+            "homeWin": 2.25
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 26,
+        "awayTeamName": "TSV 1860 München",
+        "competitionId": 431,
+        "date": "2017-04-09T11:30:00Z",
+        "homeTeamId": 22,
+        "homeTeamName": "Erzgebirge Aue",
+        "id": 152314,
+        "matchday": 28,
+        "odds": {
+            "awayWin": 2.62,
+            "draw": 3.1,
+            "homeWin": 2.5
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 3
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 28,
+        "awayTeamName": "1. FC Union Berlin",
+        "competitionId": 431,
+        "date": "2017-04-09T11:30:00Z",
+        "homeTeamId": 24,
+        "homeTeamName": "Fortuna Düsseldorf",
+        "id": 152315,
+        "matchday": 28,
+        "odds": {
+            "awayWin": 2.5,
+            "draw": 3.2,
+            "homeWin": 2.62
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 32,
+        "awayTeamName": "Karlsruher SC",
+        "competitionId": 431,
+        "date": "2017-04-09T11:30:00Z",
+        "homeTeamId": 10,
+        "homeTeamName": "VfB Stuttgart",
+        "id": 152321,
+        "matchday": 28,
+        "odds": {
+            "awayWin": 6.0,
+            "draw": 4.2,
+            "homeWin": 1.44
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 35,
+        "awayTeamName": "Dynamo Dresden",
+        "competitionId": 431,
+        "date": "2017-04-10T18:15:00Z",
+        "homeTeamId": 33,
+        "homeTeamName": "Eintracht Braunschweig",
+        "id": 152313,
+        "matchday": 28,
+        "odds": {
+            "awayWin": 3.1,
+            "draw": 3.2,
+            "homeWin": 2.2
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 22,
+        "awayTeamName": "Erzgebirge Aue",
+        "competitionId": 431,
+        "date": "2017-04-15T11:00:00Z",
+        "homeTeamId": 14,
+        "homeTeamName": "1. FC Nürnberg",
+        "id": 152310,
+        "matchday": 29,
+        "odds": {
+            "awayWin": 2.9,
+            "draw": 3.2,
+            "homeWin": 2.3
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 33,
+        "awayTeamName": "Eintracht Braunschweig",
+        "competitionId": 431,
+        "date": "2017-04-15T11:00:00Z",
+        "homeTeamId": 8,
+        "homeTeamName": "Hannover 96",
+        "id": 152308,
+        "matchday": 29,
+        "odds": {
+            "awayWin": 3.6,
+            "draw": 3.3,
+            "homeWin": 1.95
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 21,
+        "awayTeamName": "SpVgg Greuther Fürth",
+        "competitionId": 431,
+        "date": "2017-04-16T11:30:00Z",
+        "homeTeamId": 36,
+        "homeTeamName": "VfL Bochum",
+        "id": 152306,
+        "matchday": 29,
+        "odds": {
+            "awayWin": 3.1,
+            "draw": 3.1,
+            "homeWin": 2.25
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 46,
+        "awayTeamName": "SV Sandhausen",
+        "competitionId": 431,
+        "date": "2017-04-16T11:30:00Z",
+        "homeTeamId": 26,
+        "homeTeamName": "TSV 1860 München",
+        "id": 152304,
+        "matchday": 29,
+        "odds": {
+            "awayWin": 3.7,
+            "draw": 3.1,
+            "homeWin": 2.0
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 24,
+        "awayTeamName": "Fortuna Düsseldorf",
+        "competitionId": 431,
+        "date": "2017-04-16T11:30:00Z",
+        "homeTeamId": 35,
+        "homeTeamName": "Dynamo Dresden",
+        "id": 152307,
+        "matchday": 29,
+        "odds": {
+            "awayWin": 3.7,
+            "draw": 3.3,
+            "homeWin": 1.9
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 44,
+        "awayTeamName": "1. FC Heidenheim 1846",
+        "competitionId": 431,
+        "date": "2017-04-16T11:30:00Z",
+        "homeTeamId": 32,
+        "homeTeamName": "Karlsruher SC",
+        "id": 152309,
+        "matchday": 29,
+        "odds": null,
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 1055,
+        "awayTeamName": "Würzburger Kickers",
+        "competitionId": 431,
+        "date": "2017-04-16T11:30:00Z",
+        "homeTeamId": 20,
+        "homeTeamName": "FC St. Pauli",
+        "id": 152311,
+        "matchday": 29,
+        "odds": {
+            "awayWin": 3.8,
+            "draw": 3.1,
+            "homeWin": 2.0
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 13,
+        "awayTeamName": "1. FC Kaiserslautern",
+        "competitionId": 431,
+        "date": "2017-04-16T11:30:00Z",
+        "homeTeamId": 28,
+        "homeTeamName": "1. FC Union Berlin",
+        "id": 152312,
+        "matchday": 29,
+        "odds": {
+            "awayWin": 4.0,
+            "draw": 3.4,
+            "homeWin": 1.83
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 3,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 10,
+        "awayTeamName": "VfB Stuttgart",
+        "competitionId": 431,
+        "date": "2017-04-17T18:15:00Z",
+        "homeTeamId": 38,
+        "homeTeamName": "Arminia Bielefeld",
+        "id": 152305,
+        "matchday": 29,
+        "odds": {
+            "awayWin": 2.1,
+            "draw": 3.25,
+            "homeWin": 3.3
+        },
+        "result": {
+            "goalsAwayTeam": 3,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 26,
+        "awayTeamName": "TSV 1860 München",
+        "competitionId": 431,
+        "date": "2017-04-21T16:30:00Z",
+        "homeTeamId": 13,
+        "homeTeamName": "1. FC Kaiserslautern",
+        "id": 152300,
+        "matchday": 30,
+        "odds": {
+            "awayWin": 3.25,
+            "draw": 3.1,
+            "homeWin": 2.15
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 1
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 35,
+        "awayTeamName": "Dynamo Dresden",
+        "competitionId": 431,
+        "date": "2017-04-21T16:30:00Z",
+        "homeTeamId": 21,
+        "homeTeamName": "SpVgg Greuther Fürth",
+        "id": 152298,
+        "matchday": 30,
+        "odds": {
+            "awayWin": 2.7,
+            "draw": 3.1,
+            "homeWin": 2.6
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 20,
+        "awayTeamName": "FC St. Pauli",
+        "competitionId": 431,
+        "date": "2017-04-21T16:30:00Z",
+        "homeTeamId": 24,
+        "homeTeamName": "Fortuna Düsseldorf",
+        "id": 152297,
+        "matchday": 30,
+        "odds": {
+            "awayWin": 3.2,
+            "draw": 3.1,
+            "homeWin": 2.2
+        },
+        "result": {
+            "goalsAwayTeam": 3,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 8,
+        "awayTeamName": "Hannover 96",
+        "competitionId": 431,
+        "date": "2017-04-22T11:00:00Z",
+        "homeTeamId": 22,
+        "homeTeamName": "Erzgebirge Aue",
+        "id": 152296,
+        "matchday": 30,
+        "odds": {
+            "awayWin": 2.15,
+            "draw": 3.2,
+            "homeWin": 3.1
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 38,
+        "awayTeamName": "Arminia Bielefeld",
+        "competitionId": 431,
+        "date": "2017-04-22T11:00:00Z",
+        "homeTeamId": 44,
+        "homeTeamName": "1. FC Heidenheim 1846",
+        "id": 152299,
+        "matchday": 30,
+        "odds": {
+            "awayWin": 3.2,
+            "draw": 3.2,
+            "homeWin": 2.15
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 36,
+        "awayTeamName": "VfL Bochum",
+        "competitionId": 431,
+        "date": "2017-04-23T11:30:00Z",
+        "homeTeamId": 33,
+        "homeTeamName": "Eintracht Braunschweig",
+        "id": 152295,
+        "matchday": 30,
+        "odds": {
+            "awayWin": 4.33,
+            "draw": 3.6,
+            "homeWin": 1.72
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 32,
+        "awayTeamName": "Karlsruher SC",
+        "competitionId": 431,
+        "date": "2017-04-23T11:30:00Z",
+        "homeTeamId": 46,
+        "homeTeamName": "SV Sandhausen",
+        "id": 152301,
+        "matchday": 30,
+        "odds": {
+            "awayWin": 3.5,
+            "draw": 3.2,
+            "homeWin": 2.05
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 4,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 2
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 14,
+        "awayTeamName": "1. FC Nürnberg",
+        "competitionId": 431,
+        "date": "2017-04-23T11:30:00Z",
+        "homeTeamId": 1055,
+        "homeTeamName": "Würzburger Kickers",
+        "id": 152303,
+        "matchday": 30,
+        "odds": {
+            "awayWin": 3.2,
+            "draw": 3.1,
+            "homeWin": 2.2
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 28,
+        "awayTeamName": "1. FC Union Berlin",
+        "competitionId": 431,
+        "date": "2017-04-24T18:15:00Z",
+        "homeTeamId": 10,
+        "homeTeamName": "VfB Stuttgart",
+        "id": 152302,
+        "matchday": 30,
+        "odds": {
+            "awayWin": 4.0,
+            "draw": 3.6,
+            "homeWin": 1.85
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 3,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 2
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 46,
+        "awayTeamName": "SV Sandhausen",
+        "competitionId": 431,
+        "date": "2017-04-28T16:30:00Z",
+        "homeTeamId": 28,
+        "homeTeamName": "1. FC Union Berlin",
+        "id": 152294,
+        "matchday": 31,
+        "odds": null,
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 44,
+        "awayTeamName": "1. FC Heidenheim 1846",
+        "competitionId": 431,
+        "date": "2017-04-28T16:30:00Z",
+        "homeTeamId": 20,
+        "homeTeamName": "FC St. Pauli",
+        "id": 152293,
+        "matchday": 31,
+        "odds": null,
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 3,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 35,
+        "awayTeamName": "Dynamo Dresden",
+        "competitionId": 431,
+        "date": "2017-04-28T16:30:00Z",
+        "homeTeamId": 36,
+        "homeTeamName": "VfL Bochum",
+        "id": 152288,
+        "matchday": 31,
+        "odds": null,
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 4,
+            "halfTime": {
+                "goalsAwayTeam": 2,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 13,
+        "awayTeamName": "1. FC Kaiserslautern",
+        "competitionId": 431,
+        "date": "2017-04-29T11:00:00Z",
+        "homeTeamId": 32,
+        "homeTeamName": "Karlsruher SC",
+        "id": 152291,
+        "matchday": 31,
+        "odds": {
+            "awayWin": 2.1,
+            "draw": 3.25,
+            "homeWin": 3.4
+        },
+        "result": {
+            "goalsAwayTeam": 3,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 10,
+        "awayTeamName": "VfB Stuttgart",
+        "competitionId": 431,
+        "date": "2017-04-29T11:00:00Z",
+        "homeTeamId": 14,
+        "homeTeamName": "1. FC Nürnberg",
+        "id": 152292,
+        "matchday": 31,
+        "odds": {
+            "awayWin": 1.72,
+            "draw": 3.75,
+            "homeWin": 4.4
+        },
+        "result": {
+            "goalsAwayTeam": 3,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 2
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 21,
+        "awayTeamName": "SpVgg Greuther Fürth",
+        "competitionId": 431,
+        "date": "2017-04-29T11:00:00Z",
+        "homeTeamId": 38,
+        "homeTeamName": "Arminia Bielefeld",
+        "id": 152287,
+        "matchday": 31,
+        "odds": {
+            "awayWin": 3.4,
+            "draw": 3.3,
+            "homeWin": 2.15
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 1055,
+        "awayTeamName": "Würzburger Kickers",
+        "competitionId": 431,
+        "date": "2017-04-30T11:30:00Z",
+        "homeTeamId": 22,
+        "homeTeamName": "Erzgebirge Aue",
+        "id": 152289,
+        "matchday": 31,
+        "odds": {
+            "awayWin": 3.25,
+            "draw": 3.1,
+            "homeWin": 2.3
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 3,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 3
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 24,
+        "awayTeamName": "Fortuna Düsseldorf",
+        "competitionId": 431,
+        "date": "2017-04-30T11:30:00Z",
+        "homeTeamId": 8,
+        "homeTeamName": "Hannover 96",
+        "id": 152290,
+        "matchday": 31,
+        "odds": {
+            "awayWin": 6.0,
+            "draw": 3.9,
+            "homeWin": 1.55
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 33,
+        "awayTeamName": "Eintracht Braunschweig",
+        "competitionId": 431,
+        "date": "2017-04-30T11:30:00Z",
+        "homeTeamId": 26,
+        "homeTeamName": "TSV 1860 München",
+        "id": 152286,
+        "matchday": 31,
+        "odds": {
+            "awayWin": 2.7,
+            "draw": 3.1,
+            "homeWin": 2.62
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 0
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 26,
+        "awayTeamName": "TSV 1860 München",
+        "competitionId": 431,
+        "date": "2017-05-05T16:30:00Z",
+        "homeTeamId": 35,
+        "homeTeamName": "Dynamo Dresden",
+        "id": 152278,
+        "matchday": 32,
+        "odds": {
+            "awayWin": 2.75,
+            "draw": 3.3,
+            "homeWin": 2.5
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 1
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 8,
+        "awayTeamName": "Hannover 96",
+        "competitionId": 431,
+        "date": "2017-05-05T16:30:00Z",
+        "homeTeamId": 44,
+        "homeTeamName": "1. FC Heidenheim 1846",
+        "id": 152282,
+        "matchday": 32,
+        "odds": {
+            "awayWin": 1.8,
+            "draw": 3.6,
+            "homeWin": 4.33
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 2,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 20,
+        "awayTeamName": "FC St. Pauli",
+        "competitionId": 431,
+        "date": "2017-05-05T16:30:00Z",
+        "homeTeamId": 13,
+        "homeTeamName": "1. FC Kaiserslautern",
+        "id": 152283,
+        "matchday": 32,
+        "odds": {
+            "awayWin": 2.9,
+            "draw": 2.87,
+            "homeWin": 2.7
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 14,
+        "awayTeamName": "1. FC Nürnberg",
+        "competitionId": 431,
+        "date": "2017-05-06T11:00:00Z",
+        "homeTeamId": 46,
+        "homeTeamName": "SV Sandhausen",
+        "id": 152284,
+        "matchday": 32,
+        "odds": {
+            "awayWin": 2.9,
+            "draw": 3.1,
+            "homeWin": 2.45
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 1055,
+        "awayTeamName": "Würzburger Kickers",
+        "competitionId": 431,
+        "date": "2017-05-06T11:00:00Z",
+        "homeTeamId": 24,
+        "homeTeamName": "Fortuna Düsseldorf",
+        "id": 152280,
+        "matchday": 32,
+        "odds": {
+            "awayWin": 3.5,
+            "draw": 3.2,
+            "homeWin": 2.15
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 32,
+        "awayTeamName": "Karlsruher SC",
+        "competitionId": 431,
+        "date": "2017-05-07T11:30:00Z",
+        "homeTeamId": 21,
+        "homeTeamName": "SpVgg Greuther Fürth",
+        "id": 152281,
+        "matchday": 32,
+        "odds": {
+            "awayWin": 5.5,
+            "draw": 3.75,
+            "homeWin": 1.61
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 22,
+        "awayTeamName": "Erzgebirge Aue",
+        "competitionId": 431,
+        "date": "2017-05-07T11:30:00Z",
+        "homeTeamId": 10,
+        "homeTeamName": "VfB Stuttgart",
+        "id": 152285,
+        "matchday": 32,
+        "odds": {
+            "awayWin": 9.0,
+            "draw": 4.4,
+            "homeWin": 1.36
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 3,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 38,
+        "awayTeamName": "Arminia Bielefeld",
+        "competitionId": 431,
+        "date": "2017-05-07T11:30:00Z",
+        "homeTeamId": 36,
+        "homeTeamName": "VfL Bochum",
+        "id": 152277,
+        "matchday": 32,
+        "odds": {
+            "awayWin": 2.62,
+            "draw": 3.4,
+            "homeWin": 2.5
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 28,
+        "awayTeamName": "1. FC Union Berlin",
+        "competitionId": 431,
+        "date": "2017-05-08T18:15:00Z",
+        "homeTeamId": 33,
+        "homeTeamName": "Eintracht Braunschweig",
+        "id": 152279,
+        "matchday": 32,
+        "odds": {
+            "awayWin": 3.1,
+            "draw": 3.1,
+            "homeWin": 2.2
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 3
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 13,
+        "awayTeamName": "1. FC Kaiserslautern",
+        "competitionId": 431,
+        "date": "2017-05-14T13:30:00Z",
+        "homeTeamId": 22,
+        "homeTeamName": "Erzgebirge Aue",
+        "id": 152270,
+        "matchday": 33,
+        "odds": {
+            "awayWin": 3.2,
+            "draw": 3.1,
+            "homeWin": 2.2
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 1
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 33,
+        "awayTeamName": "Eintracht Braunschweig",
+        "competitionId": 431,
+        "date": "2017-05-14T13:30:00Z",
+        "homeTeamId": 38,
+        "homeTeamName": "Arminia Bielefeld",
+        "id": 152269,
+        "matchday": 33,
+        "odds": {
+            "awayWin": 2.6,
+            "draw": 3.2,
+            "homeWin": 2.6
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 6
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 36,
+        "awayTeamName": "VfL Bochum",
+        "competitionId": 431,
+        "date": "2017-05-14T13:30:00Z",
+        "homeTeamId": 26,
+        "homeTeamName": "TSV 1860 München",
+        "id": 152268,
+        "matchday": 33,
+        "odds": {
+            "awayWin": 5.5,
+            "draw": 3.5,
+            "homeWin": 1.61
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 1
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 10,
+        "awayTeamName": "VfB Stuttgart",
+        "competitionId": 431,
+        "date": "2017-05-14T13:30:00Z",
+        "homeTeamId": 8,
+        "homeTeamName": "Hannover 96",
+        "id": 152271,
+        "matchday": 33,
+        "odds": {
+            "awayWin": 2.75,
+            "draw": 3.1,
+            "homeWin": 2.45
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 35,
+        "awayTeamName": "Dynamo Dresden",
+        "competitionId": 431,
+        "date": "2017-05-14T13:30:00Z",
+        "homeTeamId": 32,
+        "homeTeamName": "Karlsruher SC",
+        "id": 152272,
+        "matchday": 33,
+        "odds": {
+            "awayWin": 2.4,
+            "draw": 3.1,
+            "homeWin": 2.8
+        },
+        "result": {
+            "goalsAwayTeam": 4,
+            "goalsHomeTeam": 3,
+            "halfTime": {
+                "goalsAwayTeam": 3,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 24,
+        "awayTeamName": "Fortuna Düsseldorf",
+        "competitionId": 431,
+        "date": "2017-05-14T13:30:00Z",
+        "homeTeamId": 14,
+        "homeTeamName": "1. FC Nürnberg",
+        "id": 152273,
+        "matchday": 33,
+        "odds": {
+            "awayWin": 2.5,
+            "draw": 3.1,
+            "homeWin": 2.7
+        },
+        "result": {
+            "goalsAwayTeam": 3,
+            "goalsHomeTeam": 2
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 21,
+        "awayTeamName": "SpVgg Greuther Fürth",
+        "competitionId": 431,
+        "date": "2017-05-14T13:30:00Z",
+        "homeTeamId": 20,
+        "homeTeamName": "FC St. Pauli",
+        "id": 152274,
+        "matchday": 33,
+        "odds": {
+            "awayWin": 3.9,
+            "draw": 3.4,
+            "homeWin": 1.85
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 44,
+        "awayTeamName": "1. FC Heidenheim 1846",
+        "competitionId": 431,
+        "date": "2017-05-14T13:30:00Z",
+        "homeTeamId": 28,
+        "homeTeamName": "1. FC Union Berlin",
+        "id": 152275,
+        "matchday": 33,
+        "odds": {
+            "awayWin": 6.5,
+            "draw": 3.8,
+            "homeWin": 1.5
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 46,
+        "awayTeamName": "SV Sandhausen",
+        "competitionId": 431,
+        "date": "2017-05-14T13:30:00Z",
+        "homeTeamId": 1055,
+        "homeTeamName": "Würzburger Kickers",
+        "id": 152276,
+        "matchday": 33,
+        "odds": {
+            "awayWin": 3.7,
+            "draw": 3.2,
+            "homeWin": 2.0
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 38,
+        "awayTeamName": "Arminia Bielefeld",
+        "competitionId": 431,
+        "date": "2017-05-21T13:30:00Z",
+        "homeTeamId": 35,
+        "homeTeamName": "Dynamo Dresden",
+        "id": 152260,
+        "matchday": 34,
+        "odds": {
+            "awayWin": 2.0,
+            "draw": 3.4,
+            "homeWin": 3.5
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 32,
+        "awayTeamName": "Karlsruher SC",
+        "competitionId": 431,
+        "date": "2017-05-21T13:30:00Z",
+        "homeTeamId": 33,
+        "homeTeamName": "Eintracht Braunschweig",
+        "id": 152261,
+        "matchday": 34,
+        "odds": {
+            "awayWin": 10.0,
+            "draw": 5.5,
+            "homeWin": 1.25
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 2
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 22,
+        "awayTeamName": "Erzgebirge Aue",
+        "competitionId": 431,
+        "date": "2017-05-21T13:30:00Z",
+        "homeTeamId": 24,
+        "homeTeamName": "Fortuna Düsseldorf",
+        "id": 152262,
+        "matchday": 34,
+        "odds": {
+            "awayWin": 3.7,
+            "draw": 1.85,
+            "homeWin": 3.1
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 28,
+        "awayTeamName": "1. FC Union Berlin",
+        "competitionId": 431,
+        "date": "2017-05-21T13:30:00Z",
+        "homeTeamId": 21,
+        "homeTeamName": "SpVgg Greuther Fürth",
+        "id": 152263,
+        "matchday": 34,
+        "odds": {
+            "awayWin": 3.2,
+            "draw": 3.25,
+            "homeWin": 2.15
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 26,
+        "awayTeamName": "TSV 1860 München",
+        "competitionId": 431,
+        "date": "2017-05-21T13:30:00Z",
+        "homeTeamId": 44,
+        "homeTeamName": "1. FC Heidenheim 1846",
+        "id": 152264,
+        "matchday": 34,
+        "odds": {
+            "awayWin": 1.9,
+            "draw": 3.4,
+            "homeWin": 3.7
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 2
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 14,
+        "awayTeamName": "1. FC Nürnberg",
+        "competitionId": 431,
+        "date": "2017-05-21T13:30:00Z",
+        "homeTeamId": 13,
+        "homeTeamName": "1. FC Kaiserslautern",
+        "id": 152265,
+        "matchday": 34,
+        "odds": {
+            "awayWin": 4.6,
+            "draw": 3.4,
+            "homeWin": 1.72
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 1
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 8,
+        "awayTeamName": "Hannover 96",
+        "competitionId": 431,
+        "date": "2017-05-21T13:30:00Z",
+        "homeTeamId": 46,
+        "homeTeamName": "SV Sandhausen",
+        "id": 152266,
+        "matchday": 34,
+        "odds": {
+            "awayWin": 1.61,
+            "draw": 3.6,
+            "homeWin": 5.5
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 1055,
+        "awayTeamName": "Würzburger Kickers",
+        "competitionId": 431,
+        "date": "2017-05-21T13:30:00Z",
+        "homeTeamId": 10,
+        "homeTeamName": "VfB Stuttgart",
+        "id": 152267,
+        "matchday": 34,
+        "odds": {
+            "awayWin": 8.0,
+            "draw": 4.4,
+            "homeWin": 1.36
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 4,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 20,
+        "awayTeamName": "FC St. Pauli",
+        "competitionId": 431,
+        "date": "2017-05-21T18:30:00Z",
+        "homeTeamId": 36,
+        "homeTeamName": "VfL Bochum",
+        "id": 152259,
+        "matchday": 34,
+        "odds": {
+            "awayWin": 2.7,
+            "draw": 3.25,
+            "homeWin": 2.45
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    }
+]

@@ -1,0 +1,6962 @@
+[
+    {
+        "awayTeamId": 12,
+        "awayTeamName": "Werder Bremen",
+        "competitionId": 430,
+        "date": "2016-08-26T18:30:00Z",
+        "homeTeamId": 5,
+        "homeTeamName": "FC Bayern München",
+        "id": 152258,
+        "matchday": 1,
+        "odds": {
+            "awayWin": 26.0,
+            "draw": 8.0,
+            "homeWin": 1.12
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 6
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 11,
+        "awayTeamName": "VfL Wolfsburg",
+        "competitionId": 430,
+        "date": "2016-08-27T13:30:00Z",
+        "homeTeamId": 16,
+        "homeTeamName": "FC Augsburg",
+        "id": 152250,
+        "matchday": 1,
+        "odds": {
+            "awayWin": 2.37,
+            "draw": 3.3,
+            "homeWin": 3.0
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 0
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 55,
+        "awayTeamName": "SV Darmstadt 98",
+        "competitionId": 430,
+        "date": "2016-08-27T13:30:00Z",
+        "homeTeamId": 1,
+        "homeTeamName": "1. FC Köln",
+        "id": 152257,
+        "matchday": 1,
+        "odds": {
+            "awayWin": 4.5,
+            "draw": 3.5,
+            "homeWin": 1.8
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 2
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 15,
+        "awayTeamName": "1. FSV Mainz 05",
+        "competitionId": 430,
+        "date": "2016-08-27T13:30:00Z",
+        "homeTeamId": 4,
+        "homeTeamName": "Borussia Dortmund",
+        "id": 152251,
+        "matchday": 1,
+        "odds": {
+            "awayWin": 7.5,
+            "draw": 4.6,
+            "homeWin": 1.4
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 2
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 31,
+        "awayTeamName": "FC Ingolstadt 04",
+        "competitionId": 430,
+        "date": "2016-08-27T13:30:00Z",
+        "homeTeamId": 7,
+        "homeTeamName": "Hamburger SV",
+        "id": 152254,
+        "matchday": 1,
+        "odds": {
+            "awayWin": 3.4,
+            "draw": 3.2,
+            "homeWin": 2.25
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 6,
+        "awayTeamName": "FC Schalke 04",
+        "competitionId": 430,
+        "date": "2016-08-27T13:30:00Z",
+        "homeTeamId": 19,
+        "homeTeamName": "Eintracht Frankfurt",
+        "id": 152253,
+        "matchday": 1,
+        "odds": {
+            "awayWin": 2.15,
+            "draw": 3.5,
+            "homeWin": 3.25
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 1
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 3,
+        "awayTeamName": "Bayer Leverkusen",
+        "competitionId": 430,
+        "date": "2016-08-27T16:30:00Z",
+        "homeTeamId": 18,
+        "homeTeamName": "Bor. Mönchengladbach",
+        "id": 152252,
+        "matchday": 1,
+        "odds": {
+            "awayWin": 2.75,
+            "draw": 3.2,
+            "homeWin": 2.5
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 2
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 17,
+        "awayTeamName": "SC Freiburg",
+        "competitionId": 430,
+        "date": "2016-08-28T13:30:00Z",
+        "homeTeamId": 9,
+        "homeTeamName": "Hertha BSC",
+        "id": 152255,
+        "matchday": 1,
+        "odds": {
+            "awayWin": 3.4,
+            "draw": 3.4,
+            "homeWin": 2.1
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 2
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 721,
+        "awayTeamName": "Red Bull Leipzig",
+        "competitionId": 430,
+        "date": "2016-08-28T15:30:00Z",
+        "homeTeamId": 2,
+        "homeTeamName": "TSG 1899 Hoffenheim",
+        "id": 152256,
+        "matchday": 1,
+        "odds": {
+            "awayWin": 2.7,
+            "draw": 3.25,
+            "homeWin": 2.6
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 2
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 5,
+        "awayTeamName": "FC Bayern München",
+        "competitionId": 430,
+        "date": "2016-09-09T18:30:00Z",
+        "homeTeamId": 6,
+        "homeTeamName": "FC Schalke 04",
+        "id": 152247,
+        "matchday": 2,
+        "odds": {
+            "awayWin": 1.3,
+            "draw": 6.0,
+            "homeWin": 12.0
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 0
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 18,
+        "awayTeamName": "Bor. Mönchengladbach",
+        "competitionId": 430,
+        "date": "2016-09-10T13:30:00Z",
+        "homeTeamId": 17,
+        "homeTeamName": "SC Freiburg",
+        "id": 152243,
+        "matchday": 2,
+        "odds": {
+            "awayWin": 2.0,
+            "draw": 3.6,
+            "homeWin": 3.5
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 3
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 9,
+        "awayTeamName": "Hertha BSC",
+        "competitionId": 430,
+        "date": "2016-09-10T13:30:00Z",
+        "homeTeamId": 31,
+        "homeTeamName": "FC Ingolstadt 04",
+        "id": 152244,
+        "matchday": 2,
+        "odds": {
+            "awayWin": 3.1,
+            "draw": 3.1,
+            "homeWin": 2.45
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 0
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 7,
+        "awayTeamName": "Hamburger SV",
+        "competitionId": 430,
+        "date": "2016-09-10T13:30:00Z",
+        "homeTeamId": 3,
+        "homeTeamName": "Bayer Leverkusen",
+        "id": 152241,
+        "matchday": 2,
+        "odds": {
+            "awayWin": 7.0,
+            "draw": 4.2,
+            "homeWin": 1.5
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 3
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 1,
+        "awayTeamName": "1. FC Köln",
+        "competitionId": 430,
+        "date": "2016-09-10T13:30:00Z",
+        "homeTeamId": 11,
+        "homeTeamName": "VfL Wolfsburg",
+        "id": 152249,
+        "matchday": 2,
+        "odds": {
+            "awayWin": 4.2,
+            "draw": 3.6,
+            "homeWin": 1.83
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 0
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 19,
+        "awayTeamName": "Eintracht Frankfurt",
+        "competitionId": 430,
+        "date": "2016-09-10T13:30:00Z",
+        "homeTeamId": 55,
+        "homeTeamName": "SV Darmstadt 98",
+        "id": 152242,
+        "matchday": 2,
+        "odds": {
+            "awayWin": 2.37,
+            "draw": 3.2,
+            "homeWin": 3.1
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 1
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 4,
+        "awayTeamName": "Borussia Dortmund",
+        "competitionId": 430,
+        "date": "2016-09-10T16:30:00Z",
+        "homeTeamId": 721,
+        "homeTeamName": "Red Bull Leipzig",
+        "id": 152246,
+        "matchday": 2,
+        "odds": {
+            "awayWin": 1.61,
+            "draw": 4.33,
+            "homeWin": 5.5
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 1
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 16,
+        "awayTeamName": "FC Augsburg",
+        "competitionId": 430,
+        "date": "2016-09-11T13:30:00Z",
+        "homeTeamId": 12,
+        "homeTeamName": "Werder Bremen",
+        "id": 152248,
+        "matchday": 2,
+        "odds": {
+            "awayWin": 3.0,
+            "draw": 3.4,
+            "homeWin": 2.3
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 1
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 2,
+        "awayTeamName": "TSG 1899 Hoffenheim",
+        "competitionId": 430,
+        "date": "2016-09-11T15:30:00Z",
+        "homeTeamId": 15,
+        "homeTeamName": "1. FSV Mainz 05",
+        "id": 152245,
+        "matchday": 2,
+        "odds": {
+            "awayWin": 4.0,
+            "draw": 3.6,
+            "homeWin": 2.0
+        },
+        "result": {
+            "goalsAwayTeam": 4,
+            "goalsHomeTeam": 4
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 17,
+        "awayTeamName": "SC Freiburg",
+        "competitionId": 430,
+        "date": "2016-09-16T18:30:00Z",
+        "homeTeamId": 1,
+        "homeTeamName": "1. FC Köln",
+        "id": 152240,
+        "matchday": 3,
+        "odds": null,
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 3
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 11,
+        "awayTeamName": "VfL Wolfsburg",
+        "competitionId": 430,
+        "date": "2016-09-17T13:30:00Z",
+        "homeTeamId": 2,
+        "homeTeamName": "TSG 1899 Hoffenheim",
+        "id": 152239,
+        "matchday": 3,
+        "odds": {
+            "awayWin": 2.37,
+            "draw": 3.5,
+            "homeWin": 2.87
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 0
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 721,
+        "awayTeamName": "Red Bull Leipzig",
+        "competitionId": 430,
+        "date": "2016-09-17T13:30:00Z",
+        "homeTeamId": 7,
+        "homeTeamName": "Hamburger SV",
+        "id": 152237,
+        "matchday": 3,
+        "odds": {
+            "awayWin": 2.62,
+            "draw": 3.25,
+            "homeWin": 2.7
+        },
+        "result": {
+            "goalsAwayTeam": 4,
+            "goalsHomeTeam": 0
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 3,
+        "awayTeamName": "Bayer Leverkusen",
+        "competitionId": 430,
+        "date": "2016-09-17T13:30:00Z",
+        "homeTeamId": 19,
+        "homeTeamName": "Eintracht Frankfurt",
+        "id": 152236,
+        "matchday": 3,
+        "odds": {
+            "awayWin": 1.95,
+            "draw": 3.4,
+            "homeWin": 4.0
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 2
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 55,
+        "awayTeamName": "SV Darmstadt 98",
+        "competitionId": 430,
+        "date": "2016-09-17T13:30:00Z",
+        "homeTeamId": 4,
+        "homeTeamName": "Borussia Dortmund",
+        "id": 152234,
+        "matchday": 3,
+        "odds": {
+            "awayWin": 26.0,
+            "draw": 8.0,
+            "homeWin": 1.12
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 6
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 31,
+        "awayTeamName": "FC Ingolstadt 04",
+        "competitionId": 430,
+        "date": "2016-09-17T13:30:00Z",
+        "homeTeamId": 5,
+        "homeTeamName": "FC Bayern München",
+        "id": 152233,
+        "matchday": 3,
+        "odds": {
+            "awayWin": 15.0,
+            "draw": 8.0,
+            "homeWin": 1.12
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 3
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 12,
+        "awayTeamName": "Werder Bremen",
+        "competitionId": 430,
+        "date": "2016-09-17T16:30:00Z",
+        "homeTeamId": 18,
+        "homeTeamName": "Bor. Mönchengladbach",
+        "id": 152235,
+        "matchday": 3,
+        "odds": {
+            "awayWin": 7.0,
+            "draw": 5.0,
+            "homeWin": 1.44
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 4
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 15,
+        "awayTeamName": "1. FSV Mainz 05",
+        "competitionId": 430,
+        "date": "2016-09-18T13:30:00Z",
+        "homeTeamId": 16,
+        "homeTeamName": "FC Augsburg",
+        "id": 152232,
+        "matchday": 3,
+        "odds": {
+            "awayWin": 2.87,
+            "draw": 3.2,
+            "homeWin": 2.5
+        },
+        "result": {
+            "goalsAwayTeam": 3,
+            "goalsHomeTeam": 1
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 6,
+        "awayTeamName": "FC Schalke 04",
+        "competitionId": 430,
+        "date": "2016-09-18T15:30:00Z",
+        "homeTeamId": 9,
+        "homeTeamName": "Hertha BSC",
+        "id": 152238,
+        "matchday": 3,
+        "odds": {
+            "awayWin": 2.8,
+            "draw": 3.1,
+            "homeWin": 2.62
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 2
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 2,
+        "awayTeamName": "TSG 1899 Hoffenheim",
+        "competitionId": 430,
+        "date": "2016-09-20T18:00:00Z",
+        "homeTeamId": 55,
+        "homeTeamName": "SV Darmstadt 98",
+        "id": 152225,
+        "matchday": 4,
+        "odds": {
+            "awayWin": 2.15,
+            "draw": 3.5,
+            "homeWin": 3.3
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 7,
+        "awayTeamName": "Hamburger SV",
+        "competitionId": 430,
+        "date": "2016-09-20T18:00:00Z",
+        "homeTeamId": 17,
+        "homeTeamName": "SC Freiburg",
+        "id": 152226,
+        "matchday": 4,
+        "odds": {
+            "awayWin": 3.0,
+            "draw": 3.5,
+            "homeWin": 2.25
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 1
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 19,
+        "awayTeamName": "Eintracht Frankfurt",
+        "competitionId": 430,
+        "date": "2016-09-20T18:00:00Z",
+        "homeTeamId": 31,
+        "homeTeamName": "FC Ingolstadt 04",
+        "id": 152227,
+        "matchday": 4,
+        "odds": {
+            "awayWin": 3.2,
+            "draw": 3.3,
+            "homeWin": 2.25
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 0
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 4,
+        "awayTeamName": "Borussia Dortmund",
+        "competitionId": 430,
+        "date": "2016-09-20T18:00:00Z",
+        "homeTeamId": 11,
+        "homeTeamName": "VfL Wolfsburg",
+        "id": 152231,
+        "matchday": 4,
+        "odds": {
+            "awayWin": 1.75,
+            "draw": 3.75,
+            "homeWin": 4.5
+        },
+        "result": {
+            "goalsAwayTeam": 5,
+            "goalsHomeTeam": 1
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 18,
+        "awayTeamName": "Bor. Mönchengladbach",
+        "competitionId": 430,
+        "date": "2016-09-21T18:00:00Z",
+        "homeTeamId": 721,
+        "homeTeamName": "Red Bull Leipzig",
+        "id": 152228,
+        "matchday": 4,
+        "odds": {
+            "awayWin": 2.8,
+            "draw": 3.3,
+            "homeWin": 2.5
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 16,
+        "awayTeamName": "FC Augsburg",
+        "competitionId": 430,
+        "date": "2016-09-21T18:00:00Z",
+        "homeTeamId": 3,
+        "homeTeamName": "Bayer Leverkusen",
+        "id": 152223,
+        "matchday": 4,
+        "odds": {
+            "awayWin": 7.0,
+            "draw": 4.2,
+            "homeWin": 1.5
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 0
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 9,
+        "awayTeamName": "Hertha BSC",
+        "competitionId": 430,
+        "date": "2016-09-21T18:00:00Z",
+        "homeTeamId": 5,
+        "homeTeamName": "FC Bayern München",
+        "id": 152224,
+        "matchday": 4,
+        "odds": {
+            "awayWin": 17.0,
+            "draw": 7.5,
+            "homeWin": 1.14
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 3
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 15,
+        "awayTeamName": "1. FSV Mainz 05",
+        "competitionId": 430,
+        "date": "2016-09-21T18:00:00Z",
+        "homeTeamId": 12,
+        "homeTeamName": "Werder Bremen",
+        "id": 152230,
+        "matchday": 4,
+        "odds": {
+            "awayWin": 2.3,
+            "draw": 3.3,
+            "homeWin": 3.0
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 1
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 1,
+        "awayTeamName": "1. FC Köln",
+        "competitionId": 430,
+        "date": "2016-09-21T18:00:00Z",
+        "homeTeamId": 6,
+        "homeTeamName": "FC Schalke 04",
+        "id": 152229,
+        "matchday": 4,
+        "odds": {
+            "awayWin": 3.5,
+            "draw": 3.3,
+            "homeWin": 2.1
+        },
+        "result": {
+            "goalsAwayTeam": 3,
+            "goalsHomeTeam": 1
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 17,
+        "awayTeamName": "SC Freiburg",
+        "competitionId": 430,
+        "date": "2016-09-23T18:30:00Z",
+        "homeTeamId": 4,
+        "homeTeamName": "Borussia Dortmund",
+        "id": 152215,
+        "matchday": 5,
+        "odds": {
+            "awayWin": 21.0,
+            "draw": 7.0,
+            "homeWin": 1.16
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 3
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 55,
+        "awayTeamName": "SV Darmstadt 98",
+        "competitionId": 430,
+        "date": "2016-09-24T13:30:00Z",
+        "homeTeamId": 16,
+        "homeTeamName": "FC Augsburg",
+        "id": 152214,
+        "matchday": 5,
+        "odds": {
+            "awayWin": 4.5,
+            "draw": 3.7,
+            "homeWin": 1.75
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 1
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 31,
+        "awayTeamName": "FC Ingolstadt 04",
+        "competitionId": 430,
+        "date": "2016-09-24T13:30:00Z",
+        "homeTeamId": 18,
+        "homeTeamName": "Bor. Mönchengladbach",
+        "id": 152216,
+        "matchday": 5,
+        "odds": {
+            "awayWin": 6.5,
+            "draw": 4.0,
+            "homeWin": 1.53
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 2
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 9,
+        "awayTeamName": "Hertha BSC",
+        "competitionId": 430,
+        "date": "2016-09-24T13:30:00Z",
+        "homeTeamId": 19,
+        "homeTeamName": "Eintracht Frankfurt",
+        "id": 152217,
+        "matchday": 5,
+        "odds": {
+            "awayWin": 2.8,
+            "draw": 3.25,
+            "homeWin": 2.5
+        },
+        "result": {
+            "goalsAwayTeam": 3,
+            "goalsHomeTeam": 3
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 5,
+        "awayTeamName": "FC Bayern München",
+        "competitionId": 430,
+        "date": "2016-09-24T13:30:00Z",
+        "homeTeamId": 7,
+        "homeTeamName": "Hamburger SV",
+        "id": 152218,
+        "matchday": 5,
+        "odds": {
+            "awayWin": 1.22,
+            "draw": 5.8,
+            "homeWin": 17.0
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 0
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 3,
+        "awayTeamName": "Bayer Leverkusen",
+        "competitionId": 430,
+        "date": "2016-09-24T13:30:00Z",
+        "homeTeamId": 15,
+        "homeTeamName": "1. FSV Mainz 05",
+        "id": 152221,
+        "matchday": 5,
+        "odds": {
+            "awayWin": 2.3,
+            "draw": 3.5,
+            "homeWin": 2.9
+        },
+        "result": {
+            "goalsAwayTeam": 3,
+            "goalsHomeTeam": 2
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 11,
+        "awayTeamName": "VfL Wolfsburg",
+        "competitionId": 430,
+        "date": "2016-09-24T16:30:00Z",
+        "homeTeamId": 12,
+        "homeTeamName": "Werder Bremen",
+        "id": 152222,
+        "matchday": 5,
+        "odds": {
+            "awayWin": 2.15,
+            "draw": 3.5,
+            "homeWin": 3.3
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 2
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 6,
+        "awayTeamName": "FC Schalke 04",
+        "competitionId": 430,
+        "date": "2016-09-25T13:30:00Z",
+        "homeTeamId": 2,
+        "homeTeamName": "TSG 1899 Hoffenheim",
+        "id": 152219,
+        "matchday": 5,
+        "odds": {
+            "awayWin": 2.6,
+            "draw": 3.7,
+            "homeWin": 2.7
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 2
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 721,
+        "awayTeamName": "Red Bull Leipzig",
+        "competitionId": 430,
+        "date": "2016-09-25T15:30:00Z",
+        "homeTeamId": 1,
+        "homeTeamName": "1. FC Köln",
+        "id": 152220,
+        "matchday": 5,
+        "odds": {
+            "awayWin": 3.2,
+            "draw": 3.4,
+            "homeWin": 2.3
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 16,
+        "awayTeamName": "FC Augsburg",
+        "competitionId": 430,
+        "date": "2016-09-30T18:30:00Z",
+        "homeTeamId": 721,
+        "homeTeamName": "Red Bull Leipzig",
+        "id": 152211,
+        "matchday": 6,
+        "odds": null,
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 2
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 1,
+        "awayTeamName": "1. FC Köln",
+        "competitionId": 430,
+        "date": "2016-10-01T13:30:00Z",
+        "homeTeamId": 5,
+        "homeTeamName": "FC Bayern München",
+        "id": 152206,
+        "matchday": 6,
+        "odds": {
+            "awayWin": 17.0,
+            "draw": 7.0,
+            "homeWin": 1.16
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 12,
+        "awayTeamName": "Werder Bremen",
+        "competitionId": 430,
+        "date": "2016-10-01T13:30:00Z",
+        "homeTeamId": 55,
+        "homeTeamName": "SV Darmstadt 98",
+        "id": 152207,
+        "matchday": 6,
+        "odds": {
+            "awayWin": 2.4,
+            "draw": 3.2,
+            "homeWin": 3.0
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 2
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 19,
+        "awayTeamName": "Eintracht Frankfurt",
+        "competitionId": 430,
+        "date": "2016-10-01T13:30:00Z",
+        "homeTeamId": 17,
+        "homeTeamName": "SC Freiburg",
+        "id": 152208,
+        "matchday": 6,
+        "odds": {
+            "awayWin": 3.2,
+            "draw": 3.1,
+            "homeWin": 2.37
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 1
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 7,
+        "awayTeamName": "Hamburger SV",
+        "competitionId": 430,
+        "date": "2016-10-01T13:30:00Z",
+        "homeTeamId": 9,
+        "homeTeamName": "Hertha BSC",
+        "id": 152209,
+        "matchday": 6,
+        "odds": {
+            "awayWin": 4.0,
+            "draw": 3.25,
+            "homeWin": 2.0
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 2
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 2,
+        "awayTeamName": "TSG 1899 Hoffenheim",
+        "competitionId": 430,
+        "date": "2016-10-01T13:30:00Z",
+        "homeTeamId": 31,
+        "homeTeamName": "FC Ingolstadt 04",
+        "id": 152210,
+        "matchday": 6,
+        "odds": {
+            "awayWin": 3.5,
+            "draw": 3.3,
+            "homeWin": 2.15
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 1
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 4,
+        "awayTeamName": "Borussia Dortmund",
+        "competitionId": 430,
+        "date": "2016-10-01T16:30:00Z",
+        "homeTeamId": 3,
+        "homeTeamName": "Bayer Leverkusen",
+        "id": 152205,
+        "matchday": 6,
+        "odds": {
+            "awayWin": 2.0,
+            "draw": 3.5,
+            "homeWin": 3.7
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 2
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 15,
+        "awayTeamName": "1. FSV Mainz 05",
+        "competitionId": 430,
+        "date": "2016-10-02T13:30:00Z",
+        "homeTeamId": 11,
+        "homeTeamName": "VfL Wolfsburg",
+        "id": 152213,
+        "matchday": 6,
+        "odds": {
+            "awayWin": 4.33,
+            "draw": 3.75,
+            "homeWin": 1.8
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 0
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 18,
+        "awayTeamName": "Bor. Mönchengladbach",
+        "competitionId": 430,
+        "date": "2016-10-02T15:30:00Z",
+        "homeTeamId": 6,
+        "homeTeamName": "FC Schalke 04",
+        "id": 152212,
+        "matchday": 6,
+        "odds": {
+            "awayWin": 3.2,
+            "draw": 3.25,
+            "homeWin": 2.3
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 4
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 9,
+        "awayTeamName": "Hertha BSC",
+        "competitionId": 430,
+        "date": "2016-10-14T18:30:00Z",
+        "homeTeamId": 4,
+        "homeTeamName": "Borussia Dortmund",
+        "id": 152197,
+        "matchday": 7,
+        "odds": null,
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 6,
+        "awayTeamName": "FC Schalke 04",
+        "competitionId": 430,
+        "date": "2016-10-15T13:30:00Z",
+        "homeTeamId": 16,
+        "homeTeamName": "FC Augsburg",
+        "id": 152196,
+        "matchday": 7,
+        "odds": {
+            "awayWin": 2.25,
+            "draw": 3.2,
+            "homeWin": 3.25
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 7,
+        "awayTeamName": "Hamburger SV",
+        "competitionId": 430,
+        "date": "2016-10-15T13:30:00Z",
+        "homeTeamId": 18,
+        "homeTeamName": "Bor. Mönchengladbach",
+        "id": 152198,
+        "matchday": 7,
+        "odds": {
+            "awayWin": 5.0,
+            "draw": 3.6,
+            "homeWin": 1.65
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 0
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 5,
+        "awayTeamName": "FC Bayern München",
+        "competitionId": 430,
+        "date": "2016-10-15T13:30:00Z",
+        "homeTeamId": 19,
+        "homeTeamName": "Eintracht Frankfurt",
+        "id": 152199,
+        "matchday": 7,
+        "odds": {
+            "awayWin": 1.25,
+            "draw": 5.5,
+            "homeWin": 11.0
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 2
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 17,
+        "awayTeamName": "SC Freiburg",
+        "competitionId": 430,
+        "date": "2016-10-15T13:30:00Z",
+        "homeTeamId": 2,
+        "homeTeamName": "TSG 1899 Hoffenheim",
+        "id": 152200,
+        "matchday": 7,
+        "odds": {
+            "awayWin": 3.5,
+            "draw": 3.4,
+            "homeWin": 2.1
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 2
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 31,
+        "awayTeamName": "FC Ingolstadt 04",
+        "competitionId": 430,
+        "date": "2016-10-15T13:30:00Z",
+        "homeTeamId": 1,
+        "homeTeamName": "1. FC Köln",
+        "id": 152201,
+        "matchday": 7,
+        "odds": {
+            "awayWin": 5.5,
+            "draw": 3.4,
+            "homeWin": 1.72
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 2
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 3,
+        "awayTeamName": "Bayer Leverkusen",
+        "competitionId": 430,
+        "date": "2016-10-15T16:30:00Z",
+        "homeTeamId": 12,
+        "homeTeamName": "Werder Bremen",
+        "id": 152203,
+        "matchday": 7,
+        "odds": {
+            "awayWin": 1.7,
+            "draw": 3.7,
+            "homeWin": 5.0
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 2
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 55,
+        "awayTeamName": "SV Darmstadt 98",
+        "competitionId": 430,
+        "date": "2016-10-16T13:30:00Z",
+        "homeTeamId": 15,
+        "homeTeamName": "1. FSV Mainz 05",
+        "id": 152202,
+        "matchday": 7,
+        "odds": {
+            "awayWin": 7.0,
+            "draw": 3.9,
+            "homeWin": 1.5
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 2
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 721,
+        "awayTeamName": "Red Bull Leipzig",
+        "competitionId": 430,
+        "date": "2016-10-16T15:30:00Z",
+        "homeTeamId": 11,
+        "homeTeamName": "VfL Wolfsburg",
+        "id": 152204,
+        "matchday": 7,
+        "odds": {
+            "awayWin": 3.0,
+            "draw": 3.25,
+            "homeWin": 2.4
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 0
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 19,
+        "awayTeamName": "Eintracht Frankfurt",
+        "competitionId": 430,
+        "date": "2016-10-21T18:30:00Z",
+        "homeTeamId": 7,
+        "homeTeamName": "Hamburger SV",
+        "id": 152191,
+        "matchday": 8,
+        "odds": {
+            "awayWin": 3.1,
+            "draw": 3.3,
+            "homeWin": 2.45
+        },
+        "result": {
+            "goalsAwayTeam": 3,
+            "goalsHomeTeam": 0
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 2,
+        "awayTeamName": "TSG 1899 Hoffenheim",
+        "competitionId": 430,
+        "date": "2016-10-22T13:30:00Z",
+        "homeTeamId": 3,
+        "homeTeamName": "Bayer Leverkusen",
+        "id": 152187,
+        "matchday": 8,
+        "odds": {
+            "awayWin": 5.8,
+            "draw": 4.2,
+            "homeWin": 1.5
+        },
+        "result": {
+            "goalsAwayTeam": 3,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 11,
+        "awayTeamName": "VfL Wolfsburg",
+        "competitionId": 430,
+        "date": "2016-10-22T13:30:00Z",
+        "homeTeamId": 55,
+        "homeTeamName": "SV Darmstadt 98",
+        "id": 152189,
+        "matchday": 8,
+        "odds": {
+            "awayWin": 1.8,
+            "draw": 3.6,
+            "homeWin": 4.4
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 3
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 16,
+        "awayTeamName": "FC Augsburg",
+        "competitionId": 430,
+        "date": "2016-10-22T13:30:00Z",
+        "homeTeamId": 17,
+        "homeTeamName": "SC Freiburg",
+        "id": 152190,
+        "matchday": 8,
+        "odds": {
+            "awayWin": 3.5,
+            "draw": 3.3,
+            "homeWin": 2.15
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 2
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 1,
+        "awayTeamName": "1. FC Köln",
+        "competitionId": 430,
+        "date": "2016-10-22T13:30:00Z",
+        "homeTeamId": 9,
+        "homeTeamName": "Hertha BSC",
+        "id": 152192,
+        "matchday": 8,
+        "odds": {
+            "awayWin": 2.9,
+            "draw": 3.0,
+            "homeWin": 2.6
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 2
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 4,
+        "awayTeamName": "Borussia Dortmund",
+        "competitionId": 430,
+        "date": "2016-10-22T13:30:00Z",
+        "homeTeamId": 31,
+        "homeTeamName": "FC Ingolstadt 04",
+        "id": 152193,
+        "matchday": 8,
+        "odds": {
+            "awayWin": 1.53,
+            "draw": 4.0,
+            "homeWin": 6.5
+        },
+        "result": {
+            "goalsAwayTeam": 3,
+            "goalsHomeTeam": 3
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 18,
+        "awayTeamName": "Bor. Mönchengladbach",
+        "competitionId": 430,
+        "date": "2016-10-22T16:30:00Z",
+        "homeTeamId": 5,
+        "homeTeamName": "FC Bayern München",
+        "id": 152188,
+        "matchday": 8,
+        "odds": {
+            "awayWin": 15.0,
+            "draw": 8.0,
+            "homeWin": 1.2
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 2
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 12,
+        "awayTeamName": "Werder Bremen",
+        "competitionId": 430,
+        "date": "2016-10-23T13:30:00Z",
+        "homeTeamId": 721,
+        "homeTeamName": "Red Bull Leipzig",
+        "id": 152194,
+        "matchday": 8,
+        "odds": {
+            "awayWin": 6.5,
+            "draw": 4.33,
+            "homeWin": 1.5
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 3,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 15,
+        "awayTeamName": "1. FSV Mainz 05",
+        "competitionId": 430,
+        "date": "2016-10-23T15:30:00Z",
+        "homeTeamId": 6,
+        "homeTeamName": "FC Schalke 04",
+        "id": 152195,
+        "matchday": 8,
+        "odds": {
+            "awayWin": 3.75,
+            "draw": 3.5,
+            "homeWin": 1.95
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 3,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 19,
+        "awayTeamName": "Eintracht Frankfurt",
+        "competitionId": 430,
+        "date": "2016-10-28T18:30:00Z",
+        "homeTeamId": 18,
+        "homeTeamName": "Bor. Mönchengladbach",
+        "id": 152180,
+        "matchday": 9,
+        "odds": null,
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 721,
+        "awayTeamName": "Red Bull Leipzig",
+        "competitionId": 430,
+        "date": "2016-10-29T13:30:00Z",
+        "homeTeamId": 55,
+        "homeTeamName": "SV Darmstadt 98",
+        "id": 152181,
+        "matchday": 9,
+        "odds": null,
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 5,
+        "awayTeamName": "FC Bayern München",
+        "competitionId": 430,
+        "date": "2016-10-29T13:30:00Z",
+        "homeTeamId": 16,
+        "homeTeamName": "FC Augsburg",
+        "id": 152178,
+        "matchday": 9,
+        "odds": null,
+        "result": {
+            "goalsAwayTeam": 3,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 2,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 31,
+        "awayTeamName": "FC Ingolstadt 04",
+        "competitionId": 430,
+        "date": "2016-10-29T13:30:00Z",
+        "homeTeamId": 15,
+        "homeTeamName": "1. FSV Mainz 05",
+        "id": 152184,
+        "matchday": 9,
+        "odds": null,
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 17,
+        "awayTeamName": "SC Freiburg",
+        "competitionId": 430,
+        "date": "2016-10-29T13:30:00Z",
+        "homeTeamId": 12,
+        "homeTeamName": "Werder Bremen",
+        "id": 152185,
+        "matchday": 9,
+        "odds": null,
+        "result": {
+            "goalsAwayTeam": 3,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 2,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 3,
+        "awayTeamName": "Bayer Leverkusen",
+        "competitionId": 430,
+        "date": "2016-10-29T13:30:00Z",
+        "homeTeamId": 11,
+        "homeTeamName": "VfL Wolfsburg",
+        "id": 152186,
+        "matchday": 9,
+        "odds": null,
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 6,
+        "awayTeamName": "FC Schalke 04",
+        "competitionId": 430,
+        "date": "2016-10-29T16:30:00Z",
+        "homeTeamId": 4,
+        "homeTeamName": "Borussia Dortmund",
+        "id": 152179,
+        "matchday": 9,
+        "odds": null,
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 9,
+        "awayTeamName": "Hertha BSC",
+        "competitionId": 430,
+        "date": "2016-10-30T14:30:00Z",
+        "homeTeamId": 2,
+        "homeTeamName": "TSG 1899 Hoffenheim",
+        "id": 152182,
+        "matchday": 9,
+        "odds": {
+            "awayWin": 3.5,
+            "draw": 3.25,
+            "homeWin": 2.15
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 7,
+        "awayTeamName": "Hamburger SV",
+        "competitionId": 430,
+        "date": "2016-10-30T16:30:00Z",
+        "homeTeamId": 1,
+        "homeTeamName": "1. FC Köln",
+        "id": 152183,
+        "matchday": 9,
+        "odds": {
+            "awayWin": 5.8,
+            "draw": 4.0,
+            "homeWin": 1.55
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 3,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 18,
+        "awayTeamName": "Bor. Mönchengladbach",
+        "competitionId": 430,
+        "date": "2016-11-04T19:30:00Z",
+        "homeTeamId": 9,
+        "homeTeamName": "Hertha BSC",
+        "id": 152174,
+        "matchday": 10,
+        "odds": {
+            "awayWin": 2.75,
+            "draw": 3.25,
+            "homeWin": 2.6
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 3,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 2
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 55,
+        "awayTeamName": "SV Darmstadt 98",
+        "competitionId": 430,
+        "date": "2016-11-05T14:30:00Z",
+        "homeTeamId": 3,
+        "homeTeamName": "Bayer Leverkusen",
+        "id": 152169,
+        "matchday": 10,
+        "odds": {
+            "awayWin": 13.0,
+            "draw": 5.5,
+            "homeWin": 1.25
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 3,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 2,
+        "awayTeamName": "TSG 1899 Hoffenheim",
+        "competitionId": 430,
+        "date": "2016-11-05T14:30:00Z",
+        "homeTeamId": 5,
+        "homeTeamName": "FC Bayern München",
+        "id": 152170,
+        "matchday": 10,
+        "odds": {
+            "awayWin": 21.0,
+            "draw": 7.5,
+            "homeWin": 1.15
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 11,
+        "awayTeamName": "VfL Wolfsburg",
+        "competitionId": 430,
+        "date": "2016-11-05T14:30:00Z",
+        "homeTeamId": 17,
+        "homeTeamName": "SC Freiburg",
+        "id": 152172,
+        "matchday": 10,
+        "odds": {
+            "awayWin": 2.5,
+            "draw": 3.2,
+            "homeWin": 2.9
+        },
+        "result": {
+            "goalsAwayTeam": 3,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 4,
+        "awayTeamName": "Borussia Dortmund",
+        "competitionId": 430,
+        "date": "2016-11-05T14:30:00Z",
+        "homeTeamId": 7,
+        "homeTeamName": "Hamburger SV",
+        "id": 152173,
+        "matchday": 10,
+        "odds": {
+            "awayWin": 1.44,
+            "draw": 4.5,
+            "homeWin": 7.0
+        },
+        "result": {
+            "goalsAwayTeam": 5,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 3,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 16,
+        "awayTeamName": "FC Augsburg",
+        "competitionId": 430,
+        "date": "2016-11-05T14:30:00Z",
+        "homeTeamId": 31,
+        "homeTeamName": "FC Ingolstadt 04",
+        "id": 152175,
+        "matchday": 10,
+        "odds": {
+            "awayWin": 3.3,
+            "draw": 3.4,
+            "homeWin": 2.15
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 1,
+        "awayTeamName": "1. FC Köln",
+        "competitionId": 430,
+        "date": "2016-11-05T17:30:00Z",
+        "homeTeamId": 19,
+        "homeTeamName": "Eintracht Frankfurt",
+        "id": 152171,
+        "matchday": 10,
+        "odds": {
+            "awayWin": 2.8,
+            "draw": 3.25,
+            "homeWin": 2.6
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 15,
+        "awayTeamName": "1. FSV Mainz 05",
+        "competitionId": 430,
+        "date": "2016-11-06T14:30:00Z",
+        "homeTeamId": 721,
+        "homeTeamName": "Red Bull Leipzig",
+        "id": 152176,
+        "matchday": 10,
+        "odds": {
+            "awayWin": 5.0,
+            "draw": 3.8,
+            "homeWin": 1.65
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 3,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 3
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 12,
+        "awayTeamName": "Werder Bremen",
+        "competitionId": 430,
+        "date": "2016-11-06T16:30:00Z",
+        "homeTeamId": 6,
+        "homeTeamName": "FC Schalke 04",
+        "id": 152177,
+        "matchday": 10,
+        "odds": {
+            "awayWin": 6.0,
+            "draw": 4.0,
+            "homeWin": 1.55
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 3,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 2
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 721,
+        "awayTeamName": "Red Bull Leipzig",
+        "competitionId": 430,
+        "date": "2016-11-18T19:30:00Z",
+        "homeTeamId": 3,
+        "homeTeamName": "Bayer Leverkusen",
+        "id": 152161,
+        "matchday": 11,
+        "odds": null,
+        "result": {
+            "goalsAwayTeam": 3,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 2
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 31,
+        "awayTeamName": "FC Ingolstadt 04",
+        "competitionId": 430,
+        "date": "2016-11-19T14:30:00Z",
+        "homeTeamId": 55,
+        "homeTeamName": "SV Darmstadt 98",
+        "id": 152164,
+        "matchday": 11,
+        "odds": null,
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 17,
+        "awayTeamName": "SC Freiburg",
+        "competitionId": 430,
+        "date": "2016-11-19T14:30:00Z",
+        "homeTeamId": 15,
+        "homeTeamName": "1. FSV Mainz 05",
+        "id": 152166,
+        "matchday": 11,
+        "odds": null,
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 4,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 2
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 9,
+        "awayTeamName": "Hertha BSC",
+        "competitionId": 430,
+        "date": "2016-11-19T14:30:00Z",
+        "homeTeamId": 16,
+        "homeTeamName": "FC Augsburg",
+        "id": 152160,
+        "matchday": 11,
+        "odds": null,
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 6,
+        "awayTeamName": "FC Schalke 04",
+        "competitionId": 430,
+        "date": "2016-11-19T14:30:00Z",
+        "homeTeamId": 11,
+        "homeTeamName": "VfL Wolfsburg",
+        "id": 152168,
+        "matchday": 11,
+        "odds": null,
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 1,
+        "awayTeamName": "1. FC Köln",
+        "competitionId": 430,
+        "date": "2016-11-19T14:30:00Z",
+        "homeTeamId": 18,
+        "homeTeamName": "Bor. Mönchengladbach",
+        "id": 152163,
+        "matchday": 11,
+        "odds": {
+            "awayWin": 3.6,
+            "draw": 3.5,
+            "homeWin": 2.1
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 5,
+        "awayTeamName": "FC Bayern München",
+        "competitionId": 430,
+        "date": "2016-11-19T17:30:00Z",
+        "homeTeamId": 4,
+        "homeTeamName": "Borussia Dortmund",
+        "id": 152162,
+        "matchday": 11,
+        "odds": null,
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 7,
+        "awayTeamName": "Hamburger SV",
+        "competitionId": 430,
+        "date": "2016-11-20T14:30:00Z",
+        "homeTeamId": 2,
+        "homeTeamName": "TSG 1899 Hoffenheim",
+        "id": 152165,
+        "matchday": 11,
+        "odds": null,
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 19,
+        "awayTeamName": "Eintracht Frankfurt",
+        "competitionId": 430,
+        "date": "2016-11-20T16:30:00Z",
+        "homeTeamId": 12,
+        "homeTeamName": "Werder Bremen",
+        "id": 152167,
+        "matchday": 11,
+        "odds": null,
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 721,
+        "awayTeamName": "Red Bull Leipzig",
+        "competitionId": 430,
+        "date": "2016-11-25T19:30:00Z",
+        "homeTeamId": 17,
+        "homeTeamName": "SC Freiburg",
+        "id": 152154,
+        "matchday": 12,
+        "odds": null,
+        "result": {
+            "goalsAwayTeam": 4,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 3,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 16,
+        "awayTeamName": "FC Augsburg",
+        "competitionId": 430,
+        "date": "2016-11-26T14:30:00Z",
+        "homeTeamId": 1,
+        "homeTeamName": "1. FC Köln",
+        "id": 152158,
+        "matchday": 12,
+        "odds": {
+            "awayWin": 5.5,
+            "draw": 3.7,
+            "homeWin": 1.8
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 2,
+        "awayTeamName": "TSG 1899 Hoffenheim",
+        "competitionId": 430,
+        "date": "2016-11-26T14:30:00Z",
+        "homeTeamId": 18,
+        "homeTeamName": "Bor. Mönchengladbach",
+        "id": 152152,
+        "matchday": 12,
+        "odds": {
+            "awayWin": 3.8,
+            "draw": 3.7,
+            "homeWin": 2.05
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 4,
+        "awayTeamName": "Borussia Dortmund",
+        "competitionId": 430,
+        "date": "2016-11-26T14:30:00Z",
+        "homeTeamId": 19,
+        "homeTeamName": "Eintracht Frankfurt",
+        "id": 152153,
+        "matchday": 12,
+        "odds": {
+            "awayWin": 1.7,
+            "draw": 4.33,
+            "homeWin": 5.0
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 12,
+        "awayTeamName": "Werder Bremen",
+        "competitionId": 430,
+        "date": "2016-11-26T14:30:00Z",
+        "homeTeamId": 7,
+        "homeTeamName": "Hamburger SV",
+        "id": 152155,
+        "matchday": 12,
+        "odds": {
+            "awayWin": 3.2,
+            "draw": 3.4,
+            "homeWin": 2.45
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 2,
+                "goalsHomeTeam": 2
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 11,
+        "awayTeamName": "VfL Wolfsburg",
+        "competitionId": 430,
+        "date": "2016-11-26T14:30:00Z",
+        "homeTeamId": 31,
+        "homeTeamName": "FC Ingolstadt 04",
+        "id": 152157,
+        "matchday": 12,
+        "odds": {
+            "awayWin": 2.7,
+            "draw": 3.25,
+            "homeWin": 3.0
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 3,
+        "awayTeamName": "Bayer Leverkusen",
+        "competitionId": 430,
+        "date": "2016-11-26T17:30:00Z",
+        "homeTeamId": 5,
+        "homeTeamName": "FC Bayern München",
+        "id": 152151,
+        "matchday": 12,
+        "odds": {
+            "awayWin": 12.0,
+            "draw": 6.0,
+            "homeWin": 1.3
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 55,
+        "awayTeamName": "SV Darmstadt 98",
+        "competitionId": 430,
+        "date": "2016-11-27T14:30:00Z",
+        "homeTeamId": 6,
+        "homeTeamName": "FC Schalke 04",
+        "id": 152159,
+        "matchday": 12,
+        "odds": {
+            "awayWin": 12.0,
+            "draw": 4.8,
+            "homeWin": 1.36
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 3,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 15,
+        "awayTeamName": "1. FSV Mainz 05",
+        "competitionId": 430,
+        "date": "2016-11-27T16:30:00Z",
+        "homeTeamId": 9,
+        "homeTeamName": "Hertha BSC",
+        "id": 152156,
+        "matchday": 12,
+        "odds": {
+            "awayWin": 3.9,
+            "draw": 3.6,
+            "homeWin": 2.05
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 5,
+        "awayTeamName": "FC Bayern München",
+        "competitionId": 430,
+        "date": "2016-12-02T19:30:00Z",
+        "homeTeamId": 15,
+        "homeTeamName": "1. FSV Mainz 05",
+        "id": 152147,
+        "matchday": 13,
+        "odds": null,
+        "result": {
+            "goalsAwayTeam": 3,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 2,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 18,
+        "awayTeamName": "Bor. Mönchengladbach",
+        "competitionId": 430,
+        "date": "2016-12-03T14:30:00Z",
+        "homeTeamId": 4,
+        "homeTeamName": "Borussia Dortmund",
+        "id": 152144,
+        "matchday": 13,
+        "odds": {
+            "awayWin": 6.0,
+            "draw": 4.8,
+            "homeWin": 1.5
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 4,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 2
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 17,
+        "awayTeamName": "SC Freiburg",
+        "competitionId": 430,
+        "date": "2016-12-03T14:30:00Z",
+        "homeTeamId": 3,
+        "homeTeamName": "Bayer Leverkusen",
+        "id": 152143,
+        "matchday": 13,
+        "odds": {
+            "awayWin": 7.5,
+            "draw": 4.6,
+            "homeWin": 1.44
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 1,
+        "awayTeamName": "1. FC Köln",
+        "competitionId": 430,
+        "date": "2016-12-03T14:30:00Z",
+        "homeTeamId": 2,
+        "homeTeamName": "TSG 1899 Hoffenheim",
+        "id": 152146,
+        "matchday": 13,
+        "odds": {
+            "awayWin": 3.8,
+            "draw": 3.7,
+            "homeWin": 2.05
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 4,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 2
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 31,
+        "awayTeamName": "FC Ingolstadt 04",
+        "competitionId": 430,
+        "date": "2016-12-03T14:30:00Z",
+        "homeTeamId": 12,
+        "homeTeamName": "Werder Bremen",
+        "id": 152149,
+        "matchday": 13,
+        "odds": {
+            "awayWin": 3.1,
+            "draw": 3.5,
+            "homeWin": 2.45
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 9,
+        "awayTeamName": "Hertha BSC",
+        "competitionId": 430,
+        "date": "2016-12-03T14:30:00Z",
+        "homeTeamId": 11,
+        "homeTeamName": "VfL Wolfsburg",
+        "id": 152150,
+        "matchday": 13,
+        "odds": {
+            "awayWin": 3.6,
+            "draw": 3.4,
+            "homeWin": 2.25
+        },
+        "result": {
+            "goalsAwayTeam": 3,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 2
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 6,
+        "awayTeamName": "FC Schalke 04",
+        "competitionId": 430,
+        "date": "2016-12-03T17:30:00Z",
+        "homeTeamId": 721,
+        "homeTeamName": "Red Bull Leipzig",
+        "id": 152148,
+        "matchday": 13,
+        "odds": {
+            "awayWin": 4.2,
+            "draw": 3.4,
+            "homeWin": 2.05
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 7,
+        "awayTeamName": "Hamburger SV",
+        "competitionId": 430,
+        "date": "2016-12-04T14:30:00Z",
+        "homeTeamId": 55,
+        "homeTeamName": "SV Darmstadt 98",
+        "id": 152145,
+        "matchday": 13,
+        "odds": {
+            "awayWin": 2.8,
+            "draw": 3.1,
+            "homeWin": 2.8
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 19,
+        "awayTeamName": "Eintracht Frankfurt",
+        "competitionId": 430,
+        "date": "2016-12-04T16:30:00Z",
+        "homeTeamId": 16,
+        "homeTeamName": "FC Augsburg",
+        "id": 152142,
+        "matchday": 13,
+        "odds": {
+            "awayWin": 2.9,
+            "draw": 3.0,
+            "homeWin": 2.8
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 2,
+        "awayTeamName": "TSG 1899 Hoffenheim",
+        "competitionId": 430,
+        "date": "2016-12-09T19:30:00Z",
+        "homeTeamId": 19,
+        "homeTeamName": "Eintracht Frankfurt",
+        "id": 152135,
+        "matchday": 14,
+        "odds": {
+            "awayWin": 3.1,
+            "draw": 3.4,
+            "homeWin": 2.5
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 11,
+        "awayTeamName": "VfL Wolfsburg",
+        "competitionId": 430,
+        "date": "2016-12-10T14:30:00Z",
+        "homeTeamId": 5,
+        "homeTeamName": "FC Bayern München",
+        "id": 152133,
+        "matchday": 14,
+        "odds": {
+            "awayWin": 26.0,
+            "draw": 9.0,
+            "homeWin": 1.14
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 5,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 2
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 55,
+        "awayTeamName": "SV Darmstadt 98",
+        "competitionId": 430,
+        "date": "2016-12-10T14:30:00Z",
+        "homeTeamId": 17,
+        "homeTeamName": "SC Freiburg",
+        "id": 152136,
+        "matchday": 14,
+        "odds": {
+            "awayWin": 5.8,
+            "draw": 3.8,
+            "homeWin": 1.72
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 16,
+        "awayTeamName": "FC Augsburg",
+        "competitionId": 430,
+        "date": "2016-12-10T14:30:00Z",
+        "homeTeamId": 7,
+        "homeTeamName": "Hamburger SV",
+        "id": 152137,
+        "matchday": 14,
+        "odds": {
+            "awayWin": 3.4,
+            "draw": 3.3,
+            "homeWin": 2.37
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 721,
+        "awayTeamName": "Red Bull Leipzig",
+        "competitionId": 430,
+        "date": "2016-12-10T14:30:00Z",
+        "homeTeamId": 31,
+        "homeTeamName": "FC Ingolstadt 04",
+        "id": 152139,
+        "matchday": 14,
+        "odds": {
+            "awayWin": 1.85,
+            "draw": 3.75,
+            "homeWin": 4.75
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 4,
+        "awayTeamName": "Borussia Dortmund",
+        "competitionId": 430,
+        "date": "2016-12-10T14:30:00Z",
+        "homeTeamId": 1,
+        "homeTeamName": "1. FC Köln",
+        "id": 152140,
+        "matchday": 14,
+        "odds": {
+            "awayWin": 1.61,
+            "draw": 4.2,
+            "homeWin": 5.8
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 12,
+        "awayTeamName": "Werder Bremen",
+        "competitionId": 430,
+        "date": "2016-12-10T17:30:00Z",
+        "homeTeamId": 9,
+        "homeTeamName": "Hertha BSC",
+        "id": 152138,
+        "matchday": 14,
+        "odds": {
+            "awayWin": 5.0,
+            "draw": 3.9,
+            "homeWin": 1.75
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 15,
+        "awayTeamName": "1. FSV Mainz 05",
+        "competitionId": 430,
+        "date": "2016-12-11T14:30:00Z",
+        "homeTeamId": 18,
+        "homeTeamName": "Bor. Mönchengladbach",
+        "id": 152134,
+        "matchday": 14,
+        "odds": {
+            "awayWin": 5.0,
+            "draw": 3.8,
+            "homeWin": 1.75
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 3,
+        "awayTeamName": "Bayer Leverkusen",
+        "competitionId": 430,
+        "date": "2016-12-11T16:30:00Z",
+        "homeTeamId": 6,
+        "homeTeamName": "FC Schalke 04",
+        "id": 152141,
+        "matchday": 14,
+        "odds": {
+            "awayWin": 3.25,
+            "draw": 3.3,
+            "homeWin": 2.37
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 4,
+        "awayTeamName": "Borussia Dortmund",
+        "competitionId": 430,
+        "date": "2016-12-16T19:30:00Z",
+        "homeTeamId": 2,
+        "homeTeamName": "TSG 1899 Hoffenheim",
+        "id": 152127,
+        "matchday": 15,
+        "odds": {
+            "awayWin": 1.83,
+            "draw": 4.2,
+            "homeWin": 4.2
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 2
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 1,
+        "awayTeamName": "1. FC Köln",
+        "competitionId": 430,
+        "date": "2016-12-17T14:30:00Z",
+        "homeTeamId": 12,
+        "homeTeamName": "Werder Bremen",
+        "id": 152131,
+        "matchday": 15,
+        "odds": {
+            "awayWin": 2.75,
+            "draw": 3.5,
+            "homeWin": 2.62
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 17,
+        "awayTeamName": "SC Freiburg",
+        "competitionId": 430,
+        "date": "2016-12-17T14:30:00Z",
+        "homeTeamId": 6,
+        "homeTeamName": "FC Schalke 04",
+        "id": 152130,
+        "matchday": 15,
+        "odds": {
+            "awayWin": 5.5,
+            "draw": 4.0,
+            "homeWin": 1.66
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 9,
+        "awayTeamName": "Hertha BSC",
+        "competitionId": 430,
+        "date": "2016-12-17T14:30:00Z",
+        "homeTeamId": 721,
+        "homeTeamName": "Red Bull Leipzig",
+        "id": 152129,
+        "matchday": 15,
+        "odds": {
+            "awayWin": 6.0,
+            "draw": 3.9,
+            "homeWin": 1.65
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 7,
+        "awayTeamName": "Hamburger SV",
+        "competitionId": 430,
+        "date": "2016-12-17T14:30:00Z",
+        "homeTeamId": 15,
+        "homeTeamName": "1. FSV Mainz 05",
+        "id": 152128,
+        "matchday": 15,
+        "odds": {
+            "awayWin": 4.0,
+            "draw": 3.5,
+            "homeWin": 2.0
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 3,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 18,
+        "awayTeamName": "Bor. Mönchengladbach",
+        "competitionId": 430,
+        "date": "2016-12-17T14:30:00Z",
+        "homeTeamId": 16,
+        "homeTeamName": "FC Augsburg",
+        "id": 152124,
+        "matchday": 15,
+        "odds": {
+            "awayWin": 2.4,
+            "draw": 3.3,
+            "homeWin": 3.2
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 19,
+        "awayTeamName": "Eintracht Frankfurt",
+        "competitionId": 430,
+        "date": "2016-12-17T17:30:00Z",
+        "homeTeamId": 11,
+        "homeTeamName": "VfL Wolfsburg",
+        "id": 152132,
+        "matchday": 15,
+        "odds": {
+            "awayWin": 2.9,
+            "draw": 3.2,
+            "homeWin": 2.45
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 5,
+        "awayTeamName": "FC Bayern München",
+        "competitionId": 430,
+        "date": "2016-12-18T14:30:00Z",
+        "homeTeamId": 55,
+        "homeTeamName": "SV Darmstadt 98",
+        "id": 152126,
+        "matchday": 15,
+        "odds": {
+            "awayWin": 1.11,
+            "draw": 9.0,
+            "homeWin": 26.0
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 31,
+        "awayTeamName": "FC Ingolstadt 04",
+        "competitionId": 430,
+        "date": "2016-12-18T16:30:00Z",
+        "homeTeamId": 3,
+        "homeTeamName": "Bayer Leverkusen",
+        "id": 152125,
+        "matchday": 15,
+        "odds": {
+            "awayWin": 7.0,
+            "draw": 3.8,
+            "homeWin": 1.53
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 16,
+        "awayTeamName": "FC Augsburg",
+        "competitionId": 430,
+        "date": "2016-12-20T19:00:00Z",
+        "homeTeamId": 4,
+        "homeTeamName": "Borussia Dortmund",
+        "id": 152116,
+        "matchday": 16,
+        "odds": {
+            "awayWin": 15.0,
+            "draw": 5.8,
+            "homeWin": 1.22
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 11,
+        "awayTeamName": "VfL Wolfsburg",
+        "competitionId": 430,
+        "date": "2016-12-20T19:00:00Z",
+        "homeTeamId": 18,
+        "homeTeamName": "Bor. Mönchengladbach",
+        "id": 152117,
+        "matchday": 16,
+        "odds": {
+            "awayWin": 4.2,
+            "draw": 3.75,
+            "homeWin": 1.8
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 15,
+        "awayTeamName": "1. FSV Mainz 05",
+        "competitionId": 430,
+        "date": "2016-12-20T19:00:00Z",
+        "homeTeamId": 19,
+        "homeTeamName": "Eintracht Frankfurt",
+        "id": 152118,
+        "matchday": 16,
+        "odds": {
+            "awayWin": 3.5,
+            "draw": 3.4,
+            "homeWin": 2.1
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 3,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 6,
+        "awayTeamName": "FC Schalke 04",
+        "competitionId": 430,
+        "date": "2016-12-20T19:00:00Z",
+        "homeTeamId": 7,
+        "homeTeamName": "Hamburger SV",
+        "id": 152119,
+        "matchday": 16,
+        "odds": {
+            "awayWin": 2.15,
+            "draw": 3.4,
+            "homeWin": 3.3
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 721,
+        "awayTeamName": "Red Bull Leipzig",
+        "competitionId": 430,
+        "date": "2016-12-21T19:00:00Z",
+        "homeTeamId": 5,
+        "homeTeamName": "FC Bayern München",
+        "id": 152115,
+        "matchday": 16,
+        "odds": {
+            "awayWin": 11.0,
+            "draw": 5.0,
+            "homeWin": 1.3
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 3,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 3
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 55,
+        "awayTeamName": "SV Darmstadt 98",
+        "competitionId": 430,
+        "date": "2016-12-21T19:00:00Z",
+        "homeTeamId": 9,
+        "homeTeamName": "Hertha BSC",
+        "id": 152120,
+        "matchday": 16,
+        "odds": {
+            "awayWin": 7.0,
+            "draw": 4.0,
+            "homeWin": 1.5
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 12,
+        "awayTeamName": "Werder Bremen",
+        "competitionId": 430,
+        "date": "2016-12-21T19:00:00Z",
+        "homeTeamId": 2,
+        "homeTeamName": "TSG 1899 Hoffenheim",
+        "id": 152121,
+        "matchday": 16,
+        "odds": {
+            "awayWin": 5.0,
+            "draw": 3.9,
+            "homeWin": 1.65
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 17,
+        "awayTeamName": "SC Freiburg",
+        "competitionId": 430,
+        "date": "2016-12-21T19:00:00Z",
+        "homeTeamId": 31,
+        "homeTeamName": "FC Ingolstadt 04",
+        "id": 152122,
+        "matchday": 16,
+        "odds": {
+            "awayWin": 3.1,
+            "draw": 3.3,
+            "homeWin": 2.3
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 2,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 3,
+        "awayTeamName": "Bayer Leverkusen",
+        "competitionId": 430,
+        "date": "2016-12-21T19:00:00Z",
+        "homeTeamId": 1,
+        "homeTeamName": "1. FC Köln",
+        "id": 152123,
+        "matchday": 16,
+        "odds": {
+            "awayWin": 2.37,
+            "draw": 3.3,
+            "homeWin": 3.0
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 5,
+        "awayTeamName": "FC Bayern München",
+        "competitionId": 430,
+        "date": "2017-01-20T19:30:00Z",
+        "homeTeamId": 17,
+        "homeTeamName": "SC Freiburg",
+        "id": 152109,
+        "matchday": 17,
+        "odds": {
+            "awayWin": 1.22,
+            "draw": 5.8,
+            "homeWin": 17.0
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 18,
+        "awayTeamName": "Bor. Mönchengladbach",
+        "competitionId": 430,
+        "date": "2017-01-21T14:30:00Z",
+        "homeTeamId": 55,
+        "homeTeamName": "SV Darmstadt 98",
+        "id": 152108,
+        "matchday": 17,
+        "odds": {
+            "awayWin": 1.85,
+            "draw": 3.4,
+            "homeWin": 4.33
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 31,
+        "awayTeamName": "FC Ingolstadt 04",
+        "competitionId": 430,
+        "date": "2017-01-21T14:30:00Z",
+        "homeTeamId": 6,
+        "homeTeamName": "FC Schalke 04",
+        "id": 152112,
+        "matchday": 17,
+        "odds": {
+            "awayWin": 4.75,
+            "draw": 3.5,
+            "homeWin": 1.8
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 4,
+        "awayTeamName": "Borussia Dortmund",
+        "competitionId": 430,
+        "date": "2017-01-21T14:30:00Z",
+        "homeTeamId": 12,
+        "homeTeamName": "Werder Bremen",
+        "id": 152113,
+        "matchday": 17,
+        "odds": {
+            "awayWin": 1.44,
+            "draw": 4.33,
+            "homeWin": 7.0
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 7,
+        "awayTeamName": "Hamburger SV",
+        "competitionId": 430,
+        "date": "2017-01-21T14:30:00Z",
+        "homeTeamId": 11,
+        "homeTeamName": "VfL Wolfsburg",
+        "id": 152114,
+        "matchday": 17,
+        "odds": {
+            "awayWin": 3.9,
+            "draw": 3.4,
+            "homeWin": 1.95
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 2,
+        "awayTeamName": "TSG 1899 Hoffenheim",
+        "competitionId": 430,
+        "date": "2017-01-21T14:30:00Z",
+        "homeTeamId": 16,
+        "homeTeamName": "FC Augsburg",
+        "id": 152106,
+        "matchday": 17,
+        "odds": {
+            "awayWin": 2.5,
+            "draw": 3.1,
+            "homeWin": 2.87
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 19,
+        "awayTeamName": "Eintracht Frankfurt",
+        "competitionId": 430,
+        "date": "2017-01-21T17:30:00Z",
+        "homeTeamId": 721,
+        "homeTeamName": "Red Bull Leipzig",
+        "id": 152111,
+        "matchday": 17,
+        "odds": {
+            "awayWin": 5.0,
+            "draw": 3.5,
+            "homeWin": 1.75
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 3,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 2
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 9,
+        "awayTeamName": "Hertha BSC",
+        "competitionId": 430,
+        "date": "2017-01-22T14:30:00Z",
+        "homeTeamId": 3,
+        "homeTeamName": "Bayer Leverkusen",
+        "id": 152107,
+        "matchday": 17,
+        "odds": {
+            "awayWin": 5.5,
+            "draw": 3.5,
+            "homeWin": 1.7
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 3,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 2
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 1,
+        "awayTeamName": "1. FC Köln",
+        "competitionId": 430,
+        "date": "2017-01-22T16:30:00Z",
+        "homeTeamId": 15,
+        "homeTeamName": "1. FSV Mainz 05",
+        "id": 152110,
+        "matchday": 17,
+        "odds": {
+            "awayWin": 2.9,
+            "draw": 3.1,
+            "homeWin": 2.5
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 19,
+        "awayTeamName": "Eintracht Frankfurt",
+        "competitionId": 430,
+        "date": "2017-01-27T19:30:00Z",
+        "homeTeamId": 6,
+        "homeTeamName": "FC Schalke 04",
+        "id": 152103,
+        "matchday": 18,
+        "odds": {
+            "awayWin": 4.2,
+            "draw": 3.3,
+            "homeWin": 1.9
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 1,
+        "awayTeamName": "1. FC Köln",
+        "competitionId": 430,
+        "date": "2017-01-28T14:30:00Z",
+        "homeTeamId": 55,
+        "homeTeamName": "SV Darmstadt 98",
+        "id": 152098,
+        "matchday": 18,
+        "odds": {
+            "awayWin": 2.1,
+            "draw": 3.2,
+            "homeWin": 3.7
+        },
+        "result": {
+            "goalsAwayTeam": 6,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 3,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 7,
+        "awayTeamName": "Hamburger SV",
+        "competitionId": 430,
+        "date": "2017-01-28T14:30:00Z",
+        "homeTeamId": 31,
+        "homeTeamName": "FC Ingolstadt 04",
+        "id": 152100,
+        "matchday": 18,
+        "odds": {
+            "awayWin": 3.6,
+            "draw": 3.25,
+            "homeWin": 2.1
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 3,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 2
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 2,
+        "awayTeamName": "TSG 1899 Hoffenheim",
+        "competitionId": 430,
+        "date": "2017-01-28T14:30:00Z",
+        "homeTeamId": 721,
+        "homeTeamName": "Red Bull Leipzig",
+        "id": 152102,
+        "matchday": 18,
+        "odds": {
+            "awayWin": 4.8,
+            "draw": 3.3,
+            "homeWin": 1.8
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 16,
+        "awayTeamName": "FC Augsburg",
+        "competitionId": 430,
+        "date": "2017-01-28T14:30:00Z",
+        "homeTeamId": 11,
+        "homeTeamName": "VfL Wolfsburg",
+        "id": 152105,
+        "matchday": 18,
+        "odds": {
+            "awayWin": 3.8,
+            "draw": 3.4,
+            "homeWin": 2.0
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 5,
+        "awayTeamName": "FC Bayern München",
+        "competitionId": 430,
+        "date": "2017-01-28T14:30:00Z",
+        "homeTeamId": 12,
+        "homeTeamName": "Werder Bremen",
+        "id": 152104,
+        "matchday": 18,
+        "odds": {
+            "awayWin": 1.16,
+            "draw": 7.0,
+            "homeWin": 21.0
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 2,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 18,
+        "awayTeamName": "Bor. Mönchengladbach",
+        "competitionId": 430,
+        "date": "2017-01-28T17:30:00Z",
+        "homeTeamId": 3,
+        "homeTeamName": "Bayer Leverkusen",
+        "id": 152097,
+        "matchday": 18,
+        "odds": {
+            "awayWin": 4.2,
+            "draw": 3.5,
+            "homeWin": 1.85
+        },
+        "result": {
+            "goalsAwayTeam": 3,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 2
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 9,
+        "awayTeamName": "Hertha BSC",
+        "competitionId": 430,
+        "date": "2017-01-29T14:30:00Z",
+        "homeTeamId": 17,
+        "homeTeamName": "SC Freiburg",
+        "id": 152099,
+        "matchday": 18,
+        "odds": {
+            "awayWin": 3.1,
+            "draw": 3.2,
+            "homeWin": 2.4
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 4,
+        "awayTeamName": "Borussia Dortmund",
+        "competitionId": 430,
+        "date": "2017-01-29T16:30:00Z",
+        "homeTeamId": 15,
+        "homeTeamName": "1. FSV Mainz 05",
+        "id": 152101,
+        "matchday": 18,
+        "odds": {
+            "awayWin": 1.6,
+            "draw": 3.75,
+            "homeWin": 5.8
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 3,
+        "awayTeamName": "Bayer Leverkusen",
+        "competitionId": 430,
+        "date": "2017-02-03T19:30:00Z",
+        "homeTeamId": 7,
+        "homeTeamName": "Hamburger SV",
+        "id": 152093,
+        "matchday": 19,
+        "odds": {
+            "awayWin": 2.05,
+            "draw": 3.5,
+            "homeWin": 3.4
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 15,
+        "awayTeamName": "1. FSV Mainz 05",
+        "competitionId": 430,
+        "date": "2017-02-04T14:30:00Z",
+        "homeTeamId": 2,
+        "homeTeamName": "TSG 1899 Hoffenheim",
+        "id": 152095,
+        "matchday": 19,
+        "odds": {
+            "awayWin": 3.9,
+            "draw": 3.6,
+            "homeWin": 1.9
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 4,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 6,
+        "awayTeamName": "FC Schalke 04",
+        "competitionId": 430,
+        "date": "2017-02-04T14:30:00Z",
+        "homeTeamId": 5,
+        "homeTeamName": "FC Bayern München",
+        "id": 152089,
+        "matchday": 19,
+        "odds": {
+            "awayWin": 17.0,
+            "draw": 6.5,
+            "homeWin": 1.2
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 17,
+        "awayTeamName": "SC Freiburg",
+        "competitionId": 430,
+        "date": "2017-02-04T14:30:00Z",
+        "homeTeamId": 18,
+        "homeTeamName": "Bor. Mönchengladbach",
+        "id": 152091,
+        "matchday": 19,
+        "odds": {
+            "awayWin": 4.2,
+            "draw": 3.8,
+            "homeWin": 1.8
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 3,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 11,
+        "awayTeamName": "VfL Wolfsburg",
+        "competitionId": 430,
+        "date": "2017-02-04T14:30:00Z",
+        "homeTeamId": 1,
+        "homeTeamName": "1. FC Köln",
+        "id": 152096,
+        "matchday": 19,
+        "odds": {
+            "awayWin": 3.25,
+            "draw": 3.3,
+            "homeWin": 2.2
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 31,
+        "awayTeamName": "FC Ingolstadt 04",
+        "competitionId": 430,
+        "date": "2017-02-04T14:30:00Z",
+        "homeTeamId": 9,
+        "homeTeamName": "Hertha BSC",
+        "id": 152094,
+        "matchday": 19,
+        "odds": {
+            "awayWin": 3.6,
+            "draw": 3.5,
+            "homeWin": 2.0
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 721,
+        "awayTeamName": "Red Bull Leipzig",
+        "competitionId": 430,
+        "date": "2017-02-04T17:30:00Z",
+        "homeTeamId": 4,
+        "homeTeamName": "Borussia Dortmund",
+        "id": 152090,
+        "matchday": 19,
+        "odds": {
+            "awayWin": 4.2,
+            "draw": 3.8,
+            "homeWin": 1.8
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 12,
+        "awayTeamName": "Werder Bremen",
+        "competitionId": 430,
+        "date": "2017-02-05T14:30:00Z",
+        "homeTeamId": 16,
+        "homeTeamName": "FC Augsburg",
+        "id": 152088,
+        "matchday": 19,
+        "odds": {
+            "awayWin": 3.1,
+            "draw": 3.4,
+            "homeWin": 2.25
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 3,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 55,
+        "awayTeamName": "SV Darmstadt 98",
+        "competitionId": 430,
+        "date": "2017-02-05T16:30:00Z",
+        "homeTeamId": 19,
+        "homeTeamName": "Eintracht Frankfurt",
+        "id": 152092,
+        "matchday": 19,
+        "odds": {
+            "awayWin": 5.5,
+            "draw": 3.8,
+            "homeWin": 1.65
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 16,
+        "awayTeamName": "FC Augsburg",
+        "competitionId": 430,
+        "date": "2017-02-10T19:30:00Z",
+        "homeTeamId": 15,
+        "homeTeamName": "1. FSV Mainz 05",
+        "id": 152083,
+        "matchday": 20,
+        "odds": {
+            "awayWin": 3.5,
+            "draw": 3.3,
+            "homeWin": 2.15
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 19,
+        "awayTeamName": "Eintracht Frankfurt",
+        "competitionId": 430,
+        "date": "2017-02-11T14:30:00Z",
+        "homeTeamId": 3,
+        "homeTeamName": "Bayer Leverkusen",
+        "id": 152079,
+        "matchday": 20,
+        "odds": {
+            "awayWin": 4.33,
+            "draw": 3.8,
+            "homeWin": 1.75
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 3,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 4,
+        "awayTeamName": "Borussia Dortmund",
+        "competitionId": 430,
+        "date": "2017-02-11T14:30:00Z",
+        "homeTeamId": 55,
+        "homeTeamName": "SV Darmstadt 98",
+        "id": 152080,
+        "matchday": 20,
+        "odds": {
+            "awayWin": 1.33,
+            "draw": 4.8,
+            "homeWin": 11.0
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 5,
+        "awayTeamName": "FC Bayern München",
+        "competitionId": 430,
+        "date": "2017-02-11T14:30:00Z",
+        "homeTeamId": 31,
+        "homeTeamName": "FC Ingolstadt 04",
+        "id": 152082,
+        "matchday": 20,
+        "odds": {
+            "awayWin": 1.25,
+            "draw": 5.0,
+            "homeWin": 15.0
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 7,
+        "awayTeamName": "Hamburger SV",
+        "competitionId": 430,
+        "date": "2017-02-11T14:30:00Z",
+        "homeTeamId": 721,
+        "homeTeamName": "Red Bull Leipzig",
+        "id": 152084,
+        "matchday": 20,
+        "odds": {
+            "awayWin": 7.0,
+            "draw": 4.5,
+            "homeWin": 1.44
+        },
+        "result": {
+            "goalsAwayTeam": 3,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 2,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 18,
+        "awayTeamName": "Bor. Mönchengladbach",
+        "competitionId": 430,
+        "date": "2017-02-11T14:30:00Z",
+        "homeTeamId": 12,
+        "homeTeamName": "Werder Bremen",
+        "id": 152086,
+        "matchday": 20,
+        "odds": {
+            "awayWin": 2.4,
+            "draw": 3.3,
+            "homeWin": 2.9
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 9,
+        "awayTeamName": "Hertha BSC",
+        "competitionId": 430,
+        "date": "2017-02-11T17:30:00Z",
+        "homeTeamId": 6,
+        "homeTeamName": "FC Schalke 04",
+        "id": 152085,
+        "matchday": 20,
+        "odds": {
+            "awayWin": 3.75,
+            "draw": 3.5,
+            "homeWin": 1.95
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 2,
+        "awayTeamName": "TSG 1899 Hoffenheim",
+        "competitionId": 430,
+        "date": "2017-02-12T14:30:00Z",
+        "homeTeamId": 11,
+        "homeTeamName": "VfL Wolfsburg",
+        "id": 152087,
+        "matchday": 20,
+        "odds": {
+            "awayWin": 2.87,
+            "draw": 3.4,
+            "homeWin": 2.37
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 1,
+        "awayTeamName": "1. FC Köln",
+        "competitionId": 430,
+        "date": "2017-02-12T16:30:00Z",
+        "homeTeamId": 17,
+        "homeTeamName": "SC Freiburg",
+        "id": 152081,
+        "matchday": 20,
+        "odds": {
+            "awayWin": 2.87,
+            "draw": 3.2,
+            "homeWin": 2.5
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 3,
+        "awayTeamName": "Bayer Leverkusen",
+        "competitionId": 430,
+        "date": "2017-02-17T19:30:00Z",
+        "homeTeamId": 16,
+        "homeTeamName": "FC Augsburg",
+        "id": 152070,
+        "matchday": 21,
+        "odds": {
+            "awayWin": 2.37,
+            "draw": 3.1,
+            "homeWin": 3.2
+        },
+        "result": {
+            "goalsAwayTeam": 3,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 2,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 12,
+        "awayTeamName": "Werder Bremen",
+        "competitionId": 430,
+        "date": "2017-02-18T14:30:00Z",
+        "homeTeamId": 15,
+        "homeTeamName": "1. FSV Mainz 05",
+        "id": 152078,
+        "matchday": 21,
+        "odds": {
+            "awayWin": 3.9,
+            "draw": 3.3,
+            "homeWin": 2.0
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 2,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 55,
+        "awayTeamName": "SV Darmstadt 98",
+        "competitionId": 430,
+        "date": "2017-02-18T14:30:00Z",
+        "homeTeamId": 2,
+        "homeTeamName": "TSG 1899 Hoffenheim",
+        "id": 152076,
+        "matchday": 21,
+        "odds": {
+            "awayWin": 7.5,
+            "draw": 4.2,
+            "homeWin": 1.44
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 5,
+        "awayTeamName": "FC Bayern München",
+        "competitionId": 430,
+        "date": "2017-02-18T14:30:00Z",
+        "homeTeamId": 9,
+        "homeTeamName": "Hertha BSC",
+        "id": 152075,
+        "matchday": 21,
+        "odds": {
+            "awayWin": 1.44,
+            "draw": 4.0,
+            "homeWin": 9.0
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 31,
+        "awayTeamName": "FC Ingolstadt 04",
+        "competitionId": 430,
+        "date": "2017-02-18T14:30:00Z",
+        "homeTeamId": 19,
+        "homeTeamName": "Eintracht Frankfurt",
+        "id": 152073,
+        "matchday": 21,
+        "odds": {
+            "awayWin": 3.7,
+            "draw": 3.2,
+            "homeWin": 2.1
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 11,
+        "awayTeamName": "VfL Wolfsburg",
+        "competitionId": 430,
+        "date": "2017-02-18T14:30:00Z",
+        "homeTeamId": 4,
+        "homeTeamName": "Borussia Dortmund",
+        "id": 152071,
+        "matchday": 21,
+        "odds": {
+            "awayWin": 8.0,
+            "draw": 4.33,
+            "homeWin": 1.44
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 3,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 17,
+        "awayTeamName": "SC Freiburg",
+        "competitionId": 430,
+        "date": "2017-02-18T17:30:00Z",
+        "homeTeamId": 7,
+        "homeTeamName": "Hamburger SV",
+        "id": 152074,
+        "matchday": 21,
+        "odds": {
+            "awayWin": 3.5,
+            "draw": 3.4,
+            "homeWin": 2.1
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 721,
+        "awayTeamName": "Red Bull Leipzig",
+        "competitionId": 430,
+        "date": "2017-02-19T14:30:00Z",
+        "homeTeamId": 18,
+        "homeTeamName": "Bor. Mönchengladbach",
+        "id": 152072,
+        "matchday": 21,
+        "odds": {
+            "awayWin": 2.8,
+            "draw": 3.1,
+            "homeWin": 2.6
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 6,
+        "awayTeamName": "FC Schalke 04",
+        "competitionId": 430,
+        "date": "2017-02-19T16:30:00Z",
+        "homeTeamId": 1,
+        "homeTeamName": "1. FC Köln",
+        "id": 152077,
+        "matchday": 21,
+        "odds": {
+            "awayWin": 2.9,
+            "draw": 3.1,
+            "homeWin": 2.5
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 12,
+        "awayTeamName": "Werder Bremen",
+        "competitionId": 430,
+        "date": "2017-02-24T19:30:00Z",
+        "homeTeamId": 11,
+        "homeTeamName": "VfL Wolfsburg",
+        "id": 152069,
+        "matchday": 22,
+        "odds": {
+            "awayWin": 3.8,
+            "draw": 3.7,
+            "homeWin": 1.9
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 2,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 1,
+        "awayTeamName": "1. FC Köln",
+        "competitionId": 430,
+        "date": "2017-02-25T14:30:00Z",
+        "homeTeamId": 721,
+        "homeTeamName": "Red Bull Leipzig",
+        "id": 152067,
+        "matchday": 22,
+        "odds": {
+            "awayWin": 4.5,
+            "draw": 3.8,
+            "homeWin": 1.75
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 3,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 2
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 15,
+        "awayTeamName": "1. FSV Mainz 05",
+        "competitionId": 430,
+        "date": "2017-02-25T14:30:00Z",
+        "homeTeamId": 3,
+        "homeTeamName": "Bayer Leverkusen",
+        "id": 152061,
+        "matchday": 22,
+        "odds": {
+            "awayWin": 4.8,
+            "draw": 4.0,
+            "homeWin": 1.66
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 2,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 7,
+        "awayTeamName": "Hamburger SV",
+        "competitionId": 430,
+        "date": "2017-02-25T14:30:00Z",
+        "homeTeamId": 5,
+        "homeTeamName": "FC Bayern München",
+        "id": 152062,
+        "matchday": 22,
+        "odds": {
+            "awayWin": 23.0,
+            "draw": 6.5,
+            "homeWin": 1.16
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 8,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 3
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 16,
+        "awayTeamName": "FC Augsburg",
+        "competitionId": 430,
+        "date": "2017-02-25T14:30:00Z",
+        "homeTeamId": 55,
+        "homeTeamName": "SV Darmstadt 98",
+        "id": 152063,
+        "matchday": 22,
+        "odds": {
+            "awayWin": 2.6,
+            "draw": 3.1,
+            "homeWin": 2.87
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 4,
+        "awayTeamName": "Borussia Dortmund",
+        "competitionId": 430,
+        "date": "2017-02-25T14:30:00Z",
+        "homeTeamId": 17,
+        "homeTeamName": "SC Freiburg",
+        "id": 152064,
+        "matchday": 22,
+        "odds": {
+            "awayWin": 1.5,
+            "draw": 4.2,
+            "homeWin": 6.5
+        },
+        "result": {
+            "goalsAwayTeam": 3,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 19,
+        "awayTeamName": "Eintracht Frankfurt",
+        "competitionId": 430,
+        "date": "2017-02-25T17:30:00Z",
+        "homeTeamId": 9,
+        "homeTeamName": "Hertha BSC",
+        "id": 152065,
+        "matchday": 22,
+        "odds": {
+            "awayWin": 3.5,
+            "draw": 3.3,
+            "homeWin": 2.1
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 18,
+        "awayTeamName": "Bor. Mönchengladbach",
+        "competitionId": 430,
+        "date": "2017-02-26T14:30:00Z",
+        "homeTeamId": 31,
+        "homeTeamName": "FC Ingolstadt 04",
+        "id": 152066,
+        "matchday": 22,
+        "odds": {
+            "awayWin": 2.75,
+            "draw": 3.0,
+            "homeWin": 2.75
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 2,
+        "awayTeamName": "TSG 1899 Hoffenheim",
+        "competitionId": 430,
+        "date": "2017-02-26T16:30:00Z",
+        "homeTeamId": 6,
+        "homeTeamName": "FC Schalke 04",
+        "id": 152068,
+        "matchday": 22,
+        "odds": {
+            "awayWin": 3.6,
+            "draw": 3.5,
+            "homeWin": 2.05
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 721,
+        "awayTeamName": "Red Bull Leipzig",
+        "competitionId": 430,
+        "date": "2017-03-03T19:30:00Z",
+        "homeTeamId": 16,
+        "homeTeamName": "FC Augsburg",
+        "id": 152052,
+        "matchday": 23,
+        "odds": {
+            "awayWin": 2.05,
+            "draw": 3.5,
+            "homeWin": 3.5
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 3,
+        "awayTeamName": "Bayer Leverkusen",
+        "competitionId": 430,
+        "date": "2017-03-04T14:30:00Z",
+        "homeTeamId": 4,
+        "homeTeamName": "Borussia Dortmund",
+        "id": 152053,
+        "matchday": 23,
+        "odds": {
+            "awayWin": 5.0,
+            "draw": 3.9,
+            "homeWin": 1.66
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 6,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 2
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 31,
+        "awayTeamName": "FC Ingolstadt 04",
+        "competitionId": 430,
+        "date": "2017-03-04T14:30:00Z",
+        "homeTeamId": 2,
+        "homeTeamName": "TSG 1899 Hoffenheim",
+        "id": 152057,
+        "matchday": 23,
+        "odds": {
+            "awayWin": 4.2,
+            "draw": 3.75,
+            "homeWin": 1.8
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 5,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 5,
+        "awayTeamName": "FC Bayern München",
+        "competitionId": 430,
+        "date": "2017-03-04T14:30:00Z",
+        "homeTeamId": 1,
+        "homeTeamName": "1. FC Köln",
+        "id": 152058,
+        "matchday": 23,
+        "odds": {
+            "awayWin": 1.57,
+            "draw": 4.0,
+            "homeWin": 5.5
+        },
+        "result": {
+            "goalsAwayTeam": 3,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 11,
+        "awayTeamName": "VfL Wolfsburg",
+        "competitionId": 430,
+        "date": "2017-03-04T14:30:00Z",
+        "homeTeamId": 15,
+        "homeTeamName": "1. FSV Mainz 05",
+        "id": 152059,
+        "matchday": 23,
+        "odds": {
+            "awayWin": 3.25,
+            "draw": 3.4,
+            "homeWin": 2.15
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 55,
+        "awayTeamName": "SV Darmstadt 98",
+        "competitionId": 430,
+        "date": "2017-03-04T14:30:00Z",
+        "homeTeamId": 12,
+        "homeTeamName": "Werder Bremen",
+        "id": 152060,
+        "matchday": 23,
+        "odds": {
+            "awayWin": 4.33,
+            "draw": 3.9,
+            "homeWin": 1.75
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 6,
+        "awayTeamName": "FC Schalke 04",
+        "competitionId": 430,
+        "date": "2017-03-04T17:30:00Z",
+        "homeTeamId": 18,
+        "homeTeamName": "Bor. Mönchengladbach",
+        "id": 152054,
+        "matchday": 23,
+        "odds": {
+            "awayWin": 2.75,
+            "draw": 3.4,
+            "homeWin": 2.5
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 4,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 17,
+        "awayTeamName": "SC Freiburg",
+        "competitionId": 430,
+        "date": "2017-03-05T14:30:00Z",
+        "homeTeamId": 19,
+        "homeTeamName": "Eintracht Frankfurt",
+        "id": 152055,
+        "matchday": 23,
+        "odds": {
+            "awayWin": 3.9,
+            "draw": 3.5,
+            "homeWin": 1.95
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 9,
+        "awayTeamName": "Hertha BSC",
+        "competitionId": 430,
+        "date": "2017-03-05T16:30:00Z",
+        "homeTeamId": 7,
+        "homeTeamName": "Hamburger SV",
+        "id": 152056,
+        "matchday": 23,
+        "odds": {
+            "awayWin": 2.9,
+            "draw": 3.3,
+            "homeWin": 2.45
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 1
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 12,
+        "awayTeamName": "Werder Bremen",
+        "competitionId": 430,
+        "date": "2017-03-10T19:30:00Z",
+        "homeTeamId": 3,
+        "homeTeamName": "Bayer Leverkusen",
+        "id": 152043,
+        "matchday": 24,
+        "odds": {
+            "awayWin": 5.0,
+            "draw": 3.8,
+            "homeWin": 1.66
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 11,
+        "awayTeamName": "VfL Wolfsburg",
+        "competitionId": 430,
+        "date": "2017-03-11T14:30:00Z",
+        "homeTeamId": 721,
+        "homeTeamName": "Red Bull Leipzig",
+        "id": 152050,
+        "matchday": 24,
+        "odds": {
+            "awayWin": 5.8,
+            "draw": 3.9,
+            "homeWin": 1.57
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 0
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 15,
+        "awayTeamName": "1. FSV Mainz 05",
+        "competitionId": 430,
+        "date": "2017-03-11T14:30:00Z",
+        "homeTeamId": 55,
+        "homeTeamName": "SV Darmstadt 98",
+        "id": 152045,
+        "matchday": 24,
+        "odds": {
+            "awayWin": 2.3,
+            "draw": 3.2,
+            "homeWin": 3.25
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 2
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 2,
+        "awayTeamName": "TSG 1899 Hoffenheim",
+        "competitionId": 430,
+        "date": "2017-03-11T14:30:00Z",
+        "homeTeamId": 17,
+        "homeTeamName": "SC Freiburg",
+        "id": 152046,
+        "matchday": 24,
+        "odds": {
+            "awayWin": 2.4,
+            "draw": 3.2,
+            "homeWin": 3.0
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 4,
+        "awayTeamName": "Borussia Dortmund",
+        "competitionId": 430,
+        "date": "2017-03-11T15:30:00Z",
+        "homeTeamId": 9,
+        "homeTeamName": "Hertha BSC",
+        "id": 152048,
+        "matchday": 24,
+        "odds": {
+            "awayWin": 1.66,
+            "draw": 3.7,
+            "homeWin": 5.5
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 19,
+        "awayTeamName": "Eintracht Frankfurt",
+        "competitionId": 430,
+        "date": "2017-03-11T15:30:00Z",
+        "homeTeamId": 5,
+        "homeTeamName": "FC Bayern München",
+        "id": 152044,
+        "matchday": 24,
+        "odds": {
+            "awayWin": 34.0,
+            "draw": 8.5,
+            "homeWin": 1.11
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 3,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 2
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 1,
+        "awayTeamName": "1. FC Köln",
+        "competitionId": 430,
+        "date": "2017-03-11T18:30:00Z",
+        "homeTeamId": 31,
+        "homeTeamName": "FC Ingolstadt 04",
+        "id": 152049,
+        "matchday": 24,
+        "odds": {
+            "awayWin": 2.9,
+            "draw": 3.1,
+            "homeWin": 2.5
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 16,
+        "awayTeamName": "FC Augsburg",
+        "competitionId": 430,
+        "date": "2017-03-12T15:30:00Z",
+        "homeTeamId": 6,
+        "homeTeamName": "FC Schalke 04",
+        "id": 152051,
+        "matchday": 24,
+        "odds": {
+            "awayWin": 4.6,
+            "draw": 3.5,
+            "homeWin": 1.8
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 3,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 3
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 18,
+        "awayTeamName": "Bor. Mönchengladbach",
+        "competitionId": 430,
+        "date": "2017-03-12T17:30:00Z",
+        "homeTeamId": 7,
+        "homeTeamName": "Hamburger SV",
+        "id": 152047,
+        "matchday": 24,
+        "odds": {
+            "awayWin": 2.5,
+            "draw": 3.2,
+            "homeWin": 2.8
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 31,
+        "awayTeamName": "FC Ingolstadt 04",
+        "competitionId": 430,
+        "date": "2017-03-17T20:30:00Z",
+        "homeTeamId": 4,
+        "homeTeamName": "Borussia Dortmund",
+        "id": 152035,
+        "matchday": 25,
+        "odds": null,
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 17,
+        "awayTeamName": "SC Freiburg",
+        "competitionId": 430,
+        "date": "2017-03-18T15:30:00Z",
+        "homeTeamId": 16,
+        "homeTeamName": "FC Augsburg",
+        "id": 152034,
+        "matchday": 25,
+        "odds": {
+            "awayWin": 3.25,
+            "draw": 3.4,
+            "homeWin": 2.37
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 3,
+        "awayTeamName": "Bayer Leverkusen",
+        "competitionId": 430,
+        "date": "2017-03-18T15:30:00Z",
+        "homeTeamId": 2,
+        "homeTeamName": "TSG 1899 Hoffenheim",
+        "id": 152038,
+        "matchday": 25,
+        "odds": {
+            "awayWin": 3.8,
+            "draw": 3.6,
+            "homeWin": 2.05
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 9,
+        "awayTeamName": "Hertha BSC",
+        "competitionId": 430,
+        "date": "2017-03-18T15:30:00Z",
+        "homeTeamId": 1,
+        "homeTeamName": "1. FC Köln",
+        "id": 152039,
+        "matchday": 25,
+        "odds": {
+            "awayWin": 3.3,
+            "draw": 3.25,
+            "homeWin": 2.45
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 4,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 3
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 721,
+        "awayTeamName": "Red Bull Leipzig",
+        "competitionId": 430,
+        "date": "2017-03-18T15:30:00Z",
+        "homeTeamId": 12,
+        "homeTeamName": "Werder Bremen",
+        "id": 152041,
+        "matchday": 25,
+        "odds": {
+            "awayWin": 2.3,
+            "draw": 3.5,
+            "homeWin": 3.4
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 3,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 55,
+        "awayTeamName": "SV Darmstadt 98",
+        "competitionId": 430,
+        "date": "2017-03-18T15:30:00Z",
+        "homeTeamId": 11,
+        "homeTeamName": "VfL Wolfsburg",
+        "id": 152042,
+        "matchday": 25,
+        "odds": {
+            "awayWin": 7.5,
+            "draw": 4.2,
+            "homeWin": 1.53
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 7,
+        "awayTeamName": "Hamburger SV",
+        "competitionId": 430,
+        "date": "2017-03-18T18:30:00Z",
+        "homeTeamId": 19,
+        "homeTeamName": "Eintracht Frankfurt",
+        "id": 152037,
+        "matchday": 25,
+        "odds": {
+            "awayWin": 3.6,
+            "draw": 3.3,
+            "homeWin": 2.25
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 6,
+        "awayTeamName": "FC Schalke 04",
+        "competitionId": 430,
+        "date": "2017-03-19T15:30:00Z",
+        "homeTeamId": 15,
+        "homeTeamName": "1. FSV Mainz 05",
+        "id": 152040,
+        "matchday": 25,
+        "odds": {
+            "awayWin": 2.75,
+            "draw": 3.25,
+            "homeWin": 2.8
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 5,
+        "awayTeamName": "FC Bayern München",
+        "competitionId": 430,
+        "date": "2017-03-19T17:30:00Z",
+        "homeTeamId": 18,
+        "homeTeamName": "Bor. Mönchengladbach",
+        "id": 152036,
+        "matchday": 25,
+        "odds": {
+            "awayWin": 1.44,
+            "draw": 4.8,
+            "homeWin": 8.5
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 2,
+        "awayTeamName": "TSG 1899 Hoffenheim",
+        "competitionId": 430,
+        "date": "2017-03-31T18:30:00Z",
+        "homeTeamId": 9,
+        "homeTeamName": "Hertha BSC",
+        "id": 152030,
+        "matchday": 26,
+        "odds": {
+            "awayWin": 2.75,
+            "draw": 3.3,
+            "homeWin": 2.8
+        },
+        "result": {
+            "goalsAwayTeam": 3,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 55,
+        "awayTeamName": "SV Darmstadt 98",
+        "competitionId": 430,
+        "date": "2017-04-01T13:30:00Z",
+        "homeTeamId": 721,
+        "homeTeamName": "Red Bull Leipzig",
+        "id": 152032,
+        "matchday": 26,
+        "odds": {
+            "awayWin": 11.0,
+            "draw": 4.8,
+            "homeWin": 1.36
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 4,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 16,
+        "awayTeamName": "FC Augsburg",
+        "competitionId": 430,
+        "date": "2017-04-01T13:30:00Z",
+        "homeTeamId": 5,
+        "homeTeamName": "FC Bayern München",
+        "id": 152026,
+        "matchday": 26,
+        "odds": {
+            "awayWin": 26.0,
+            "draw": 11.0,
+            "homeWin": 1.11
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 6,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 2
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 4,
+        "awayTeamName": "Borussia Dortmund",
+        "competitionId": 430,
+        "date": "2017-04-01T13:30:00Z",
+        "homeTeamId": 6,
+        "homeTeamName": "FC Schalke 04",
+        "id": 152033,
+        "matchday": 26,
+        "odds": {
+            "awayWin": 2.05,
+            "draw": 3.6,
+            "homeWin": 3.8
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 1,
+        "awayTeamName": "1. FC Köln",
+        "competitionId": 430,
+        "date": "2017-04-01T13:30:00Z",
+        "homeTeamId": 7,
+        "homeTeamName": "Hamburger SV",
+        "id": 152029,
+        "matchday": 26,
+        "odds": {
+            "awayWin": 3.25,
+            "draw": 3.3,
+            "homeWin": 2.37
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 12,
+        "awayTeamName": "Werder Bremen",
+        "competitionId": 430,
+        "date": "2017-04-01T13:30:00Z",
+        "homeTeamId": 17,
+        "homeTeamName": "SC Freiburg",
+        "id": 152028,
+        "matchday": 26,
+        "odds": {
+            "awayWin": 3.4,
+            "draw": 3.4,
+            "homeWin": 2.3
+        },
+        "result": {
+            "goalsAwayTeam": 5,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 2,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 18,
+        "awayTeamName": "Bor. Mönchengladbach",
+        "competitionId": 430,
+        "date": "2017-04-01T16:30:00Z",
+        "homeTeamId": 19,
+        "homeTeamName": "Eintracht Frankfurt",
+        "id": 152027,
+        "matchday": 26,
+        "odds": {
+            "awayWin": 2.9,
+            "draw": 3.3,
+            "homeWin": 2.6
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 15,
+        "awayTeamName": "1. FSV Mainz 05",
+        "competitionId": 430,
+        "date": "2017-04-02T13:30:00Z",
+        "homeTeamId": 31,
+        "homeTeamName": "FC Ingolstadt 04",
+        "id": 152031,
+        "matchday": 26,
+        "odds": {
+            "awayWin": 3.5,
+            "draw": 3.3,
+            "homeWin": 2.15
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 11,
+        "awayTeamName": "VfL Wolfsburg",
+        "competitionId": 430,
+        "date": "2017-04-02T15:30:00Z",
+        "homeTeamId": 3,
+        "homeTeamName": "Bayer Leverkusen",
+        "id": 152025,
+        "matchday": 26,
+        "odds": {
+            "awayWin": 4.4,
+            "draw": 3.5,
+            "homeWin": 1.83
+        },
+        "result": {
+            "goalsAwayTeam": 3,
+            "goalsHomeTeam": 3,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 7,
+        "awayTeamName": "Hamburger SV",
+        "competitionId": 430,
+        "date": "2017-04-04T18:00:00Z",
+        "homeTeamId": 4,
+        "homeTeamName": "Borussia Dortmund",
+        "id": 152017,
+        "matchday": 27,
+        "odds": {
+            "awayWin": 11.0,
+            "draw": 5.5,
+            "homeWin": 1.28
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 3,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 5,
+        "awayTeamName": "FC Bayern München",
+        "competitionId": 430,
+        "date": "2017-04-04T18:00:00Z",
+        "homeTeamId": 2,
+        "homeTeamName": "TSG 1899 Hoffenheim",
+        "id": 152020,
+        "matchday": 27,
+        "odds": {
+            "awayWin": 1.5,
+            "draw": 4.4,
+            "homeWin": 6.0
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 19,
+        "awayTeamName": "Eintracht Frankfurt",
+        "competitionId": 430,
+        "date": "2017-04-04T18:00:00Z",
+        "homeTeamId": 1,
+        "homeTeamName": "1. FC Köln",
+        "id": 152021,
+        "matchday": 27,
+        "odds": {
+            "awayWin": 3.3,
+            "draw": 3.4,
+            "homeWin": 2.2
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 6,
+        "awayTeamName": "FC Schalke 04",
+        "competitionId": 430,
+        "date": "2017-04-04T18:00:00Z",
+        "homeTeamId": 12,
+        "homeTeamName": "Werder Bremen",
+        "id": 152023,
+        "matchday": 27,
+        "odds": {
+            "awayWin": 2.3,
+            "draw": 3.3,
+            "homeWin": 3.0
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 3,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 721,
+        "awayTeamName": "Red Bull Leipzig",
+        "competitionId": 430,
+        "date": "2017-04-05T18:00:00Z",
+        "homeTeamId": 15,
+        "homeTeamName": "1. FSV Mainz 05",
+        "id": 152022,
+        "matchday": 27,
+        "odds": {
+            "awayWin": 2.37,
+            "draw": 3.4,
+            "homeWin": 2.9
+        },
+        "result": {
+            "goalsAwayTeam": 3,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 3,
+        "awayTeamName": "Bayer Leverkusen",
+        "competitionId": 430,
+        "date": "2017-04-05T18:00:00Z",
+        "homeTeamId": 55,
+        "homeTeamName": "SV Darmstadt 98",
+        "id": 152019,
+        "matchday": 27,
+        "odds": {
+            "awayWin": 1.72,
+            "draw": 3.8,
+            "homeWin": 4.6
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 9,
+        "awayTeamName": "Hertha BSC",
+        "competitionId": 430,
+        "date": "2017-04-05T18:00:00Z",
+        "homeTeamId": 18,
+        "homeTeamName": "Bor. Mönchengladbach",
+        "id": 152018,
+        "matchday": 27,
+        "odds": {
+            "awayWin": 4.0,
+            "draw": 3.5,
+            "homeWin": 1.9
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 17,
+        "awayTeamName": "SC Freiburg",
+        "competitionId": 430,
+        "date": "2017-04-05T18:00:00Z",
+        "homeTeamId": 11,
+        "homeTeamName": "VfL Wolfsburg",
+        "id": 152024,
+        "matchday": 27,
+        "odds": {
+            "awayWin": 4.2,
+            "draw": 3.6,
+            "homeWin": 1.85
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 31,
+        "awayTeamName": "FC Ingolstadt 04",
+        "competitionId": 430,
+        "date": "2017-04-05T18:00:00Z",
+        "homeTeamId": 16,
+        "homeTeamName": "FC Augsburg",
+        "id": 152016,
+        "matchday": 27,
+        "odds": {
+            "awayWin": 2.9,
+            "draw": 3.25,
+            "homeWin": 2.45
+        },
+        "result": {
+            "goalsAwayTeam": 3,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 2,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 12,
+        "awayTeamName": "Werder Bremen",
+        "competitionId": 430,
+        "date": "2017-04-07T18:30:00Z",
+        "homeTeamId": 19,
+        "homeTeamName": "Eintracht Frankfurt",
+        "id": 152008,
+        "matchday": 28,
+        "odds": {
+            "awayWin": 3.2,
+            "draw": 3.4,
+            "homeWin": 2.25
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 2,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 2,
+        "awayTeamName": "TSG 1899 Hoffenheim",
+        "competitionId": 430,
+        "date": "2017-04-08T13:30:00Z",
+        "homeTeamId": 7,
+        "homeTeamName": "Hamburger SV",
+        "id": 152010,
+        "matchday": 28,
+        "odds": {
+            "awayWin": 2.5,
+            "draw": 3.25,
+            "homeWin": 2.87
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 18,
+        "awayTeamName": "Bor. Mönchengladbach",
+        "competitionId": 430,
+        "date": "2017-04-08T13:30:00Z",
+        "homeTeamId": 1,
+        "homeTeamName": "1. FC Köln",
+        "id": 152013,
+        "matchday": 28,
+        "odds": {
+            "awayWin": 2.8,
+            "draw": 3.3,
+            "homeWin": 2.5
+        },
+        "result": {
+            "goalsAwayTeam": 3,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 3,
+        "awayTeamName": "Bayer Leverkusen",
+        "competitionId": 430,
+        "date": "2017-04-08T13:30:00Z",
+        "homeTeamId": 721,
+        "homeTeamName": "Red Bull Leipzig",
+        "id": 152014,
+        "matchday": 28,
+        "odds": {
+            "awayWin": 3.3,
+            "draw": 3.5,
+            "homeWin": 2.1
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 11,
+        "awayTeamName": "VfL Wolfsburg",
+        "competitionId": 430,
+        "date": "2017-04-08T13:30:00Z",
+        "homeTeamId": 6,
+        "homeTeamName": "FC Schalke 04",
+        "id": 152015,
+        "matchday": 28,
+        "odds": {
+            "awayWin": 4.5,
+            "draw": 3.5,
+            "homeWin": 1.8
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 4,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 2
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 15,
+        "awayTeamName": "1. FSV Mainz 05",
+        "competitionId": 430,
+        "date": "2017-04-08T13:30:00Z",
+        "homeTeamId": 17,
+        "homeTeamName": "SC Freiburg",
+        "id": 152009,
+        "matchday": 28,
+        "odds": {
+            "awayWin": 2.9,
+            "draw": 3.4,
+            "homeWin": 2.37
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 4,
+        "awayTeamName": "Borussia Dortmund",
+        "competitionId": 430,
+        "date": "2017-04-08T16:30:00Z",
+        "homeTeamId": 5,
+        "homeTeamName": "FC Bayern München",
+        "id": 152007,
+        "matchday": 28,
+        "odds": {
+            "awayWin": 5.5,
+            "draw": 4.5,
+            "homeWin": 1.53
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 4,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 2
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 16,
+        "awayTeamName": "FC Augsburg",
+        "competitionId": 430,
+        "date": "2017-04-09T13:30:00Z",
+        "homeTeamId": 9,
+        "homeTeamName": "Hertha BSC",
+        "id": 152011,
+        "matchday": 28,
+        "odds": {
+            "awayWin": 4.6,
+            "draw": 3.5,
+            "homeWin": 1.8
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 2
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 55,
+        "awayTeamName": "SV Darmstadt 98",
+        "competitionId": 430,
+        "date": "2017-04-09T15:30:00Z",
+        "homeTeamId": 31,
+        "homeTeamName": "FC Ingolstadt 04",
+        "id": 152012,
+        "matchday": 28,
+        "odds": {
+            "awayWin": 5.5,
+            "draw": 3.7,
+            "homeWin": 1.66
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 3,
+            "halfTime": {
+                "goalsAwayTeam": 2,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 31,
+        "awayTeamName": "FC Ingolstadt 04",
+        "competitionId": 430,
+        "date": "2017-04-15T13:30:00Z",
+        "homeTeamId": 11,
+        "homeTeamName": "VfL Wolfsburg",
+        "id": 152006,
+        "matchday": 29,
+        "odds": {
+            "awayWin": 4.0,
+            "draw": 3.6,
+            "homeWin": 1.9
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 3,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 1,
+        "awayTeamName": "1. FC Köln",
+        "competitionId": 430,
+        "date": "2017-04-15T13:30:00Z",
+        "homeTeamId": 16,
+        "homeTeamName": "FC Augsburg",
+        "id": 151998,
+        "matchday": 29,
+        "odds": {
+            "awayWin": 2.6,
+            "draw": 3.1,
+            "homeWin": 2.8
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 2
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 17,
+        "awayTeamName": "SC Freiburg",
+        "competitionId": 430,
+        "date": "2017-04-15T13:30:00Z",
+        "homeTeamId": 721,
+        "homeTeamName": "Red Bull Leipzig",
+        "id": 152004,
+        "matchday": 29,
+        "odds": {
+            "awayWin": 8.0,
+            "draw": 4.33,
+            "homeWin": 1.44
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 4,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 2
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 9,
+        "awayTeamName": "Hertha BSC",
+        "competitionId": 430,
+        "date": "2017-04-15T13:30:00Z",
+        "homeTeamId": 15,
+        "homeTeamName": "1. FSV Mainz 05",
+        "id": 152003,
+        "matchday": 29,
+        "odds": {
+            "awayWin": 3.2,
+            "draw": 3.2,
+            "homeWin": 2.3
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 18,
+        "awayTeamName": "Bor. Mönchengladbach",
+        "competitionId": 430,
+        "date": "2017-04-15T13:30:00Z",
+        "homeTeamId": 2,
+        "homeTeamName": "TSG 1899 Hoffenheim",
+        "id": 152002,
+        "matchday": 29,
+        "odds": {
+            "awayWin": 3.75,
+            "draw": 3.4,
+            "homeWin": 2.0
+        },
+        "result": {
+            "goalsAwayTeam": 3,
+            "goalsHomeTeam": 5,
+            "halfTime": {
+                "goalsAwayTeam": 2,
+                "goalsHomeTeam": 2
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 19,
+        "awayTeamName": "Eintracht Frankfurt",
+        "competitionId": 430,
+        "date": "2017-04-15T13:30:00Z",
+        "homeTeamId": 4,
+        "homeTeamName": "Borussia Dortmund",
+        "id": 152000,
+        "matchday": 29,
+        "odds": {
+            "awayWin": 13.0,
+            "draw": 4.8,
+            "homeWin": 1.3
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 3,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 2
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 5,
+        "awayTeamName": "FC Bayern München",
+        "competitionId": 430,
+        "date": "2017-04-15T16:30:00Z",
+        "homeTeamId": 3,
+        "homeTeamName": "Bayer Leverkusen",
+        "id": 151999,
+        "matchday": 29,
+        "odds": {
+            "awayWin": 1.5,
+            "draw": 4.5,
+            "homeWin": 5.8
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 7,
+        "awayTeamName": "Hamburger SV",
+        "competitionId": 430,
+        "date": "2017-04-16T13:30:00Z",
+        "homeTeamId": 12,
+        "homeTeamName": "Werder Bremen",
+        "id": 152005,
+        "matchday": 29,
+        "odds": {
+            "awayWin": 3.25,
+            "draw": 3.4,
+            "homeWin": 2.15
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 6,
+        "awayTeamName": "FC Schalke 04",
+        "competitionId": 430,
+        "date": "2017-04-16T15:30:00Z",
+        "homeTeamId": 55,
+        "homeTeamName": "SV Darmstadt 98",
+        "id": 152001,
+        "matchday": 29,
+        "odds": {
+            "awayWin": 1.7,
+            "draw": 3.9,
+            "homeWin": 4.75
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 2,
+        "awayTeamName": "TSG 1899 Hoffenheim",
+        "competitionId": 430,
+        "date": "2017-04-21T18:30:00Z",
+        "homeTeamId": 1,
+        "homeTeamName": "1. FC Köln",
+        "id": 151996,
+        "matchday": 30,
+        "odds": {
+            "awayWin": 2.5,
+            "draw": 3.3,
+            "homeWin": 2.8
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 16,
+        "awayTeamName": "FC Augsburg",
+        "competitionId": 430,
+        "date": "2017-04-22T13:30:00Z",
+        "homeTeamId": 19,
+        "homeTeamName": "Eintracht Frankfurt",
+        "id": 151991,
+        "matchday": 30,
+        "odds": {
+            "awayWin": 4.2,
+            "draw": 3.4,
+            "homeWin": 1.9
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 3,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 15,
+        "awayTeamName": "1. FSV Mainz 05",
+        "competitionId": 430,
+        "date": "2017-04-22T13:30:00Z",
+        "homeTeamId": 5,
+        "homeTeamName": "FC Bayern München",
+        "id": 151989,
+        "matchday": 30,
+        "odds": {
+            "awayWin": 34.0,
+            "draw": 9.0,
+            "homeWin": 1.11
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 2,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 12,
+        "awayTeamName": "Werder Bremen",
+        "competitionId": 430,
+        "date": "2017-04-22T13:30:00Z",
+        "homeTeamId": 31,
+        "homeTeamName": "FC Ingolstadt 04",
+        "id": 151995,
+        "matchday": 30,
+        "odds": {
+            "awayWin": 3.3,
+            "draw": 3.4,
+            "homeWin": 2.2
+        },
+        "result": {
+            "goalsAwayTeam": 4,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 11,
+        "awayTeamName": "VfL Wolfsburg",
+        "competitionId": 430,
+        "date": "2017-04-22T13:30:00Z",
+        "homeTeamId": 9,
+        "homeTeamName": "Hertha BSC",
+        "id": 151994,
+        "matchday": 30,
+        "odds": {
+            "awayWin": 3.0,
+            "draw": 3.4,
+            "homeWin": 2.37
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 55,
+        "awayTeamName": "SV Darmstadt 98",
+        "competitionId": 430,
+        "date": "2017-04-22T13:30:00Z",
+        "homeTeamId": 7,
+        "homeTeamName": "Hamburger SV",
+        "id": 151993,
+        "matchday": 30,
+        "odds": {
+            "awayWin": 6.5,
+            "draw": 4.2,
+            "homeWin": 1.5
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 4,
+        "awayTeamName": "Borussia Dortmund",
+        "competitionId": 430,
+        "date": "2017-04-22T16:30:00Z",
+        "homeTeamId": 18,
+        "homeTeamName": "Bor. Mönchengladbach",
+        "id": 151990,
+        "matchday": 30,
+        "odds": {
+            "awayWin": 1.9,
+            "draw": 3.6,
+            "homeWin": 4.0
+        },
+        "result": {
+            "goalsAwayTeam": 3,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 3,
+        "awayTeamName": "Bayer Leverkusen",
+        "competitionId": 430,
+        "date": "2017-04-23T13:30:00Z",
+        "homeTeamId": 17,
+        "homeTeamName": "SC Freiburg",
+        "id": 151992,
+        "matchday": 30,
+        "odds": {
+            "awayWin": 2.2,
+            "draw": 3.4,
+            "homeWin": 3.2
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 721,
+        "awayTeamName": "Red Bull Leipzig",
+        "competitionId": 430,
+        "date": "2017-04-23T15:30:00Z",
+        "homeTeamId": 6,
+        "homeTeamName": "FC Schalke 04",
+        "id": 151997,
+        "matchday": 30,
+        "odds": {
+            "awayWin": 2.62,
+            "draw": 3.3,
+            "homeWin": 2.62
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 6,
+        "awayTeamName": "FC Schalke 04",
+        "competitionId": 430,
+        "date": "2017-04-28T18:30:00Z",
+        "homeTeamId": 3,
+        "homeTeamName": "Bayer Leverkusen",
+        "id": 151981,
+        "matchday": 31,
+        "odds": null,
+        "result": {
+            "goalsAwayTeam": 4,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 3,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 1,
+        "awayTeamName": "1. FC Köln",
+        "competitionId": 430,
+        "date": "2017-04-29T13:30:00Z",
+        "homeTeamId": 4,
+        "homeTeamName": "Borussia Dortmund",
+        "id": 151982,
+        "matchday": 31,
+        "odds": {
+            "awayWin": 11.0,
+            "draw": 6.5,
+            "homeWin": 1.3
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 17,
+        "awayTeamName": "SC Freiburg",
+        "competitionId": 430,
+        "date": "2017-04-29T13:30:00Z",
+        "homeTeamId": 55,
+        "homeTeamName": "SV Darmstadt 98",
+        "id": 151983,
+        "matchday": 31,
+        "odds": {
+            "awayWin": 2.15,
+            "draw": 3.6,
+            "homeWin": 3.6
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 3,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 2
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 18,
+        "awayTeamName": "Bor. Mönchengladbach",
+        "competitionId": 430,
+        "date": "2017-04-29T13:30:00Z",
+        "homeTeamId": 15,
+        "homeTeamName": "1. FSV Mainz 05",
+        "id": 151985,
+        "matchday": 31,
+        "odds": {
+            "awayWin": 3.9,
+            "draw": 3.6,
+            "homeWin": 2.05
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 31,
+        "awayTeamName": "FC Ingolstadt 04",
+        "competitionId": 430,
+        "date": "2017-04-29T13:30:00Z",
+        "homeTeamId": 721,
+        "homeTeamName": "Red Bull Leipzig",
+        "id": 151986,
+        "matchday": 31,
+        "odds": {
+            "awayWin": 6.5,
+            "draw": 4.4,
+            "homeWin": 1.55
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 9,
+        "awayTeamName": "Hertha BSC",
+        "competitionId": 430,
+        "date": "2017-04-29T13:30:00Z",
+        "homeTeamId": 12,
+        "homeTeamName": "Werder Bremen",
+        "id": 151987,
+        "matchday": 31,
+        "odds": {
+            "awayWin": 4.75,
+            "draw": 4.0,
+            "homeWin": 1.8
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 2
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 5,
+        "awayTeamName": "FC Bayern München",
+        "competitionId": 430,
+        "date": "2017-04-29T16:30:00Z",
+        "homeTeamId": 11,
+        "homeTeamName": "VfL Wolfsburg",
+        "id": 151988,
+        "matchday": 31,
+        "odds": {
+            "awayWin": 1.44,
+            "draw": 4.8,
+            "homeWin": 7.5
+        },
+        "result": {
+            "goalsAwayTeam": 6,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 3,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 7,
+        "awayTeamName": "Hamburger SV",
+        "competitionId": 430,
+        "date": "2017-04-30T13:30:00Z",
+        "homeTeamId": 16,
+        "homeTeamName": "FC Augsburg",
+        "id": 151980,
+        "matchday": 31,
+        "odds": {
+            "awayWin": 2.9,
+            "draw": 3.3,
+            "homeWin": 2.6
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 4,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 2
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 19,
+        "awayTeamName": "Eintracht Frankfurt",
+        "competitionId": 430,
+        "date": "2017-04-30T15:30:00Z",
+        "homeTeamId": 2,
+        "homeTeamName": "TSG 1899 Hoffenheim",
+        "id": 151984,
+        "matchday": 31,
+        "odds": {
+            "awayWin": 6.0,
+            "draw": 4.2,
+            "homeWin": 1.6
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 12,
+        "awayTeamName": "Werder Bremen",
+        "competitionId": 430,
+        "date": "2017-05-05T18:30:00Z",
+        "homeTeamId": 1,
+        "homeTeamName": "1. FC Köln",
+        "id": 151979,
+        "matchday": 32,
+        "odds": {
+            "awayWin": 2.87,
+            "draw": 3.6,
+            "homeWin": 2.3
+        },
+        "result": {
+            "goalsAwayTeam": 3,
+            "goalsHomeTeam": 4,
+            "halfTime": {
+                "goalsAwayTeam": 2,
+                "goalsHomeTeam": 3
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 2,
+        "awayTeamName": "TSG 1899 Hoffenheim",
+        "competitionId": 430,
+        "date": "2017-05-06T13:30:00Z",
+        "homeTeamId": 4,
+        "homeTeamName": "Borussia Dortmund",
+        "id": 151972,
+        "matchday": 32,
+        "odds": {
+            "awayWin": 5.8,
+            "draw": 4.4,
+            "homeWin": 1.53
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 55,
+        "awayTeamName": "SV Darmstadt 98",
+        "competitionId": 430,
+        "date": "2017-05-06T13:30:00Z",
+        "homeTeamId": 5,
+        "homeTeamName": "FC Bayern München",
+        "id": 151971,
+        "matchday": 32,
+        "odds": {
+            "awayWin": 51.0,
+            "draw": 17.0,
+            "homeWin": 1.04
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 16,
+        "awayTeamName": "FC Augsburg",
+        "competitionId": 430,
+        "date": "2017-05-06T13:30:00Z",
+        "homeTeamId": 18,
+        "homeTeamName": "Bor. Mönchengladbach",
+        "id": 151973,
+        "matchday": 32,
+        "odds": {
+            "awayWin": 4.75,
+            "draw": 3.9,
+            "homeWin": 1.7
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 11,
+        "awayTeamName": "VfL Wolfsburg",
+        "competitionId": 430,
+        "date": "2017-05-06T13:30:00Z",
+        "homeTeamId": 19,
+        "homeTeamName": "Eintracht Frankfurt",
+        "id": 151974,
+        "matchday": 32,
+        "odds": {
+            "awayWin": 2.87,
+            "draw": 3.25,
+            "homeWin": 2.5
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 3,
+        "awayTeamName": "Bayer Leverkusen",
+        "competitionId": 430,
+        "date": "2017-05-06T13:30:00Z",
+        "homeTeamId": 31,
+        "homeTeamName": "FC Ingolstadt 04",
+        "id": 151978,
+        "matchday": 32,
+        "odds": {
+            "awayWin": 2.6,
+            "draw": 3.5,
+            "homeWin": 2.62
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 721,
+        "awayTeamName": "Red Bull Leipzig",
+        "competitionId": 430,
+        "date": "2017-05-06T16:30:00Z",
+        "homeTeamId": 9,
+        "homeTeamName": "Hertha BSC",
+        "id": 151977,
+        "matchday": 32,
+        "odds": {
+            "awayWin": 2.2,
+            "draw": 3.3,
+            "homeWin": 3.25
+        },
+        "result": {
+            "goalsAwayTeam": 4,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 15,
+        "awayTeamName": "1. FSV Mainz 05",
+        "competitionId": 430,
+        "date": "2017-05-07T13:30:00Z",
+        "homeTeamId": 7,
+        "homeTeamName": "Hamburger SV",
+        "id": 151976,
+        "matchday": 32,
+        "odds": {
+            "awayWin": 3.1,
+            "draw": 3.4,
+            "homeWin": 2.25
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 6,
+        "awayTeamName": "FC Schalke 04",
+        "competitionId": 430,
+        "date": "2017-05-07T15:30:00Z",
+        "homeTeamId": 17,
+        "homeTeamName": "SC Freiburg",
+        "id": 151975,
+        "matchday": 32,
+        "odds": {
+            "awayWin": 2.2,
+            "draw": 3.4,
+            "homeWin": 3.2
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 2
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 18,
+        "awayTeamName": "Bor. Mönchengladbach",
+        "competitionId": 430,
+        "date": "2017-05-13T13:30:00Z",
+        "homeTeamId": 11,
+        "homeTeamName": "VfL Wolfsburg",
+        "id": 151970,
+        "matchday": 33,
+        "odds": {
+            "awayWin": 3.9,
+            "draw": 3.6,
+            "homeWin": 1.9
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 1,
+        "awayTeamName": "1. FC Köln",
+        "competitionId": 430,
+        "date": "2017-05-13T13:30:00Z",
+        "homeTeamId": 3,
+        "homeTeamName": "Bayer Leverkusen",
+        "id": 151963,
+        "matchday": 33,
+        "odds": {
+            "awayWin": 3.75,
+            "draw": 3.5,
+            "homeWin": 1.95
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 4,
+        "awayTeamName": "Borussia Dortmund",
+        "competitionId": 430,
+        "date": "2017-05-13T13:30:00Z",
+        "homeTeamId": 16,
+        "homeTeamName": "FC Augsburg",
+        "id": 151962,
+        "matchday": 33,
+        "odds": {
+            "awayWin": 1.4,
+            "draw": 4.6,
+            "homeWin": 8.0
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 9,
+        "awayTeamName": "Hertha BSC",
+        "competitionId": 430,
+        "date": "2017-05-13T13:30:00Z",
+        "homeTeamId": 55,
+        "homeTeamName": "SV Darmstadt 98",
+        "id": 151964,
+        "matchday": 33,
+        "odds": {
+            "awayWin": 2.0,
+            "draw": 3.5,
+            "homeWin": 3.6
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 2,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 31,
+        "awayTeamName": "FC Ingolstadt 04",
+        "competitionId": 430,
+        "date": "2017-05-13T13:30:00Z",
+        "homeTeamId": 17,
+        "homeTeamName": "SC Freiburg",
+        "id": 151965,
+        "matchday": 33,
+        "odds": {
+            "awayWin": 2.87,
+            "draw": 3.5,
+            "homeWin": 2.4
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 19,
+        "awayTeamName": "Eintracht Frankfurt",
+        "competitionId": 430,
+        "date": "2017-05-13T13:30:00Z",
+        "homeTeamId": 15,
+        "homeTeamName": "1. FSV Mainz 05",
+        "id": 151966,
+        "matchday": 33,
+        "odds": {
+            "awayWin": 4.75,
+            "draw": 3.75,
+            "homeWin": 1.72
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 4,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 5,
+        "awayTeamName": "FC Bayern München",
+        "competitionId": 430,
+        "date": "2017-05-13T13:30:00Z",
+        "homeTeamId": 721,
+        "homeTeamName": "Red Bull Leipzig",
+        "id": 151967,
+        "matchday": 33,
+        "odds": {
+            "awayWin": 1.83,
+            "draw": 3.6,
+            "homeWin": 4.2
+        },
+        "result": {
+            "goalsAwayTeam": 5,
+            "goalsHomeTeam": 4,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 2
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 7,
+        "awayTeamName": "Hamburger SV",
+        "competitionId": 430,
+        "date": "2017-05-13T13:30:00Z",
+        "homeTeamId": 6,
+        "homeTeamName": "FC Schalke 04",
+        "id": 151968,
+        "matchday": 33,
+        "odds": {
+            "awayWin": 3.4,
+            "draw": 3.5,
+            "homeWin": 2.05
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 2,
+        "awayTeamName": "TSG 1899 Hoffenheim",
+        "competitionId": 430,
+        "date": "2017-05-13T13:30:00Z",
+        "homeTeamId": 12,
+        "homeTeamName": "Werder Bremen",
+        "id": 151969,
+        "matchday": 33,
+        "odds": {
+            "awayWin": 2.37,
+            "draw": 3.4,
+            "homeWin": 3.0
+        },
+        "result": {
+            "goalsAwayTeam": 5,
+            "goalsHomeTeam": 3,
+            "halfTime": {
+                "goalsAwayTeam": 3,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 12,
+        "awayTeamName": "Werder Bremen",
+        "competitionId": 430,
+        "date": "2017-05-20T13:30:00Z",
+        "homeTeamId": 4,
+        "homeTeamName": "Borussia Dortmund",
+        "id": 151954,
+        "matchday": 34,
+        "odds": {
+            "awayWin": 13.0,
+            "draw": 7.0,
+            "homeWin": 1.18
+        },
+        "result": {
+            "goalsAwayTeam": 3,
+            "goalsHomeTeam": 4,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 2
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 55,
+        "awayTeamName": "SV Darmstadt 98",
+        "competitionId": 430,
+        "date": "2017-05-20T13:30:00Z",
+        "homeTeamId": 18,
+        "homeTeamName": "Bor. Mönchengladbach",
+        "id": 151955,
+        "matchday": 34,
+        "odds": {
+            "awayWin": 9.0,
+            "draw": 5.0,
+            "homeWin": 1.35
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 721,
+        "awayTeamName": "Red Bull Leipzig",
+        "competitionId": 430,
+        "date": "2017-05-20T13:30:00Z",
+        "homeTeamId": 19,
+        "homeTeamName": "Eintracht Frankfurt",
+        "id": 151956,
+        "matchday": 34,
+        "odds": {
+            "awayWin": 1.9,
+            "draw": 3.7,
+            "homeWin": 3.9
+        },
+        "result": {
+            "goalsAwayTeam": 2,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 11,
+        "awayTeamName": "VfL Wolfsburg",
+        "competitionId": 430,
+        "date": "2017-05-20T13:30:00Z",
+        "homeTeamId": 7,
+        "homeTeamName": "Hamburger SV",
+        "id": 151957,
+        "matchday": 34,
+        "odds": {
+            "awayWin": 2.75,
+            "draw": 3.1,
+            "homeWin": 2.7
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 3,
+        "awayTeamName": "Bayer Leverkusen",
+        "competitionId": 430,
+        "date": "2017-05-20T13:30:00Z",
+        "homeTeamId": 9,
+        "homeTeamName": "Hertha BSC",
+        "id": 151958,
+        "matchday": 34,
+        "odds": {
+            "awayWin": 3.5,
+            "draw": 3.4,
+            "homeWin": 2.1
+        },
+        "result": {
+            "goalsAwayTeam": 6,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 3,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 16,
+        "awayTeamName": "FC Augsburg",
+        "competitionId": 430,
+        "date": "2017-05-20T13:30:00Z",
+        "homeTeamId": 2,
+        "homeTeamName": "TSG 1899 Hoffenheim",
+        "id": 151959,
+        "matchday": 34,
+        "odds": {
+            "awayWin": 8.0,
+            "draw": 5.0,
+            "homeWin": 1.35
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 0,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 0
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 6,
+        "awayTeamName": "FC Schalke 04",
+        "competitionId": 430,
+        "date": "2017-05-20T13:30:00Z",
+        "homeTeamId": 31,
+        "homeTeamName": "FC Ingolstadt 04",
+        "id": 151960,
+        "matchday": 34,
+        "odds": {
+            "awayWin": 2.6,
+            "draw": 3.25,
+            "homeWin": 2.75
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 1,
+            "halfTime": {
+                "goalsAwayTeam": 1,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 17,
+        "awayTeamName": "SC Freiburg",
+        "competitionId": 430,
+        "date": "2017-05-20T13:30:00Z",
+        "homeTeamId": 5,
+        "homeTeamName": "FC Bayern München",
+        "id": 151953,
+        "matchday": 34,
+        "odds": {
+            "awayWin": 17.0,
+            "draw": 8.0,
+            "homeWin": 1.15
+        },
+        "result": {
+            "goalsAwayTeam": 1,
+            "goalsHomeTeam": 4
+        },
+        "status": "FINISHED"
+    },
+    {
+        "awayTeamId": 15,
+        "awayTeamName": "1. FSV Mainz 05",
+        "competitionId": 430,
+        "date": "2017-05-20T13:30:00Z",
+        "homeTeamId": 1,
+        "homeTeamName": "1. FC Köln",
+        "id": 151961,
+        "matchday": 34,
+        "odds": {
+            "awayWin": 5.5,
+            "draw": 4.0,
+            "homeWin": 1.57
+        },
+        "result": {
+            "goalsAwayTeam": 0,
+            "goalsHomeTeam": 2,
+            "halfTime": {
+                "goalsAwayTeam": 0,
+                "goalsHomeTeam": 1
+            }
+        },
+        "status": "FINISHED"
+    }
+]
